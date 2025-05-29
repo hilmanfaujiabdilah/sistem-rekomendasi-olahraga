@@ -1,0 +1,2101 @@
+id_user,umur,jenis_kelamin,tinggi_badan,berat_badan,target_berat,aktivitas_harian,rutin_olahraga,ngemil_malam,jam_tidur,motivasi
+1,38,laki-laki,173.8,80.1,69.6,sedang,jarang,sering,4,Menurunkan Berat Badan
+2,57,laki-laki,190.2,114.8,101.8,sedang,sering,sering,6,Menurunkan Berat Badan
+3,64,laki-laki,186.6,88.6,74.3,sedang,tidak pernah,sering,6,Menurunkan Berat Badan
+4,32,laki-laki,165,70.8,61.3,rendah,tidak pernah,jarang,8,Menjaga Kesehatan
+5,43,laki-laki,193.6,95,85,rendah,tidak pernah,sering,4,Menurunkan Berat Badan
+6,58,laki-laki,172,87,79.9,sedang,sering,jarang,7,Menurunkan Berat Badan
+7,37,laki-laki,161.9,74.6,56.5,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+8,20,laki-laki,168.6,74.6,69.9,rendah,tidak pernah,jarang,6,Menurunkan Berat Badan
+9,49,laki-laki,177.8,91.8,74.8,rendah,sering,jarang,7,Menurunkan Berat Badan
+10,56,laki-laki,173.7,68.6,68.9,rendah,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+11,56,laki-laki,180.8,80.2,88.6,tinggi,sering,sering,4,Meningkatkan Berat Badan
+12,32,laki-laki,171.6,75.2,71.2,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+13,63,laki-laki,194.5,100.6,90.8,rendah,tidak pernah,jarang,9,Meningkatkan Kebugaran
+14,39,laki-laki,167.5,85,76.3,rendah,jarang,sering,4,Menurunkan Berat Badan
+15,20,laki-laki,175.5,73.9,72.7,rendah,jarang,tidak pernah,6,Menjaga Kesehatan
+16,42,laki-laki,187.4,77.4,78,tinggi,sering,jarang,5,Menjaga Kesehatan
+17,35,laki-laki,195.8,99.3,87.5,sedang,jarang,tidak pernah,5,Menjaga Kesehatan
+18,41,laki-laki,189.3,63.2,66.8,rendah,jarang,jarang,4,Meningkatkan Berat Badan
+19,50,laki-laki,185.5,75.9,81.5,tinggi,jarang,tidak pernah,8,Meningkatkan Kebugaran
+20,55,laki-laki,161.9,68.7,56.8,sedang,tidak pernah,jarang,5,Meningkatkan Kebugaran
+21,61,laki-laki,193.4,73.8,72.8,rendah,jarang,sering,7,Menjaga Kesehatan
+22,21,laki-laki,194.9,123.1,106.4,rendah,jarang,jarang,7,Menurunkan Berat Badan
+23,21,laki-laki,178.5,66.8,72.1,sedang,jarang,sering,4,Menjaga Kesehatan
+24,52,laki-laki,166.5,77.2,71.2,sedang,jarang,jarang,9,Menurunkan Berat Badan
+25,42,laki-laki,178.1,80.9,68.3,sedang,jarang,jarang,4,Meningkatkan Kebugaran
+26,33,laki-laki,181.8,82,73.9,tinggi,tidak pernah,sering,7,Menjaga Kesehatan
+27,48,laki-laki,173.1,78.9,64.5,rendah,tidak pernah,tidak pernah,6,Menjaga Kesehatan
+28,33,laki-laki,163.7,74.3,59,tinggi,tidak pernah,sering,8,Meningkatkan Kebugaran
+29,27,laki-laki,161.7,54,56.9,sedang,sering,jarang,7,Meningkatkan Kebugaran
+30,41,laki-laki,160.1,69.6,58.3,tinggi,jarang,tidak pernah,7,Menurunkan Berat Badan
+31,33,laki-laki,170.7,83.2,63.9,sedang,jarang,tidak pernah,5,Meningkatkan Kebugaran
+32,56,laki-laki,193.2,80.9,68.6,rendah,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+33,40,laki-laki,166.4,63.8,63.8,tinggi,tidak pernah,jarang,9,Menjaga Kesehatan
+34,31,laki-laki,179.4,67.7,69,sedang,sering,jarang,6,Menjaga Kesehatan
+35,56,laki-laki,184.4,57.3,62.1,sedang,sering,sering,5,Meningkatkan Berat Badan
+36,64,laki-laki,190.2,85.8,77.9,tinggi,jarang,sering,8,Meningkatkan Kebugaran
+37,40,laki-laki,181.1,84.5,78.4,tinggi,sering,sering,5,Menurunkan Berat Badan
+38,32,laki-laki,189.2,98.3,82.9,sedang,sering,tidak pernah,8,Menurunkan Berat Badan
+39,60,laki-laki,159.7,59.8,66.8,rendah,tidak pernah,sering,7,Meningkatkan Berat Badan
+40,61,laki-laki,188.8,81.8,79.5,sedang,sering,tidak pernah,9,Menjaga Kesehatan
+41,23,laki-laki,170.5,53,42.6,sedang,jarang,jarang,9,Menurunkan Berat Badan
+42,44,laki-laki,182,80.8,73.5,tinggi,jarang,sering,4,Menjaga Kesehatan
+43,54,laki-laki,165.2,74.8,60.2,sedang,jarang,jarang,4,Menurunkan Berat Badan
+44,25,laki-laki,175.7,63.9,62.3,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+45,18,laki-laki,166.6,66.2,67.4,rendah,jarang,jarang,7,Menjaga Kesehatan
+46,51,laki-laki,184.9,100.6,92.4,rendah,tidak pernah,tidak pernah,8,Menurunkan Berat Badan
+47,35,laki-laki,160.3,68.3,56.3,sedang,jarang,tidak pernah,7,Menurunkan Berat Badan
+48,35,laki-laki,194.3,82.3,90.2,rendah,jarang,sering,7,Meningkatkan Kebugaran
+49,63,laki-laki,194.2,111.1,95.9,rendah,tidak pernah,jarang,8,Menurunkan Berat Badan
+50,26,laki-laki,198.1,104.1,87.8,rendah,tidak pernah,sering,8,Menurunkan Berat Badan
+51,46,laki-laki,182.9,82.5,72.9,rendah,tidak pernah,jarang,4,Meningkatkan Kebugaran
+52,57,laki-laki,184.8,79.7,78.1,sedang,jarang,jarang,5,Menjaga Kesehatan
+53,42,laki-laki,176.6,67.2,67.2,sedang,jarang,jarang,5,Menjaga Kesehatan
+54,21,laki-laki,190.9,65.7,86.8,rendah,jarang,tidak pernah,7,Meningkatkan Kebugaran
+55,27,laki-laki,187.6,82.7,76.5,sedang,sering,tidak pernah,4,Menjaga Kesehatan
+56,53,laki-laki,178.6,92.9,71.3,sedang,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+57,26,laki-laki,194.2,83.3,85.2,rendah,jarang,tidak pernah,4,Meningkatkan Kebugaran
+58,20,laki-laki,197.2,76.6,88,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+59,18,laki-laki,178.5,65,70.6,tinggi,sering,sering,7,Meningkatkan Kebugaran
+60,36,laki-laki,177.4,88.1,72.8,tinggi,sering,jarang,9,Menurunkan Berat Badan
+61,26,laki-laki,192.3,90.5,91.2,sedang,jarang,sering,5,Meningkatkan Kebugaran
+62,59,laki-laki,189.4,62.5,51,rendah,tidak pernah,tidak pernah,5,Menurunkan Berat Badan
+63,52,laki-laki,169.6,78.8,65.1,sedang,jarang,tidak pernah,5,Menurunkan Berat Badan
+64,33,laki-laki,163.6,54.8,58,sedang,sering,sering,4,Meningkatkan Berat Badan
+65,31,laki-laki,198.9,125.7,118.1,tinggi,sering,sering,6,Menurunkan Berat Badan
+66,46,laki-laki,184.5,81.9,70.1,sedang,tidak pernah,sering,5,Menjaga Kesehatan
+67,21,laki-laki,166.1,67.2,76.6,tinggi,sering,sering,8,Meningkatkan Berat Badan
+68,40,laki-laki,194,92.2,81.3,tinggi,jarang,tidak pernah,4,Meningkatkan Kebugaran
+69,40,laki-laki,162.1,65.6,54.6,rendah,jarang,tidak pernah,9,Menurunkan Berat Badan
+70,60,laki-laki,190,92.4,84.7,tinggi,jarang,jarang,8,Menjaga Kesehatan
+71,51,laki-laki,179,74.7,66,tinggi,jarang,jarang,8,Menjaga Kesehatan
+72,45,laki-laki,173.8,81.4,71.4,rendah,jarang,sering,7,Menjaga Kesehatan
+73,51,laki-laki,177.8,82.9,75.7,sedang,sering,sering,4,Menurunkan Berat Badan
+74,47,laki-laki,186.8,83.7,75.4,rendah,tidak pernah,jarang,5,Meningkatkan Kebugaran
+75,62,laki-laki,175.5,89.4,68.3,tinggi,jarang,jarang,7,Menjaga Kesehatan
+76,44,laki-laki,176.8,70.7,62.7,tinggi,sering,sering,4,Menjaga Kesehatan
+77,29,laki-laki,196.8,93.8,79.1,sedang,jarang,sering,7,Menurunkan Berat Badan
+78,50,laki-laki,178.6,99.8,81,sedang,jarang,tidak pernah,9,Menurunkan Berat Badan
+79,57,laki-laki,190.7,111,100.1,sedang,jarang,jarang,9,Menurunkan Berat Badan
+80,56,laki-laki,199.4,102.6,86,sedang,jarang,tidak pernah,6,Meningkatkan Kebugaran
+81,29,laki-laki,189.3,100.4,81.8,tinggi,sering,jarang,6,Meningkatkan Kebugaran
+82,43,laki-laki,189.9,91.1,82.2,rendah,jarang,jarang,4,Menurunkan Berat Badan
+83,61,laki-laki,170.4,69.9,64.5,tinggi,sering,tidak pernah,4,Menjaga Kesehatan
+84,59,laki-laki,194.7,89.5,89.1,tinggi,sering,tidak pernah,5,Meningkatkan Kebugaran
+85,36,laki-laki,194,104.5,92.2,tinggi,sering,sering,6,Menurunkan Berat Badan
+86,43,laki-laki,197.4,90,77.9,sedang,jarang,tidak pernah,6,Menjaga Kesehatan
+87,19,laki-laki,191.9,104.8,85.4,sedang,jarang,sering,4,Menurunkan Berat Badan
+88,51,laki-laki,194.2,84.9,85.3,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+89,38,laki-laki,181,68.1,74.6,sedang,jarang,sering,4,Meningkatkan Kebugaran
+90,20,laki-laki,180.7,76.8,75.2,tinggi,sering,jarang,7,Meningkatkan Kebugaran
+91,43,laki-laki,173.7,80.7,66.2,tinggi,jarang,tidak pernah,5,Menurunkan Berat Badan
+92,31,laki-laki,162,56.3,55.2,tinggi,sering,sering,8,Meningkatkan Kebugaran
+93,23,laki-laki,184,75.6,76.1,tinggi,sering,sering,8,Meningkatkan Kebugaran
+94,23,laki-laki,197.2,71.2,75.8,rendah,tidak pernah,tidak pernah,8,Meningkatkan Berat Badan
+95,56,laki-laki,186,88.8,78.7,sedang,jarang,tidak pernah,7,Menurunkan Berat Badan
+96,46,laki-laki,169,68.8,61.4,rendah,jarang,sering,8,Meningkatkan Kebugaran
+97,49,laki-laki,187.9,84.3,85.7,sedang,jarang,sering,9,Meningkatkan Kebugaran
+98,54,laki-laki,198.3,101.5,94.3,rendah,tidak pernah,jarang,8,Menjaga Kesehatan
+99,43,laki-laki,181,94.9,82.5,rendah,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+100,47,laki-laki,168.5,79.3,64.5,tinggi,sering,jarang,8,Menurunkan Berat Badan
+101,47,laki-laki,185.4,82.7,92.1,rendah,jarang,sering,4,Meningkatkan Berat Badan
+102,22,laki-laki,167.6,57.7,65.8,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+103,26,laki-laki,170,65.7,60.3,sedang,sering,sering,6,Menjaga Kesehatan
+104,20,laki-laki,167.6,66.8,67.2,sedang,sering,jarang,9,Meningkatkan Kebugaran
+105,35,laki-laki,169.1,67.4,58.3,sedang,sering,jarang,6,Meningkatkan Kebugaran
+106,56,laki-laki,172.6,81.2,88.7,tinggi,sering,tidak pernah,6,Meningkatkan Berat Badan
+107,61,laki-laki,168.1,74.1,56.8,rendah,tidak pernah,jarang,4,Meningkatkan Kebugaran
+108,30,laki-laki,171.4,69,70.4,tinggi,sering,sering,7,Meningkatkan Kebugaran
+109,33,laki-laki,167.9,63.2,65.7,sedang,sering,tidak pernah,5,Menjaga Kesehatan
+110,27,laki-laki,182.6,77.1,78.4,sedang,jarang,sering,5,Meningkatkan Kebugaran
+111,18,laki-laki,181.7,91.1,77.3,sedang,sering,tidak pernah,4,Menurunkan Berat Badan
+112,51,laki-laki,160.3,67.2,59.3,sedang,jarang,jarang,8,Meningkatkan Kebugaran
+113,36,laki-laki,167.8,60.9,60.2,sedang,sering,tidak pernah,6,Meningkatkan Kebugaran
+114,53,laki-laki,190.2,74.8,75.2,sedang,jarang,sering,9,Meningkatkan Kebugaran
+115,20,laki-laki,180.3,64.1,71.7,rendah,tidak pernah,jarang,5,Meningkatkan Berat Badan
+116,51,laki-laki,186.5,113.8,96.1,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+117,19,laki-laki,166.3,61.4,51.6,rendah,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+118,19,laki-laki,197.9,96.6,79.7,tinggi,sering,sering,4,Meningkatkan Kebugaran
+119,18,laki-laki,198.2,100.5,91.7,rendah,tidak pernah,sering,6,Menjaga Kesehatan
+120,33,laki-laki,184.6,89.6,77.5,rendah,tidak pernah,sering,6,Menurunkan Berat Badan
+121,47,laki-laki,161.5,54.6,61,rendah,tidak pernah,jarang,9,Menjaga Kesehatan
+122,52,laki-laki,188.5,111.2,100,sedang,jarang,sering,9,Menurunkan Berat Badan
+123,44,laki-laki,197.3,96.5,90.7,sedang,jarang,sering,4,Meningkatkan Kebugaran
+124,22,laki-laki,181.8,83.7,67.4,tinggi,jarang,tidak pernah,7,Menurunkan Berat Badan
+125,37,laki-laki,192.3,107,78.7,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+126,43,laki-laki,191,103.7,93,rendah,jarang,jarang,5,Menurunkan Berat Badan
+127,45,laki-laki,196.9,115.5,78.3,tinggi,sering,sering,8,Meningkatkan Kebugaran
+128,52,laki-laki,172.5,73.9,67.4,rendah,jarang,tidak pernah,6,Menurunkan Berat Badan
+129,19,laki-laki,191.4,96.7,74,rendah,jarang,jarang,9,Menjaga Kesehatan
+130,47,laki-laki,178.5,68.6,67.5,sedang,jarang,tidak pernah,7,Menjaga Kesehatan
+131,42,laki-laki,193.8,111.5,81.9,tinggi,sering,sering,6,Menjaga Kesehatan
+132,61,laki-laki,172.2,64.7,64,sedang,jarang,tidak pernah,9,Meningkatkan Kebugaran
+133,38,laki-laki,191.8,73.7,75.1,rendah,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+134,47,laki-laki,185.7,102.6,86.6,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+135,35,laki-laki,173.1,76.9,70.4,sedang,jarang,tidak pernah,6,Menjaga Kesehatan
+136,45,laki-laki,163.2,67.3,61.1,rendah,jarang,tidak pernah,5,Menurunkan Berat Badan
+137,62,laki-laki,189.1,63.9,73.1,sedang,tidak pernah,sering,4,Menjaga Kesehatan
+138,38,laki-laki,171.5,76.2,65.4,tinggi,sering,sering,6,Menurunkan Berat Badan
+139,23,laki-laki,160.4,70.6,61.3,rendah,tidak pernah,jarang,4,Menurunkan Berat Badan
+140,22,laki-laki,179.3,85.7,76.1,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+141,65,laki-laki,173.1,92.3,80.2,sedang,jarang,sering,7,Menurunkan Berat Badan
+142,22,laki-laki,179.9,70,59,sedang,sering,jarang,9,Menurunkan Berat Badan
+143,37,laki-laki,197.2,72.9,92.1,rendah,jarang,sering,5,Meningkatkan Kebugaran
+144,37,laki-laki,191.9,82.9,68.6,sedang,sering,sering,5,Menurunkan Berat Badan
+145,20,laki-laki,169.1,68.4,67.8,tinggi,sering,jarang,8,Meningkatkan Kebugaran
+146,21,laki-laki,163.3,64.4,67.6,rendah,jarang,jarang,4,Meningkatkan Berat Badan
+147,47,laki-laki,175.4,78.3,62.7,tinggi,sering,tidak pernah,9,Menurunkan Berat Badan
+148,20,laki-laki,197.9,84.2,93.7,tinggi,jarang,jarang,4,Meningkatkan Berat Badan
+149,40,laki-laki,160.4,73.7,51.5,tinggi,jarang,jarang,5,Menjaga Kesehatan
+150,55,laki-laki,162.4,84,67.8,sedang,jarang,tidak pernah,5,Menurunkan Berat Badan
+151,55,laki-laki,161.4,83.8,75.3,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+152,60,laki-laki,190.8,93.5,73.8,rendah,jarang,tidak pernah,8,Menjaga Kesehatan
+153,44,laki-laki,184.6,99.1,68.7,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+154,48,laki-laki,192.3,89.3,82.8,tinggi,sering,tidak pernah,5,Meningkatkan Kebugaran
+155,40,laki-laki,189.9,86.3,87.5,sedang,sering,tidak pernah,4,Menjaga Kesehatan
+156,61,laki-laki,186.2,73.7,81.1,tinggi,jarang,jarang,5,Meningkatkan Kebugaran
+157,64,laki-laki,197.4,116.1,99.8,tinggi,sering,jarang,6,Menurunkan Berat Badan
+158,44,laki-laki,189.5,78.3,79.1,tinggi,sering,tidak pernah,5,Menjaga Kesehatan
+159,62,laki-laki,174,88.7,71.7,sedang,jarang,sering,6,Menjaga Kesehatan
+160,23,laki-laki,165.9,68.9,58.6,tinggi,tidak pernah,jarang,5,Menjaga Kesehatan
+161,22,laki-laki,168.6,71.1,76.4,sedang,jarang,jarang,8,Meningkatkan Berat Badan
+162,43,laki-laki,196.6,115.3,79.3,rendah,tidak pernah,sering,8,Meningkatkan Kebugaran
+163,33,laki-laki,198.2,103.4,91.4,tinggi,jarang,jarang,9,Meningkatkan Kebugaran
+164,36,laki-laki,172,79.8,74.4,sedang,jarang,tidak pernah,9,Menurunkan Berat Badan
+165,22,laki-laki,176.5,68.2,68.3,rendah,jarang,jarang,5,Menjaga Kesehatan
+166,30,laki-laki,181.5,76.2,80.3,rendah,jarang,tidak pernah,7,Meningkatkan Berat Badan
+167,33,laki-laki,188.9,112.3,100.4,sedang,jarang,jarang,6,Menurunkan Berat Badan
+168,41,laki-laki,195.1,94.7,89,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+169,26,laki-laki,167.6,46.3,63.7,sedang,tidak pernah,sering,7,Meningkatkan Kebugaran
+170,27,laki-laki,181.7,79.2,70.9,rendah,jarang,tidak pernah,6,Menurunkan Berat Badan
+171,63,laki-laki,169.6,72.7,68.6,rendah,jarang,sering,6,Menurunkan Berat Badan
+172,61,laki-laki,177.9,73.7,64.4,rendah,sering,jarang,8,Meningkatkan Kebugaran
+173,41,laki-laki,176.9,75.9,69.3,tinggi,sering,sering,5,Menurunkan Berat Badan
+174,18,laki-laki,161.6,65.4,63,tinggi,jarang,sering,8,Menjaga Kesehatan
+175,21,laki-laki,169.7,69.5,64.9,sedang,jarang,jarang,7,Menurunkan Berat Badan
+176,30,laki-laki,172.2,69.4,69.3,tinggi,jarang,tidak pernah,5,Meningkatkan Kebugaran
+177,58,laki-laki,181.9,85.1,68.9,sedang,sering,sering,7,Menurunkan Berat Badan
+178,40,laki-laki,181.9,95.1,78.3,sedang,jarang,sering,6,Menjaga Kesehatan
+179,51,laki-laki,176.3,75.2,86.3,sedang,tidak pernah,sering,7,Meningkatkan Berat Badan
+180,24,laki-laki,199.2,87.2,84.3,rendah,tidak pernah,sering,4,Menjaga Kesehatan
+181,58,laki-laki,191.4,100.8,79.9,tinggi,jarang,jarang,9,Meningkatkan Kebugaran
+182,30,laki-laki,177.7,74.4,79.2,rendah,tidak pernah,tidak pernah,6,Meningkatkan Berat Badan
+183,27,laki-laki,173.2,58.5,60.9,tinggi,sering,jarang,4,Meningkatkan Kebugaran
+184,21,laki-laki,171.1,51.2,65.3,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+185,43,laki-laki,185.4,82.9,92.4,tinggi,sering,jarang,7,Meningkatkan Berat Badan
+186,54,laki-laki,191.5,80.7,83.5,tinggi,sering,jarang,6,Meningkatkan Kebugaran
+187,26,laki-laki,190.9,83.3,78.1,sedang,tidak pernah,jarang,4,Menjaga Kesehatan
+188,64,laki-laki,168.3,90.6,82.6,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+189,59,laki-laki,165.2,58.3,55.4,tinggi,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+190,54,laki-laki,180.3,107,90.5,tinggi,sering,sering,4,Menurunkan Berat Badan
+191,26,laki-laki,164.5,69.7,61.9,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+192,25,laki-laki,192.8,104.5,90.9,tinggi,tidak pernah,sering,5,Menurunkan Berat Badan
+193,42,laki-laki,197.6,99,84,sedang,sering,sering,5,Meningkatkan Kebugaran
+194,59,laki-laki,170.8,89.1,73.3,sedang,jarang,jarang,4,Menurunkan Berat Badan
+195,18,laki-laki,173.7,67.3,65.7,tinggi,sering,jarang,9,Menjaga Kesehatan
+196,37,laki-laki,176.5,79.1,65.2,rendah,tidak pernah,jarang,8,Menurunkan Berat Badan
+197,46,laki-laki,179.3,96.1,64.9,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+198,53,laki-laki,163.4,67.6,60.4,sedang,jarang,sering,5,Menjaga Kesehatan
+199,24,laki-laki,186.6,75.9,83.5,rendah,tidak pernah,jarang,9,Meningkatkan Kebugaran
+200,59,laki-laki,173.7,87.2,67.3,tinggi,sering,sering,6,Meningkatkan Kebugaran
+201,53,laki-laki,185.6,76.5,83.2,tinggi,sering,sering,7,Meningkatkan Berat Badan
+202,63,laki-laki,191.7,74.8,81.3,sedang,sering,jarang,9,Meningkatkan Kebugaran
+203,20,laki-laki,184.8,71.6,80.4,sedang,sering,sering,9,Menjaga Kesehatan
+204,49,laki-laki,184,93,75.2,sedang,tidak pernah,sering,7,Menurunkan Berat Badan
+205,30,laki-laki,197.9,75.5,83.3,sedang,jarang,jarang,6,Meningkatkan Kebugaran
+206,24,laki-laki,192.4,85.9,96.3,sedang,jarang,jarang,5,Meningkatkan Berat Badan
+207,39,laki-laki,164,63.9,58.1,tinggi,sering,sering,4,Menjaga Kesehatan
+208,52,laki-laki,168.5,72.7,62.5,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+209,39,laki-laki,187.5,88.4,75.9,tinggi,sering,tidak pernah,5,Menurunkan Berat Badan
+210,36,laki-laki,178.6,74.8,76.9,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+211,57,laki-laki,164.4,53.9,55,sedang,jarang,sering,8,Menjaga Kesehatan
+212,34,laki-laki,197.4,98.6,88.8,tinggi,jarang,sering,7,Meningkatkan Kebugaran
+213,21,laki-laki,166.6,71.4,59.8,sedang,jarang,jarang,5,Menurunkan Berat Badan
+214,21,laki-laki,168.4,76.6,58.5,rendah,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+215,45,laki-laki,178.8,88.3,68.4,rendah,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+216,44,laki-laki,178.6,84.2,68.8,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+217,27,laki-laki,164.9,76.7,71.8,rendah,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+218,52,laki-laki,174.3,78.4,62.1,sedang,sering,jarang,6,Menjaga Kesehatan
+219,41,laki-laki,196.1,98.8,80.3,rendah,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+220,63,laki-laki,161.7,65.7,56.1,sedang,sering,tidak pernah,7,Menurunkan Berat Badan
+221,56,laki-laki,172,70.6,72.4,rendah,sering,jarang,6,Meningkatkan Kebugaran
+222,37,laki-laki,169.1,66.4,64.6,tinggi,sering,jarang,7,Menjaga Kesehatan
+223,57,laki-laki,193.3,89.1,75.8,tinggi,sering,tidak pernah,7,Menjaga Kesehatan
+224,28,laki-laki,165.4,75.3,69.7,tinggi,tidak pernah,jarang,7,Menurunkan Berat Badan
+225,40,laki-laki,181.2,89.8,102.7,tinggi,sering,jarang,4,Meningkatkan Berat Badan
+226,19,laki-laki,192.3,82.6,76.3,tinggi,jarang,jarang,4,Meningkatkan Kebugaran
+227,35,laki-laki,163.6,78.1,56,sedang,sering,sering,5,Menjaga Kesehatan
+228,40,laki-laki,191.6,85.9,74,tinggi,jarang,jarang,9,Meningkatkan Kebugaran
+229,24,laki-laki,174.3,77.9,65.2,rendah,sering,jarang,8,Menurunkan Berat Badan
+230,24,laki-laki,184.9,80,81.7,rendah,jarang,sering,7,Meningkatkan Kebugaran
+231,28,laki-laki,174.5,92.8,87.7,rendah,tidak pernah,jarang,8,Menurunkan Berat Badan
+232,41,laki-laki,195.6,111.4,102.9,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+233,25,laki-laki,195,83.4,77,rendah,tidak pernah,jarang,6,Menurunkan Berat Badan
+234,27,laki-laki,176.1,70.7,73.4,sedang,sering,jarang,5,Meningkatkan Kebugaran
+235,48,laki-laki,164.5,69.1,77.2,tinggi,sering,jarang,9,Meningkatkan Berat Badan
+236,62,laki-laki,190.8,102.5,96.1,tinggi,jarang,sering,6,Menurunkan Berat Badan
+237,28,laki-laki,160,67.9,59.8,tinggi,jarang,jarang,8,Menjaga Kesehatan
+238,43,laki-laki,187.2,89,76.7,rendah,tidak pernah,sering,7,Menurunkan Berat Badan
+239,49,laki-laki,168.8,70.8,58.4,rendah,jarang,tidak pernah,9,Meningkatkan Kebugaran
+240,30,laki-laki,191.4,66.6,71.2,sedang,sering,jarang,6,Meningkatkan Berat Badan
+241,63,laki-laki,184.6,94.8,86.2,rendah,tidak pernah,sering,6,Menurunkan Berat Badan
+242,23,laki-laki,162.5,63.9,62.1,sedang,jarang,sering,8,Meningkatkan Kebugaran
+243,44,laki-laki,185.3,89.2,82.5,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+244,48,laki-laki,177,66.9,65.5,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+245,32,laki-laki,178.4,90.9,77.9,tinggi,sering,jarang,8,Menurunkan Berat Badan
+246,18,laki-laki,179.3,73.3,66,rendah,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+247,27,laki-laki,186.5,78.7,80.4,rendah,tidak pernah,sering,9,Menjaga Kesehatan
+248,25,laki-laki,180.7,70.3,71.9,sedang,sering,jarang,7,Meningkatkan Kebugaran
+249,63,laki-laki,188.8,116.4,101.2,tinggi,sering,jarang,4,Menurunkan Berat Badan
+250,23,laki-laki,179.3,78.5,70.6,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+251,36,laki-laki,188.5,73.2,64.9,sedang,jarang,jarang,5,Menurunkan Berat Badan
+252,62,laki-laki,173,75.7,62.7,tinggi,jarang,tidak pernah,6,Menurunkan Berat Badan
+253,50,laki-laki,171.2,88.1,83,sedang,jarang,jarang,5,Menurunkan Berat Badan
+254,33,laki-laki,184.8,61.2,68.1,rendah,tidak pernah,sering,9,Meningkatkan Berat Badan
+255,58,laki-laki,180.9,111.3,98.3,rendah,jarang,sering,6,Menurunkan Berat Badan
+256,39,laki-laki,182.7,86.9,73.6,rendah,tidak pernah,sering,5,Menurunkan Berat Badan
+257,56,laki-laki,181.3,91.7,75.5,rendah,jarang,jarang,5,Menjaga Kesehatan
+258,57,laki-laki,190.1,100.2,87.7,rendah,sering,sering,8,Menurunkan Berat Badan
+259,58,laki-laki,192.8,115,80.5,sedang,jarang,sering,8,Meningkatkan Kebugaran
+260,53,laki-laki,192.2,100.2,84.7,sedang,jarang,jarang,8,Meningkatkan Kebugaran
+261,39,laki-laki,182.2,86.2,69.2,rendah,sering,jarang,6,Meningkatkan Kebugaran
+262,38,laki-laki,166.5,59.9,65.5,tinggi,tidak pernah,jarang,9,Menjaga Kesehatan
+263,23,laki-laki,176.3,83.4,74.5,sedang,sering,sering,6,Menjaga Kesehatan
+264,26,laki-laki,161.8,41.9,46.4,sedang,sering,tidak pernah,4,Meningkatkan Berat Badan
+265,28,laki-laki,174.4,66.8,74.2,sedang,jarang,sering,4,Meningkatkan Berat Badan
+266,40,laki-laki,191.8,89.1,86.3,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+267,44,laki-laki,196.5,94.5,79,tinggi,jarang,jarang,6,Menjaga Kesehatan
+268,61,laki-laki,198.1,107,93.3,sedang,jarang,jarang,6,Meningkatkan Kebugaran
+269,62,laki-laki,162.1,54,56.9,tinggi,jarang,jarang,6,Meningkatkan Kebugaran
+270,24,laki-laki,196.6,106.6,90.8,tinggi,sering,jarang,9,Menurunkan Berat Badan
+271,24,laki-laki,174.5,75.9,63.1,tinggi,sering,tidak pernah,4,Menjaga Kesehatan
+272,27,laki-laki,189.6,90.8,81.4,rendah,tidak pernah,jarang,8,Menurunkan Berat Badan
+273,63,laki-laki,168.9,74.3,81.9,tinggi,sering,jarang,4,Meningkatkan Berat Badan
+274,43,laki-laki,165.6,83.5,71.5,sedang,jarang,jarang,4,Menurunkan Berat Badan
+275,57,laki-laki,173.9,90.6,69.1,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+276,58,laki-laki,174.5,79.7,74.8,sedang,jarang,jarang,9,Menurunkan Berat Badan
+277,22,laki-laki,164.4,53.8,58.3,rendah,tidak pernah,tidak pernah,5,Meningkatkan Berat Badan
+278,48,laki-laki,197.2,98.7,85.8,rendah,jarang,jarang,9,Menjaga Kesehatan
+279,63,laki-laki,177.8,67.2,69,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+280,40,laki-laki,196,95.4,84.4,rendah,jarang,jarang,7,Meningkatkan Kebugaran
+281,19,laki-laki,170.8,71.7,65.7,sedang,sering,sering,4,Meningkatkan Kebugaran
+282,43,laki-laki,191.8,99,73.8,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+283,63,laki-laki,172.7,60.5,66.9,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+284,18,laki-laki,170.3,56.3,55.8,tinggi,sering,sering,5,Meningkatkan Kebugaran
+285,52,laki-laki,174.5,67.1,70.8,sedang,jarang,jarang,5,Meningkatkan Berat Badan
+286,23,laki-laki,189.2,75.1,76.6,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+287,35,laki-laki,177.4,90.8,70.7,sedang,jarang,tidak pernah,5,Menjaga Kesehatan
+288,30,laki-laki,189.6,77.2,75.4,sedang,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+289,22,laki-laki,193.4,74.5,79.6,tinggi,sering,tidak pernah,4,Meningkatkan Kebugaran
+290,58,laki-laki,178.9,97.5,91.3,tinggi,sering,jarang,4,Menurunkan Berat Badan
+291,30,laki-laki,168.5,72.8,66.6,rendah,sering,jarang,6,Menurunkan Berat Badan
+292,33,laki-laki,179.7,76.9,86.2,rendah,jarang,tidak pernah,7,Meningkatkan Berat Badan
+293,59,laki-laki,179.2,84.6,73.9,sedang,tidak pernah,sering,8,Meningkatkan Kebugaran
+294,26,laki-laki,176.6,74.6,80.7,rendah,jarang,sering,7,Meningkatkan Berat Badan
+295,64,laki-laki,176.8,71.2,72.3,sedang,jarang,jarang,4,Meningkatkan Kebugaran
+296,63,laki-laki,192.4,66.7,75.7,rendah,jarang,sering,6,Meningkatkan Berat Badan
+297,24,laki-laki,198.5,74.7,90.2,rendah,tidak pernah,jarang,5,Menjaga Kesehatan
+298,53,laki-laki,199.2,102.7,92.4,tinggi,sering,tidak pernah,8,Menurunkan Berat Badan
+299,40,laki-laki,164.4,72.5,60.3,sedang,sering,jarang,4,Meningkatkan Kebugaran
+300,42,laki-laki,164.6,50.2,52.6,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+301,45,laki-laki,161.7,81.8,66.2,rendah,tidak pernah,jarang,8,Menurunkan Berat Badan
+302,33,laki-laki,169.6,72.8,66.6,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+303,36,laki-laki,172.8,69.9,60.5,tinggi,sering,tidak pernah,5,Meningkatkan Kebugaran
+304,18,laki-laki,196.4,103.4,90.2,sedang,tidak pernah,sering,8,Menurunkan Berat Badan
+305,35,laki-laki,189.4,61.4,57.4,sedang,sering,tidak pernah,6,Menurunkan Berat Badan
+306,59,laki-laki,182,70.8,70,tinggi,sering,tidak pernah,7,Menjaga Kesehatan
+307,24,laki-laki,174.6,82.6,64.9,sedang,jarang,tidak pernah,9,Meningkatkan Kebugaran
+308,32,laki-laki,182.1,74.8,75.3,sedang,sering,tidak pernah,8,Meningkatkan Kebugaran
+309,51,laki-laki,197.8,87.8,88,tinggi,sering,sering,4,Meningkatkan Kebugaran
+310,55,laki-laki,187.9,87.5,72.2,sedang,jarang,sering,7,Meningkatkan Kebugaran
+311,58,laki-laki,197.4,95.8,85.9,tinggi,jarang,tidak pernah,7,Menjaga Kesehatan
+312,19,laki-laki,190.1,97.8,78.6,sedang,jarang,tidak pernah,8,Meningkatkan Kebugaran
+313,48,laki-laki,184,89.7,70.3,sedang,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+314,65,laki-laki,164.1,68.8,56,tinggi,tidak pernah,jarang,4,Menurunkan Berat Badan
+315,38,laki-laki,165.8,61.1,58.6,sedang,tidak pernah,jarang,4,Meningkatkan Kebugaran
+316,27,laki-laki,190.9,83.8,76.6,rendah,sering,tidak pernah,7,Meningkatkan Kebugaran
+317,57,laki-laki,173.7,81.1,65.7,tinggi,jarang,tidak pernah,6,Menurunkan Berat Badan
+318,32,laki-laki,178.7,76.1,74.1,rendah,tidak pernah,sering,6,Meningkatkan Kebugaran
+319,25,laki-laki,167.2,85.1,63,tinggi,jarang,tidak pernah,5,Meningkatkan Kebugaran
+320,25,laki-laki,197,94.4,94.4,tinggi,jarang,tidak pernah,9,Meningkatkan Kebugaran
+321,48,laki-laki,184.6,65,80.7,sedang,tidak pernah,jarang,4,Meningkatkan Kebugaran
+322,27,laki-laki,173.1,77.4,63.5,sedang,sering,sering,5,Menjaga Kesehatan
+323,41,laki-laki,160.4,53.9,51.9,tinggi,sering,jarang,9,Meningkatkan Kebugaran
+324,38,laki-laki,189.3,99.2,93.1,tinggi,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+325,34,laki-laki,182.9,112.1,98.8,sedang,jarang,sering,9,Menurunkan Berat Badan
+326,24,laki-laki,194.3,93.4,77,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+327,51,laki-laki,176.3,83.5,74.6,rendah,tidak pernah,jarang,9,Menurunkan Berat Badan
+328,55,laki-laki,168.6,77.2,65,sedang,sering,tidak pernah,5,Menurunkan Berat Badan
+329,19,laki-laki,191.9,79.7,68.4,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+330,52,laki-laki,191,84.7,80.3,tinggi,jarang,tidak pernah,4,Menurunkan Berat Badan
+331,39,laki-laki,194.2,108.8,77.6,rendah,jarang,jarang,7,Meningkatkan Kebugaran
+332,20,laki-laki,178.8,80.4,65.6,tinggi,sering,tidak pernah,6,Menurunkan Berat Badan
+333,29,laki-laki,188.8,87.7,76.8,sedang,tidak pernah,tidak pernah,6,Menjaga Kesehatan
+334,18,laki-laki,164.1,72,54.1,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+335,55,laki-laki,191.6,95,79.9,tinggi,jarang,tidak pernah,8,Menurunkan Berat Badan
+336,51,laki-laki,194,107.1,75.3,sedang,tidak pernah,sering,7,Menjaga Kesehatan
+337,19,laki-laki,188.1,81,78.1,tinggi,sering,jarang,6,Menjaga Kesehatan
+338,33,laki-laki,175.6,64.1,72.2,tinggi,jarang,tidak pernah,7,Meningkatkan Kebugaran
+339,60,laki-laki,187.2,78.1,79.9,sedang,jarang,jarang,8,Menjaga Kesehatan
+340,64,laki-laki,159.8,71.4,64,rendah,tidak pernah,jarang,9,Menurunkan Berat Badan
+341,31,laki-laki,196.4,100,86.5,tinggi,sering,jarang,8,Meningkatkan Kebugaran
+342,44,laki-laki,184.9,101.6,93,sedang,sering,jarang,5,Menurunkan Berat Badan
+343,58,laki-laki,185.8,94.3,80.2,tinggi,tidak pernah,sering,6,Menjaga Kesehatan
+344,60,laki-laki,177.8,82.7,77.9,sedang,sering,sering,7,Menurunkan Berat Badan
+345,24,laki-laki,199.9,118.9,106.1,sedang,jarang,tidak pernah,6,Menurunkan Berat Badan
+346,36,laki-laki,164.5,64,66.7,rendah,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+347,32,laki-laki,181.1,69.9,67.8,tinggi,sering,jarang,8,Meningkatkan Kebugaran
+348,26,laki-laki,166.6,50.6,58.1,rendah,jarang,jarang,6,Meningkatkan Berat Badan
+349,35,laki-laki,168.3,79.2,65.5,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+350,51,laki-laki,194.2,94.3,85.3,tinggi,sering,tidak pernah,4,Meningkatkan Kebugaran
+351,51,laki-laki,199.5,83,82,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+352,42,laki-laki,181,73.5,71.6,rendah,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+353,47,laki-laki,181.8,113.5,93.7,rendah,jarang,sering,7,Menurunkan Berat Badan
+354,19,laki-laki,170.4,70.2,72.5,tinggi,jarang,jarang,8,Menjaga Kesehatan
+355,46,laki-laki,168.6,86.2,78.4,sedang,sering,sering,8,Menurunkan Berat Badan
+356,38,laki-laki,173.3,91.9,84,rendah,jarang,tidak pernah,9,Menurunkan Berat Badan
+357,47,laki-laki,185.7,85.2,71.1,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+358,50,laki-laki,196.9,100.5,90.7,rendah,jarang,tidak pernah,9,Menurunkan Berat Badan
+359,63,laki-laki,194.8,91.9,80.5,tinggi,tidak pernah,jarang,9,Menjaga Kesehatan
+360,43,laki-laki,183.8,97.5,70.7,tinggi,sering,jarang,6,Menjaga Kesehatan
+361,22,laki-laki,169.1,48.8,53,tinggi,jarang,sering,8,Meningkatkan Berat Badan
+362,36,laki-laki,199.4,77.2,77.7,sedang,sering,tidak pernah,9,Menjaga Kesehatan
+363,52,laki-laki,186.8,78.2,83.3,sedang,sering,tidak pernah,8,Meningkatkan Berat Badan
+364,60,laki-laki,182,93.3,73.1,tinggi,sering,sering,8,Meningkatkan Kebugaran
+365,53,laki-laki,175.8,80.4,75.1,sedang,jarang,jarang,7,Menurunkan Berat Badan
+366,41,laki-laki,163.6,72.1,56.8,sedang,jarang,sering,8,Menjaga Kesehatan
+367,23,laki-laki,168.8,80.5,67.3,rendah,jarang,tidak pernah,9,Menjaga Kesehatan
+368,59,laki-laki,195.2,85.9,90.3,sedang,tidak pernah,tidak pernah,6,Meningkatkan Berat Badan
+369,26,laki-laki,161.4,80.9,68.1,sedang,tidak pernah,jarang,9,Menurunkan Berat Badan
+370,56,laki-laki,192.8,100.8,85.2,sedang,jarang,sering,7,Menurunkan Berat Badan
+371,36,laki-laki,193.7,96.3,83.9,rendah,jarang,sering,8,Meningkatkan Kebugaran
+372,30,laki-laki,174.8,79.3,71.3,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+373,41,laki-laki,183.1,82.7,74.8,tinggi,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+374,20,laki-laki,183.4,69.4,75.6,rendah,jarang,tidak pernah,9,Meningkatkan Kebugaran
+375,47,laki-laki,170.7,64.5,59,sedang,sering,sering,9,Menjaga Kesehatan
+376,49,laki-laki,163.3,64.7,53.4,tinggi,sering,jarang,9,Menjaga Kesehatan
+377,44,laki-laki,172.6,61.9,67.6,rendah,tidak pernah,jarang,5,Menjaga Kesehatan
+378,46,laki-laki,190.2,90,79.3,tinggi,sering,tidak pernah,8,Menurunkan Berat Badan
+379,56,laki-laki,184.5,82.8,88,rendah,jarang,sering,5,Meningkatkan Berat Badan
+380,20,laki-laki,171.2,83,67.5,tinggi,jarang,tidak pernah,7,Menjaga Kesehatan
+381,59,laki-laki,193.7,99.5,88.4,sedang,jarang,jarang,8,Menurunkan Berat Badan
+382,65,laki-laki,180,112.4,99.1,rendah,tidak pernah,tidak pernah,5,Menurunkan Berat Badan
+383,54,laki-laki,198.5,90.8,96.2,sedang,sering,tidak pernah,5,Meningkatkan Berat Badan
+384,51,laki-laki,198.4,91.1,95.7,rendah,tidak pernah,tidak pernah,9,Meningkatkan Berat Badan
+385,52,laki-laki,195.5,89.8,89.3,sedang,jarang,sering,6,Menjaga Kesehatan
+386,19,laki-laki,165.4,77.7,54.8,sedang,jarang,tidak pernah,8,Meningkatkan Kebugaran
+387,49,laki-laki,183.1,82.4,71.1,rendah,tidak pernah,sering,6,Meningkatkan Kebugaran
+388,34,laki-laki,199,102.2,93.2,tinggi,sering,jarang,7,Menurunkan Berat Badan
+389,63,laki-laki,166.2,59.7,64.9,tinggi,sering,jarang,7,Menjaga Kesehatan
+390,34,laki-laki,176.2,81.5,68.9,tinggi,jarang,tidak pernah,4,Menjaga Kesehatan
+391,21,laki-laki,183.1,73.4,79.9,tinggi,sering,tidak pernah,7,Meningkatkan Kebugaran
+392,28,laki-laki,196.8,90.4,92.3,tinggi,jarang,tidak pernah,7,Meningkatkan Kebugaran
+393,38,laki-laki,177.4,71.1,71.5,tinggi,sering,sering,7,Meningkatkan Kebugaran
+394,54,laki-laki,166.5,71.2,64.3,sedang,sering,jarang,5,Menurunkan Berat Badan
+395,26,laki-laki,196.4,106.1,99.5,sedang,jarang,jarang,8,Menurunkan Berat Badan
+396,23,laki-laki,170.2,52.8,48.9,tinggi,sering,sering,6,Menurunkan Berat Badan
+397,32,laki-laki,196.4,82.9,78.5,rendah,sering,jarang,9,Menurunkan Berat Badan
+398,59,laki-laki,172.5,64.6,71.4,sedang,jarang,tidak pernah,4,Menjaga Kesehatan
+399,46,laki-laki,162.7,73.5,64,rendah,tidak pernah,sering,4,Menurunkan Berat Badan
+400,55,laki-laki,174.2,78.3,66.6,sedang,tidak pernah,sering,8,Meningkatkan Kebugaran
+401,42,laki-laki,178.4,63.8,76.3,tinggi,sering,sering,9,Meningkatkan Kebugaran
+402,50,laki-laki,181.3,78.2,66.1,sedang,jarang,jarang,6,Menjaga Kesehatan
+403,49,laki-laki,199.5,90.3,92,sedang,jarang,tidak pernah,6,Meningkatkan Kebugaran
+404,39,laki-laki,161.6,66,57.9,sedang,sering,tidak pernah,9,Meningkatkan Kebugaran
+405,58,laki-laki,167.2,76.1,66.8,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+406,39,laki-laki,170.6,68.8,62.5,tinggi,jarang,tidak pernah,5,Menjaga Kesehatan
+407,18,laki-laki,183.2,76.9,75.7,sedang,jarang,jarang,6,Menjaga Kesehatan
+408,64,laki-laki,165.4,56.5,63,rendah,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+409,24,laki-laki,167.7,65.6,68.1,sedang,jarang,sering,5,Menjaga Kesehatan
+410,31,laki-laki,193.2,83.6,82.2,rendah,sering,tidak pernah,9,Meningkatkan Kebugaran
+411,34,laki-laki,197.7,95.9,89.2,rendah,tidak pernah,sering,8,Menjaga Kesehatan
+412,51,laki-laki,162.9,72,63.9,rendah,jarang,jarang,9,Menurunkan Berat Badan
+413,57,laki-laki,163.1,56.2,61.9,sedang,jarang,sering,4,Meningkatkan Kebugaran
+414,59,laki-laki,163.2,62.1,60.8,sedang,sering,jarang,5,Meningkatkan Kebugaran
+415,47,laki-laki,174.9,84.3,67.3,tinggi,sering,jarang,9,Meningkatkan Kebugaran
+416,20,laki-laki,192.5,93,79.3,tinggi,jarang,tidak pernah,5,Menurunkan Berat Badan
+417,48,laki-laki,175.8,91.5,81.5,sedang,sering,jarang,9,Menurunkan Berat Badan
+418,26,laki-laki,184.7,103.4,113.1,tinggi,sering,tidak pernah,5,Meningkatkan Berat Badan
+419,55,laki-laki,169.8,61.1,67.3,rendah,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+420,64,laki-laki,181.5,81,69.3,tinggi,sering,tidak pernah,5,Meningkatkan Kebugaran
+421,34,laki-laki,192,80.5,83.2,sedang,sering,tidak pernah,7,Menjaga Kesehatan
+422,21,laki-laki,187.3,92.8,72.1,sedang,jarang,jarang,9,Menjaga Kesehatan
+423,53,laki-laki,166.7,74.6,63.4,rendah,jarang,tidak pernah,9,Menurunkan Berat Badan
+424,63,laki-laki,181.7,102.4,84.5,rendah,jarang,sering,9,Menurunkan Berat Badan
+425,42,laki-laki,171.3,90.8,80.5,tinggi,jarang,sering,5,Menurunkan Berat Badan
+426,31,laki-laki,198.1,77.2,92.5,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+427,38,laki-laki,191.7,111,93.7,sedang,sering,jarang,7,Menurunkan Berat Badan
+428,50,laki-laki,185,112.3,105.6,tinggi,sering,tidak pernah,5,Menurunkan Berat Badan
+429,26,laki-laki,168,60.3,58.8,sedang,sering,jarang,4,Menjaga Kesehatan
+430,36,laki-laki,165,62.1,61.8,tinggi,sering,jarang,4,Menjaga Kesehatan
+431,30,laki-laki,188.4,84.5,75.4,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+432,62,laki-laki,171.4,76.6,69.7,sedang,tidak pernah,sering,8,Menjaga Kesehatan
+433,41,laki-laki,164.1,72.4,57.8,sedang,sering,tidak pernah,9,Meningkatkan Kebugaran
+434,56,laki-laki,194.3,87.4,88.8,rendah,jarang,tidak pernah,5,Menjaga Kesehatan
+435,53,laki-laki,185.7,84.8,73.9,sedang,jarang,jarang,8,Menjaga Kesehatan
+436,32,laki-laki,161.5,74.7,62.4,tinggi,jarang,sering,9,Meningkatkan Kebugaran
+437,43,laki-laki,189.7,79.8,79.8,rendah,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+438,30,laki-laki,199.8,110,102.8,sedang,jarang,tidak pernah,9,Menurunkan Berat Badan
+439,35,laki-laki,179.4,69.2,71.3,sedang,sering,jarang,6,Menjaga Kesehatan
+440,61,laki-laki,190.1,91.8,84.2,rendah,sering,sering,4,Menurunkan Berat Badan
+441,41,laki-laki,177.1,78.2,66.1,tinggi,jarang,sering,5,Meningkatkan Kebugaran
+442,31,laki-laki,191.3,59,64,tinggi,sering,tidak pernah,7,Meningkatkan Berat Badan
+443,61,laki-laki,195.5,114.4,80.5,rendah,jarang,tidak pernah,7,Meningkatkan Kebugaran
+444,18,laki-laki,194.7,105.3,85.5,tinggi,sering,jarang,7,Menurunkan Berat Badan
+445,34,laki-laki,191.3,93,86.5,sedang,jarang,tidak pernah,6,Menurunkan Berat Badan
+446,58,laki-laki,189.9,73,78.9,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+447,57,laki-laki,181.3,90.4,72.5,sedang,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+448,37,laki-laki,197.7,103.7,83.2,rendah,tidak pernah,jarang,7,Meningkatkan Kebugaran
+449,60,laki-laki,173.5,74.4,61.3,sedang,jarang,tidak pernah,9,Menjaga Kesehatan
+450,62,laki-laki,187.6,84.5,82.6,rendah,sering,tidak pernah,8,Menjaga Kesehatan
+451,32,laki-laki,172.5,50.5,68.9,rendah,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+452,45,laki-laki,194.4,78.1,86.5,sedang,sering,jarang,5,Menjaga Kesehatan
+453,33,laki-laki,184.4,95.6,85.3,sedang,jarang,jarang,7,Menurunkan Berat Badan
+454,53,laki-laki,164.9,59.9,61.1,sedang,tidak pernah,jarang,6,Meningkatkan Kebugaran
+455,34,laki-laki,170.2,69.4,63.1,tinggi,jarang,tidak pernah,7,Menurunkan Berat Badan
+456,40,laki-laki,172.9,70.1,72.1,sedang,jarang,tidak pernah,4,Meningkatkan Kebugaran
+457,26,laki-laki,197.6,76.7,88.2,sedang,sering,jarang,5,Meningkatkan Berat Badan
+458,51,laki-laki,180.8,61.6,70.6,tinggi,sering,sering,9,Meningkatkan Kebugaran
+459,60,laki-laki,179.6,70.9,68,tinggi,sering,sering,8,Menjaga Kesehatan
+460,33,laki-laki,160.4,48.8,61.4,tinggi,jarang,tidak pernah,7,Meningkatkan Kebugaran
+461,45,laki-laki,189.5,94.1,81,rendah,sering,sering,9,Menurunkan Berat Badan
+462,34,laki-laki,191.5,70.8,77,tinggi,sering,jarang,5,Meningkatkan Kebugaran
+463,42,laki-laki,194.4,93.6,104.4,sedang,tidak pernah,tidak pernah,5,Meningkatkan Berat Badan
+464,65,laki-laki,174.4,82,74.6,sedang,jarang,jarang,8,Menurunkan Berat Badan
+465,26,laki-laki,187.1,73,78.1,sedang,sering,sering,4,Menjaga Kesehatan
+466,43,laki-laki,187.1,90.8,73,sedang,sering,sering,4,Menurunkan Berat Badan
+467,62,laki-laki,189.8,86.4,73.9,tinggi,sering,sering,5,Menjaga Kesehatan
+468,33,laki-laki,172.5,82.6,78.3,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+469,30,laki-laki,176.4,74.9,72.4,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+470,38,laki-laki,196.5,79,88.1,tinggi,jarang,jarang,9,Menjaga Kesehatan
+471,41,laki-laki,165.8,70.7,62.7,tinggi,sering,tidak pernah,7,Meningkatkan Kebugaran
+472,19,laki-laki,162.6,74.3,62.5,rendah,tidak pernah,jarang,4,Menurunkan Berat Badan
+473,62,laki-laki,167.5,78.7,73.2,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+474,25,laki-laki,185.5,61.9,65.3,rendah,tidak pernah,tidak pernah,6,Meningkatkan Berat Badan
+475,34,laki-laki,194.3,91.6,85.9,rendah,sering,tidak pernah,8,Meningkatkan Kebugaran
+476,55,laki-laki,162,87.1,79,tinggi,tidak pernah,sering,5,Menurunkan Berat Badan
+477,44,laki-laki,199.8,80.7,94.5,sedang,jarang,tidak pernah,7,Menjaga Kesehatan
+478,60,laki-laki,192.9,89.2,98.6,sedang,sering,jarang,9,Meningkatkan Berat Badan
+479,61,laki-laki,187.4,84.2,77.7,tinggi,sering,jarang,9,Menjaga Kesehatan
+480,22,laki-laki,161,69.8,64.6,sedang,jarang,tidak pernah,9,Menurunkan Berat Badan
+481,19,laki-laki,195.8,102.8,89.4,tinggi,tidak pernah,jarang,4,Menjaga Kesehatan
+482,44,laki-laki,171.2,82.2,61.3,tinggi,sering,jarang,9,Menjaga Kesehatan
+483,22,laki-laki,163.5,65.6,54,rendah,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+484,48,laki-laki,163.5,59.9,61.5,rendah,jarang,sering,8,Menjaga Kesehatan
+485,49,laki-laki,183.9,77,68.1,sedang,jarang,tidak pernah,6,Menjaga Kesehatan
+486,48,laki-laki,194.2,86,87.5,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+487,29,laki-laki,198.6,115.1,104,tinggi,jarang,tidak pernah,9,Menurunkan Berat Badan
+488,29,laki-laki,194.7,94.2,80.1,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+489,57,laki-laki,197.1,88.4,81.9,rendah,jarang,tidak pernah,8,Meningkatkan Kebugaran
+490,47,laki-laki,197.4,120.6,98.5,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+491,53,laki-laki,179.4,87.2,93.8,rendah,tidak pernah,tidak pernah,8,Meningkatkan Berat Badan
+492,57,laki-laki,198.7,97.3,85.3,sedang,jarang,sering,9,Menjaga Kesehatan
+493,57,laki-laki,170.6,79.9,75.4,sedang,jarang,tidak pernah,7,Menurunkan Berat Badan
+494,31,laki-laki,183.3,68.6,68.8,sedang,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+495,25,laki-laki,165.9,75.6,66.3,rendah,tidak pernah,sering,6,Menurunkan Berat Badan
+496,36,laki-laki,192.5,94.1,82.1,rendah,jarang,sering,5,Meningkatkan Kebugaran
+497,34,laki-laki,192.6,101.2,77.4,sedang,tidak pernah,sering,7,Menjaga Kesehatan
+498,54,laki-laki,182.9,72.3,74.4,tinggi,tidak pernah,sering,8,Meningkatkan Kebugaran
+499,57,laki-laki,183.3,75.7,76.9,sedang,jarang,tidak pernah,7,Meningkatkan Kebugaran
+500,24,laki-laki,186.6,59.5,65.4,sedang,sering,tidak pernah,6,Meningkatkan Berat Badan
+501,26,laki-laki,166.4,61.4,63.4,sedang,jarang,tidak pernah,5,Menjaga Kesehatan
+502,30,laki-laki,191.4,86.7,78.9,sedang,jarang,tidak pernah,7,Menjaga Kesehatan
+503,54,laki-laki,165.3,71,79.9,tinggi,sering,sering,4,Meningkatkan Berat Badan
+504,57,laki-laki,185.8,79.2,71.4,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+505,21,laki-laki,197.4,77.9,92.3,rendah,jarang,jarang,9,Meningkatkan Kebugaran
+506,35,laki-laki,179.5,97.8,84.6,tinggi,jarang,tidak pernah,4,Menurunkan Berat Badan
+507,24,laki-laki,170.7,80,68.6,tinggi,sering,sering,6,Menurunkan Berat Badan
+508,59,laki-laki,184.2,82.9,73.5,sedang,sering,jarang,5,Menjaga Kesehatan
+509,47,laki-laki,191.7,115.3,97.4,rendah,tidak pernah,jarang,8,Menurunkan Berat Badan
+510,31,laki-laki,169.6,84.3,68.7,rendah,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+511,53,laki-laki,169.6,83.2,60.9,tinggi,sering,jarang,5,Meningkatkan Kebugaran
+512,45,laki-laki,189.4,97,80.2,sedang,sering,tidak pernah,8,Menurunkan Berat Badan
+513,29,laki-laki,172.1,71.2,81.4,rendah,jarang,sering,8,Meningkatkan Berat Badan
+514,30,laki-laki,165.4,55.6,61,tinggi,jarang,tidak pernah,8,Meningkatkan Berat Badan
+515,42,laki-laki,183.9,73.1,71.2,sedang,sering,jarang,4,Menjaga Kesehatan
+516,65,laki-laki,186.7,96.7,82.8,sedang,sering,tidak pernah,6,Meningkatkan Kebugaran
+517,39,laki-laki,183,53.6,76.5,tinggi,sering,jarang,4,Meningkatkan Kebugaran
+518,43,laki-laki,179.4,93,106.1,sedang,sering,tidak pernah,6,Meningkatkan Berat Badan
+519,21,laki-laki,192.8,81.4,92.2,sedang,jarang,jarang,4,Meningkatkan Berat Badan
+520,44,laki-laki,165.8,66.9,63.5,sedang,jarang,sering,5,Menurunkan Berat Badan
+521,43,laki-laki,181.1,95.3,85.2,sedang,sering,jarang,6,Menurunkan Berat Badan
+522,59,laki-laki,182.1,77.9,66.4,tinggi,sering,tidak pernah,5,Meningkatkan Kebugaran
+523,41,laki-laki,186.5,80.7,70.8,tinggi,sering,sering,8,Menjaga Kesehatan
+524,45,laki-laki,190.4,58.4,66.8,tinggi,sering,tidak pernah,7,Meningkatkan Berat Badan
+525,25,laki-laki,179.3,75.6,74.7,rendah,tidak pernah,jarang,7,Menjaga Kesehatan
+526,18,laki-laki,186.6,84.7,77.6,tinggi,jarang,tidak pernah,5,Meningkatkan Kebugaran
+527,61,laki-laki,172.1,87.9,81.8,sedang,tidak pernah,jarang,5,Menurunkan Berat Badan
+528,41,laki-laki,186.8,78.1,79.7,rendah,jarang,sering,5,Menjaga Kesehatan
+529,48,laki-laki,178,79.1,73.6,sedang,jarang,jarang,8,Meningkatkan Kebugaran
+530,42,laki-laki,189.3,109.3,94,tinggi,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+531,64,laki-laki,192.2,108.1,78.6,tinggi,sering,jarang,9,Meningkatkan Kebugaran
+532,49,laki-laki,174.2,78.3,65.3,rendah,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+533,28,laki-laki,174,69.8,70.5,tinggi,sering,sering,5,Meningkatkan Kebugaran
+534,23,laki-laki,173.2,72.1,76.7,sedang,jarang,jarang,7,Meningkatkan Berat Badan
+535,38,laki-laki,192,89.4,96.1,rendah,tidak pernah,sering,9,Meningkatkan Berat Badan
+536,62,laki-laki,159.9,80.7,70.6,sedang,sering,jarang,5,Menurunkan Berat Badan
+537,26,laki-laki,160.6,62.8,53.8,rendah,tidak pernah,jarang,7,Menjaga Kesehatan
+538,62,laki-laki,172.1,72.1,78,sedang,sering,jarang,6,Meningkatkan Berat Badan
+539,40,laki-laki,170.7,69.5,60,sedang,sering,tidak pernah,9,Menjaga Kesehatan
+540,18,laki-laki,181.7,72.5,69.7,rendah,jarang,tidak pernah,7,Menjaga Kesehatan
+541,60,laki-laki,165.5,63.5,66.8,tinggi,sering,tidak pernah,4,Meningkatkan Berat Badan
+542,25,laki-laki,168.6,45.5,49.8,sedang,sering,jarang,6,Meningkatkan Berat Badan
+543,65,laki-laki,180.8,96.3,71.3,tinggi,jarang,sering,6,Meningkatkan Kebugaran
+544,42,laki-laki,184.1,91.2,76.7,rendah,tidak pernah,jarang,9,Meningkatkan Kebugaran
+545,37,laki-laki,180.2,89.1,79.6,sedang,tidak pernah,jarang,7,Menurunkan Berat Badan
+546,44,laki-laki,182.3,76.4,82.5,sedang,jarang,jarang,6,Meningkatkan Berat Badan
+547,51,laki-laki,177,96.6,85,rendah,tidak pernah,sering,7,Menurunkan Berat Badan
+548,30,laki-laki,161.5,73.6,56.6,tinggi,jarang,tidak pernah,8,Meningkatkan Kebugaran
+549,26,laki-laki,196.5,117.4,98.4,sedang,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+550,35,laki-laki,161.5,64.9,54.4,tinggi,tidak pernah,sering,4,Menurunkan Berat Badan
+551,45,laki-laki,175.2,66.6,59.4,sedang,jarang,tidak pernah,8,Menurunkan Berat Badan
+552,58,laki-laki,187.7,86.9,71.8,rendah,tidak pernah,jarang,4,Menjaga Kesehatan
+553,57,laki-laki,172.8,64.7,72.2,rendah,tidak pernah,tidak pernah,5,Meningkatkan Berat Badan
+554,19,laki-laki,177.1,84.3,64.3,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+555,39,laki-laki,183.6,78.3,71.7,rendah,tidak pernah,sering,8,Menjaga Kesehatan
+556,42,laki-laki,180.4,96.8,65.9,tinggi,sering,tidak pernah,8,Menjaga Kesehatan
+557,62,laki-laki,187.4,95.1,89.8,rendah,tidak pernah,jarang,8,Menurunkan Berat Badan
+558,45,laki-laki,172.4,62.9,60.5,tinggi,sering,sering,7,Meningkatkan Kebugaran
+559,59,laki-laki,192,111.3,77.4,rendah,tidak pernah,jarang,4,Menjaga Kesehatan
+560,50,laki-laki,175.7,86.1,77.5,sedang,sering,sering,8,Menurunkan Berat Badan
+561,20,laki-laki,165,62.8,63.1,rendah,jarang,sering,4,Meningkatkan Kebugaran
+562,48,laki-laki,188.3,110.7,82.6,tinggi,tidak pernah,jarang,8,Menjaga Kesehatan
+563,65,laki-laki,174,57.6,62.1,sedang,jarang,jarang,7,Meningkatkan Berat Badan
+564,37,laki-laki,191.9,80.7,86.4,rendah,jarang,sering,7,Menjaga Kesehatan
+565,43,laki-laki,170.1,79.6,72.4,rendah,jarang,sering,7,Menurunkan Berat Badan
+566,63,laki-laki,188.8,100.7,82.7,tinggi,sering,sering,4,Menurunkan Berat Badan
+567,59,laki-laki,197.6,102.9,88.8,sedang,jarang,tidak pernah,5,Menurunkan Berat Badan
+568,44,laki-laki,177.1,76.8,70.9,sedang,jarang,sering,5,Meningkatkan Kebugaran
+569,25,laki-laki,198.4,98.3,83.1,sedang,sering,sering,4,Meningkatkan Kebugaran
+570,27,laki-laki,197.9,112.8,86,tinggi,jarang,sering,6,Menjaga Kesehatan
+571,43,laki-laki,171.2,69.5,61.9,rendah,jarang,jarang,5,Menjaga Kesehatan
+572,34,laki-laki,195.6,89.5,90.9,sedang,sering,sering,7,Menjaga Kesehatan
+573,27,laki-laki,169.8,49.3,52.2,tinggi,jarang,jarang,4,Meningkatkan Berat Badan
+574,60,laki-laki,170.4,74.4,63.1,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+575,44,laki-laki,167,79.2,57.6,rendah,jarang,tidak pernah,9,Menjaga Kesehatan
+576,41,laki-laki,185,95.9,81.9,tinggi,sering,tidak pernah,4,Menjaga Kesehatan
+577,35,laki-laki,165.7,79.9,64.8,rendah,jarang,tidak pernah,5,Menurunkan Berat Badan
+578,50,laki-laki,186.1,86.4,75,sedang,jarang,tidak pernah,5,Meningkatkan Kebugaran
+579,44,laki-laki,166.9,62.5,56.5,rendah,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+580,44,laki-laki,180,82.7,69.3,tinggi,tidak pernah,jarang,4,Menurunkan Berat Badan
+581,61,laki-laki,166.4,66.1,69,tinggi,jarang,tidak pernah,6,Menjaga Kesehatan
+582,38,laki-laki,189.1,92.4,79.6,sedang,jarang,jarang,4,Meningkatkan Kebugaran
+583,57,laki-laki,161.1,54.5,55.2,rendah,tidak pernah,sering,8,Menjaga Kesehatan
+584,64,laki-laki,180.5,85.5,72.3,sedang,jarang,tidak pernah,7,Menurunkan Berat Badan
+585,64,laki-laki,166.8,82.6,65.3,sedang,tidak pernah,jarang,5,Meningkatkan Kebugaran
+586,53,laki-laki,170,73.6,67.1,tinggi,sering,jarang,5,Menurunkan Berat Badan
+587,20,laki-laki,180,79.4,66.7,tinggi,jarang,tidak pernah,9,Meningkatkan Kebugaran
+588,19,laki-laki,191.3,89.5,73.4,rendah,tidak pernah,tidak pernah,6,Menjaga Kesehatan
+589,55,laki-laki,169.9,81.8,58.1,sedang,sering,jarang,7,Meningkatkan Kebugaran
+590,21,laki-laki,185.2,85,69.9,tinggi,sering,sering,6,Menjaga Kesehatan
+591,60,laki-laki,166.2,73.3,60.1,rendah,jarang,jarang,4,Menurunkan Berat Badan
+592,39,laki-laki,190.1,104.5,78.9,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+593,19,laki-laki,187.2,81.4,71.7,tinggi,jarang,jarang,9,Meningkatkan Kebugaran
+594,34,laki-laki,190.4,96.4,84,rendah,tidak pernah,sering,6,Menurunkan Berat Badan
+595,28,laki-laki,185.3,81.6,80.4,sedang,sering,jarang,9,Menjaga Kesehatan
+596,35,laki-laki,186.6,90.8,75.4,tinggi,sering,sering,7,Menjaga Kesehatan
+597,49,laki-laki,182.5,80.5,83.3,sedang,jarang,jarang,7,Menjaga Kesehatan
+598,26,laki-laki,184.7,71,72.2,sedang,jarang,jarang,8,Meningkatkan Kebugaran
+599,18,laki-laki,190.8,89.9,83.8,tinggi,jarang,jarang,8,Meningkatkan Kebugaran
+600,58,laki-laki,161.2,56.2,61.5,rendah,jarang,jarang,5,Meningkatkan Kebugaran
+601,37,laki-laki,197.2,91.6,88.7,sedang,jarang,sering,8,Meningkatkan Kebugaran
+602,56,laki-laki,171.3,89.6,75.1,rendah,jarang,tidak pernah,7,Menurunkan Berat Badan
+603,50,laki-laki,193.5,95.5,88.9,rendah,jarang,jarang,5,Menjaga Kesehatan
+604,55,laki-laki,178.8,99.5,90.4,rendah,jarang,sering,6,Menurunkan Berat Badan
+605,33,laki-laki,191.8,88.2,88.9,sedang,jarang,jarang,6,Meningkatkan Kebugaran
+606,36,laki-laki,176.9,77.1,86.1,sedang,jarang,sering,5,Meningkatkan Berat Badan
+607,30,laki-laki,174.7,75.1,68.1,rendah,jarang,tidak pernah,8,Menurunkan Berat Badan
+608,63,laki-laki,176.6,80.8,68.2,rendah,jarang,sering,7,Menjaga Kesehatan
+609,27,laki-laki,192.2,78.1,79,tinggi,sering,tidak pernah,5,Meningkatkan Kebugaran
+610,31,laki-laki,189.7,104.9,97.2,tinggi,sering,sering,5,Menurunkan Berat Badan
+611,43,laki-laki,177.6,91.6,82.7,sedang,tidak pernah,tidak pernah,8,Menurunkan Berat Badan
+612,48,laki-laki,190.5,80.5,92,tinggi,sering,tidak pernah,7,Meningkatkan Berat Badan
+613,64,laki-laki,162.7,62,63.9,rendah,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+614,22,laki-laki,198.9,76.7,86.6,sedang,tidak pernah,sering,7,Meningkatkan Kebugaran
+615,21,laki-laki,174.2,76.1,61,sedang,sering,jarang,9,Menurunkan Berat Badan
+616,18,laki-laki,178.4,92.9,85.2,tinggi,sering,tidak pernah,7,Menurunkan Berat Badan
+617,40,laki-laki,187,73.2,83,sedang,jarang,sering,9,Meningkatkan Kebugaran
+618,58,laki-laki,170,71.3,65.4,sedang,tidak pernah,jarang,6,Meningkatkan Kebugaran
+619,47,laki-laki,184.3,79.5,89.9,tinggi,sering,tidak pernah,4,Meningkatkan Berat Badan
+620,56,laki-laki,190.1,86.3,75.9,rendah,tidak pernah,jarang,9,Menjaga Kesehatan
+621,44,laki-laki,193.9,80.5,87.3,sedang,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+622,39,laki-laki,191.4,112.8,73.8,sedang,jarang,sering,4,Meningkatkan Kebugaran
+623,35,laki-laki,193.5,97.5,89.9,sedang,jarang,sering,5,Menurunkan Berat Badan
+624,37,laki-laki,170.6,81.7,72.4,sedang,jarang,sering,6,Menurunkan Berat Badan
+625,48,laki-laki,183.7,74.8,76.2,tinggi,jarang,sering,5,Meningkatkan Kebugaran
+626,62,laki-laki,178.2,98.4,85.1,tinggi,sering,sering,7,Menurunkan Berat Badan
+627,32,laki-laki,181.6,103.7,87.4,tinggi,tidak pernah,sering,8,Menurunkan Berat Badan
+628,47,laki-laki,163.4,68,59.8,tinggi,sering,tidak pernah,6,Meningkatkan Kebugaran
+629,61,laki-laki,189.4,101.6,81.9,sedang,jarang,jarang,5,Menurunkan Berat Badan
+630,33,laki-laki,175.7,86.4,75.6,sedang,sering,jarang,8,Menurunkan Berat Badan
+631,22,laki-laki,191.6,82,75.2,rendah,jarang,sering,6,Meningkatkan Kebugaran
+632,35,laki-laki,182.9,101.3,83.9,tinggi,sering,jarang,7,Menurunkan Berat Badan
+633,44,laki-laki,160.9,65,52.1,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+634,57,laki-laki,176.9,71.8,72.4,sedang,tidak pernah,jarang,5,Menjaga Kesehatan
+635,55,laki-laki,172.9,59.9,63.5,rendah,tidak pernah,tidak pernah,9,Meningkatkan Berat Badan
+636,59,laki-laki,171.1,76.5,65.2,rendah,tidak pernah,jarang,5,Meningkatkan Kebugaran
+637,19,laki-laki,176.7,77.3,72.8,sedang,jarang,jarang,9,Menurunkan Berat Badan
+638,39,laki-laki,195.9,95.6,80.6,tinggi,sering,jarang,8,Menjaga Kesehatan
+639,60,laki-laki,191.5,113.4,101.8,rendah,jarang,sering,9,Menurunkan Berat Badan
+640,49,laki-laki,193.1,88.5,87.3,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+641,29,laki-laki,176.3,75.3,86.4,tinggi,jarang,jarang,8,Meningkatkan Berat Badan
+642,47,laki-laki,176.3,61.6,69.1,sedang,sering,tidak pernah,8,Meningkatkan Kebugaran
+643,32,laki-laki,167.4,79.6,64.3,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+644,58,laki-laki,174.6,67.8,69.2,tinggi,sering,tidak pernah,7,Menjaga Kesehatan
+645,21,laki-laki,182,71.1,66.5,tinggi,sering,tidak pernah,8,Menurunkan Berat Badan
+646,49,laki-laki,191.8,82.8,81,tinggi,sering,jarang,6,Menjaga Kesehatan
+647,19,laki-laki,165.9,68,72.2,tinggi,jarang,tidak pernah,9,Meningkatkan Berat Badan
+648,33,laki-laki,199.4,76.2,94.7,tinggi,sering,jarang,5,Menjaga Kesehatan
+649,61,laki-laki,163.2,69.6,54.1,rendah,tidak pernah,jarang,5,Menjaga Kesehatan
+650,60,laki-laki,177.1,73.8,74.5,tinggi,jarang,jarang,5,Meningkatkan Kebugaran
+651,24,laki-laki,176.5,73.9,65.4,rendah,jarang,jarang,8,Meningkatkan Kebugaran
+652,45,laki-laki,188.8,117.2,102.6,rendah,jarang,tidak pernah,9,Menurunkan Berat Badan
+653,22,laki-laki,181.7,74,74,rendah,jarang,jarang,5,Menjaga Kesehatan
+654,37,laki-laki,174.6,79.8,68,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+655,61,laki-laki,160.1,70.3,57.9,tinggi,jarang,tidak pernah,6,Menurunkan Berat Badan
+656,24,laki-laki,187.1,70.8,80.1,rendah,sering,jarang,5,Meningkatkan Kebugaran
+657,58,laki-laki,198.9,120.2,84.1,rendah,tidak pernah,sering,6,Meningkatkan Kebugaran
+658,46,laki-laki,180,82.6,68.8,sedang,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+659,53,laki-laki,173.7,75.4,67.1,rendah,jarang,sering,8,Meningkatkan Kebugaran
+660,43,laki-laki,177.5,64,56.3,rendah,jarang,sering,6,Menurunkan Berat Badan
+661,33,laki-laki,174.6,68,66.1,sedang,jarang,jarang,4,Menjaga Kesehatan
+662,25,laki-laki,187.7,105.3,74,sedang,sering,sering,4,Menjaga Kesehatan
+663,44,laki-laki,170.4,72.8,62.5,rendah,tidak pernah,tidak pernah,8,Menurunkan Berat Badan
+664,39,laki-laki,164.1,73.4,54.7,rendah,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+665,37,laki-laki,168.1,64.2,55.2,tinggi,jarang,jarang,5,Menurunkan Berat Badan
+666,63,laki-laki,173,75.7,61.4,tinggi,jarang,sering,6,Menurunkan Berat Badan
+667,27,laki-laki,178.6,91.5,77.2,tinggi,sering,sering,6,Menurunkan Berat Badan
+668,49,laki-laki,168.9,80.9,58.5,sedang,jarang,tidak pernah,6,Menjaga Kesehatan
+669,34,laki-laki,172.8,75.5,64.2,tinggi,sering,tidak pernah,7,Meningkatkan Kebugaran
+670,53,laki-laki,161.8,77.2,64.6,rendah,sering,sering,5,Menurunkan Berat Badan
+671,51,laki-laki,189.4,75.6,83.6,rendah,tidak pernah,jarang,5,Meningkatkan Kebugaran
+672,46,laki-laki,186.6,93.8,76.2,sedang,sering,jarang,6,Menurunkan Berat Badan
+673,39,laki-laki,197.4,99.8,93.4,tinggi,sering,tidak pernah,8,Meningkatkan Kebugaran
+674,39,laki-laki,160.5,51,48.1,rendah,sering,tidak pernah,5,Menjaga Kesehatan
+675,50,laki-laki,182.5,74.5,61.8,rendah,sering,sering,9,Menurunkan Berat Badan
+676,61,laki-laki,190.6,98.2,88.4,tinggi,sering,tidak pernah,7,Menurunkan Berat Badan
+677,44,laki-laki,168.3,59.7,53.9,sedang,jarang,sering,9,Menurunkan Berat Badan
+678,37,laki-laki,172.6,78.5,65.5,sedang,jarang,jarang,5,Menurunkan Berat Badan
+679,46,laki-laki,172.7,57.5,66.9,tinggi,sering,jarang,5,Meningkatkan Kebugaran
+680,38,laki-laki,181.7,93.6,99.7,sedang,tidak pernah,sering,9,Meningkatkan Berat Badan
+681,27,laki-laki,191.5,97.9,75.8,sedang,jarang,tidak pernah,9,Menjaga Kesehatan
+682,27,laki-laki,191.9,88.8,87.4,rendah,tidak pernah,jarang,4,Meningkatkan Kebugaran
+683,44,laki-laki,198.3,103.1,87.2,sedang,jarang,jarang,6,Menurunkan Berat Badan
+684,40,laki-laki,177.1,74.8,64.9,tinggi,sering,tidak pernah,7,Meningkatkan Kebugaran
+685,61,laki-laki,172.4,74.6,76.8,tinggi,sering,sering,9,Menjaga Kesehatan
+686,39,laki-laki,195.2,99.8,114.7,rendah,jarang,tidak pernah,9,Meningkatkan Berat Badan
+687,57,laki-laki,191.7,88.8,76.1,tinggi,sering,jarang,8,Menjaga Kesehatan
+688,29,laki-laki,163.4,76.5,66.6,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+689,61,laki-laki,181.6,100.8,81.2,rendah,tidak pernah,sering,8,Menurunkan Berat Badan
+690,27,laki-laki,186.1,80.3,79.6,sedang,tidak pernah,jarang,5,Menjaga Kesehatan
+691,27,laki-laki,198,88.8,89.5,tinggi,sering,tidak pernah,4,Menjaga Kesehatan
+692,25,laki-laki,194.1,95.2,76.6,sedang,jarang,tidak pernah,7,Menurunkan Berat Badan
+693,57,laki-laki,163.5,79.2,61.9,rendah,tidak pernah,sering,8,Menjaga Kesehatan
+694,30,laki-laki,171.7,84.1,70.7,tinggi,sering,sering,4,Menjaga Kesehatan
+695,30,laki-laki,174.7,85.9,63.6,sedang,jarang,sering,5,Menjaga Kesehatan
+696,42,laki-laki,176.3,78.6,66.8,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+697,53,laki-laki,192.5,109.3,82.5,rendah,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+698,52,laki-laki,199.5,97.1,103,sedang,tidak pernah,tidak pernah,9,Meningkatkan Berat Badan
+699,35,laki-laki,180.6,80.6,73.4,sedang,sering,jarang,7,Menjaga Kesehatan
+700,21,laki-laki,163,69.9,61.2,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+701,46,laki-laki,166.5,68.6,61.4,tinggi,sering,sering,6,Menjaga Kesehatan
+702,46,laki-laki,182.3,90.3,72.9,sedang,tidak pernah,sering,6,Menurunkan Berat Badan
+703,36,laki-laki,178.9,81.8,65.3,tinggi,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+704,42,laki-laki,173.1,64.4,58.9,sedang,jarang,tidak pernah,9,Menurunkan Berat Badan
+705,34,laki-laki,191.5,89.2,100.1,sedang,jarang,sering,5,Meningkatkan Berat Badan
+706,48,laki-laki,186.6,83.4,82.6,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+707,22,laki-laki,180.7,83.9,89.1,rendah,tidak pernah,jarang,8,Meningkatkan Berat Badan
+708,37,laki-laki,192.5,98.7,80.8,sedang,jarang,tidak pernah,4,Menurunkan Berat Badan
+709,38,laki-laki,190.4,75.5,76.6,rendah,jarang,sering,8,Menjaga Kesehatan
+710,46,laki-laki,168.4,72.9,63.2,rendah,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+711,32,laki-laki,191.8,81.1,72.5,rendah,tidak pernah,jarang,9,Menurunkan Berat Badan
+712,46,laki-laki,184.1,94,69.2,sedang,jarang,tidak pernah,4,Meningkatkan Kebugaran
+713,19,laki-laki,182.6,83.7,76.7,sedang,tidak pernah,sering,6,Meningkatkan Kebugaran
+714,51,laki-laki,177.6,70.3,71.9,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+715,39,laki-laki,192.5,99,80.1,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+716,34,laki-laki,193.9,91.2,81.5,sedang,sering,sering,8,Meningkatkan Kebugaran
+717,50,laki-laki,176.7,72.8,65.3,sedang,jarang,sering,6,Meningkatkan Kebugaran
+718,36,laki-laki,197.9,95,101.4,tinggi,sering,sering,5,Meningkatkan Berat Badan
+719,41,laki-laki,192.3,119.4,107,sedang,jarang,tidak pernah,8,Menurunkan Berat Badan
+720,49,laki-laki,191.1,104.7,84,sedang,jarang,sering,5,Menurunkan Berat Badan
+721,64,laki-laki,189.2,100.4,87.9,tinggi,tidak pernah,jarang,8,Menurunkan Berat Badan
+722,53,laki-laki,167,67.2,59.4,sedang,jarang,sering,6,Meningkatkan Kebugaran
+723,33,laki-laki,169.5,76.5,70.5,rendah,jarang,jarang,9,Menurunkan Berat Badan
+724,31,laki-laki,196.7,77.1,63,tinggi,tidak pernah,sering,7,Menurunkan Berat Badan
+725,38,laki-laki,195,92.4,80.1,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+726,65,laki-laki,159,69.1,58.1,sedang,tidak pernah,sering,8,Menurunkan Berat Badan
+727,34,laki-laki,190.3,81.4,74.5,rendah,jarang,jarang,5,Menjaga Kesehatan
+728,26,laki-laki,175.5,49.3,56,tinggi,sering,jarang,4,Meningkatkan Berat Badan
+729,59,laki-laki,199.4,109,115.8,rendah,sering,sering,5,Meningkatkan Berat Badan
+730,63,laki-laki,166.1,95,83.8,rendah,jarang,tidak pernah,6,Menurunkan Berat Badan
+731,25,laki-laki,179.7,77.2,81.1,tinggi,sering,sering,6,Meningkatkan Berat Badan
+732,40,laki-laki,163.5,69.9,57.3,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+733,58,laki-laki,178.7,84.1,79.6,sedang,sering,sering,4,Menurunkan Berat Badan
+734,44,laki-laki,160,68.9,59.5,sedang,jarang,jarang,5,Menurunkan Berat Badan
+735,24,laki-laki,194.9,91.8,82,rendah,tidak pernah,sering,6,Menjaga Kesehatan
+736,18,laki-laki,167.7,51.5,57.2,tinggi,tidak pernah,sering,5,Meningkatkan Berat Badan
+737,22,laki-laki,190.6,78.8,65.6,sedang,sering,sering,5,Menurunkan Berat Badan
+738,59,laki-laki,179.5,93.1,64.7,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+739,23,laki-laki,170.8,86.3,61.3,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+740,29,laki-laki,177,73.3,73.5,tinggi,sering,jarang,5,Meningkatkan Kebugaran
+741,18,laki-laki,167.1,65.1,65.5,tinggi,sering,tidak pernah,4,Menjaga Kesehatan
+742,63,laki-laki,178.8,69.1,67.7,sedang,sering,sering,9,Menjaga Kesehatan
+743,54,laki-laki,193.1,97.4,86.5,sedang,jarang,jarang,5,Menurunkan Berat Badan
+744,21,laki-laki,195.7,111.5,89.9,sedang,jarang,tidak pernah,9,Menjaga Kesehatan
+745,48,laki-laki,175.2,56,63.4,tinggi,tidak pernah,jarang,6,Meningkatkan Berat Badan
+746,44,laki-laki,169.5,63.9,58.4,rendah,jarang,sering,5,Menurunkan Berat Badan
+747,50,laki-laki,166.3,79.8,68.8,tinggi,sering,jarang,7,Menurunkan Berat Badan
+748,43,laki-laki,199.6,102.5,94.2,tinggi,sering,sering,7,Menurunkan Berat Badan
+749,53,laki-laki,198.9,100.9,81.7,sedang,jarang,jarang,7,Menurunkan Berat Badan
+750,38,laki-laki,170.2,69,59.9,tinggi,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+751,42,laki-laki,176.8,84.2,73.1,sedang,sering,tidak pernah,6,Menurunkan Berat Badan
+752,51,laki-laki,186.1,91.2,82.6,rendah,jarang,sering,8,Menurunkan Berat Badan
+753,64,laki-laki,187.5,81,80.6,rendah,jarang,sering,8,Menjaga Kesehatan
+754,26,laki-laki,185.3,70.3,71.8,rendah,jarang,tidak pernah,4,Meningkatkan Kebugaran
+755,23,laki-laki,192,98.1,84.5,tinggi,jarang,sering,5,Menjaga Kesehatan
+756,63,laki-laki,171.1,90.4,79.1,rendah,tidak pernah,sering,7,Menurunkan Berat Badan
+757,42,laki-laki,197.3,85.7,83.8,sedang,sering,sering,5,Meningkatkan Kebugaran
+758,27,laki-laki,169.2,73,69.1,rendah,tidak pernah,jarang,4,Menurunkan Berat Badan
+759,27,laki-laki,175.9,73.3,67.4,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+760,65,laki-laki,168.3,59.8,61.3,rendah,sering,sering,7,Meningkatkan Kebugaran
+761,43,laki-laki,191.8,72.4,86.3,rendah,jarang,sering,5,Meningkatkan Kebugaran
+762,40,laki-laki,182,74.7,82.4,tinggi,sering,tidak pernah,4,Meningkatkan Berat Badan
+763,25,laki-laki,199.8,76.1,95.5,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+764,39,laki-laki,187.6,81.6,78.7,tinggi,jarang,jarang,4,Menjaga Kesehatan
+765,57,laki-laki,197.3,115,83.8,tinggi,sering,jarang,7,Meningkatkan Kebugaran
+766,56,laki-laki,162,62.5,55.5,tinggi,sering,jarang,9,Menjaga Kesehatan
+767,30,laki-laki,184,81.3,72.6,tinggi,sering,tidak pernah,8,Menjaga Kesehatan
+768,60,laki-laki,189.6,63.7,80.2,rendah,tidak pernah,jarang,7,Meningkatkan Kebugaran
+769,42,laki-laki,169.7,78.9,67.1,tinggi,tidak pernah,sering,7,Menurunkan Berat Badan
+770,48,laki-laki,178.1,88.1,76.3,tinggi,sering,sering,6,Menurunkan Berat Badan
+771,53,laki-laki,182.8,84.1,79.1,tinggi,sering,sering,4,Meningkatkan Kebugaran
+772,44,laki-laki,181.5,79.8,90.3,rendah,sering,tidak pernah,5,Meningkatkan Berat Badan
+773,24,laki-laki,171.9,69.6,75.2,rendah,sering,jarang,7,Meningkatkan Berat Badan
+774,21,laki-laki,183.7,65.5,78.8,sedang,sering,jarang,6,Meningkatkan Kebugaran
+775,41,laki-laki,164.1,81.7,69.9,sedang,jarang,sering,4,Menurunkan Berat Badan
+776,63,laki-laki,172.9,70,61.5,rendah,tidak pernah,jarang,5,Meningkatkan Kebugaran
+777,30,laki-laki,191.3,76.2,81.7,sedang,sering,jarang,4,Menjaga Kesehatan
+778,25,laki-laki,191.1,116.1,96.6,rendah,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+779,25,laki-laki,167.5,85.5,71.4,tinggi,sering,sering,4,Menurunkan Berat Badan
+780,56,laki-laki,182.8,99.4,68.6,sedang,sering,jarang,9,Meningkatkan Kebugaran
+781,32,laki-laki,194.7,83.2,87.4,sedang,tidak pernah,tidak pernah,8,Meningkatkan Berat Badan
+782,59,laki-laki,187.2,87.8,81.7,rendah,tidak pernah,tidak pernah,8,Menurunkan Berat Badan
+783,53,laki-laki,198,142.8,117.2,sedang,jarang,jarang,4,Menurunkan Berat Badan
+784,50,laki-laki,193.4,85.7,80.1,sedang,jarang,jarang,6,Menjaga Kesehatan
+785,24,laki-laki,184.7,86.9,69.3,tinggi,sering,jarang,8,Menjaga Kesehatan
+786,28,laki-laki,193.6,80,81.7,rendah,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+787,27,laki-laki,189,97.2,81.6,tinggi,jarang,tidak pernah,6,Menjaga Kesehatan
+788,57,laki-laki,176.7,102.3,82.5,sedang,jarang,jarang,8,Menurunkan Berat Badan
+789,19,laki-laki,167.2,62,56.6,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+790,64,laki-laki,185.6,88.9,84.4,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+791,38,laki-laki,179.1,77.8,76.1,sedang,sering,sering,5,Menjaga Kesehatan
+792,65,laki-laki,171.2,80.6,74.6,sedang,tidak pernah,jarang,8,Menurunkan Berat Badan
+793,38,laki-laki,163.1,54.7,49.7,rendah,jarang,tidak pernah,7,Menurunkan Berat Badan
+794,45,laki-laki,173.6,66.9,55,sedang,sering,tidak pernah,8,Menurunkan Berat Badan
+795,49,laki-laki,190.2,93.2,77.7,sedang,jarang,sering,9,Menjaga Kesehatan
+796,35,laki-laki,191.4,93.2,79.4,sedang,sering,jarang,4,Menjaga Kesehatan
+797,48,laki-laki,187.2,81.3,83,sedang,tidak pernah,sering,4,Meningkatkan Kebugaran
+798,48,laki-laki,171.2,80.7,68.7,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+799,44,laki-laki,190.7,113.4,101.3,tinggi,jarang,jarang,7,Menurunkan Berat Badan
+800,58,laki-laki,162.2,67.1,59.4,sedang,sering,jarang,4,Menurunkan Berat Badan
+801,48,laki-laki,177.6,91.3,63.6,rendah,tidak pernah,jarang,8,Menjaga Kesehatan
+802,48,laki-laki,196.9,91.9,81.4,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+803,59,laki-laki,174.6,63,63.8,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+804,30,laki-laki,173.2,64.7,53.7,rendah,jarang,tidak pernah,5,Menurunkan Berat Badan
+805,23,laki-laki,174.4,87.3,79.7,rendah,tidak pernah,sering,7,Menurunkan Berat Badan
+806,41,laki-laki,162.2,42.1,54.4,rendah,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+807,54,laki-laki,170.1,59.4,60.3,rendah,jarang,tidak pernah,6,Meningkatkan Kebugaran
+808,47,laki-laki,188.4,94.5,84,rendah,jarang,tidak pernah,7,Meningkatkan Kebugaran
+809,44,laki-laki,196.9,109.3,96.5,tinggi,jarang,tidak pernah,6,Menurunkan Berat Badan
+810,34,laki-laki,192.8,80.1,87.4,tinggi,sering,jarang,4,Menjaga Kesehatan
+811,36,laki-laki,182.3,69.8,75.1,sedang,sering,sering,7,Menjaga Kesehatan
+812,22,laki-laki,190.6,91.3,75.3,sedang,sering,tidak pernah,7,Meningkatkan Kebugaran
+813,32,laki-laki,193.1,86.5,79,rendah,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+814,65,laki-laki,166.4,75.7,70.6,sedang,sering,jarang,8,Menurunkan Berat Badan
+815,20,laki-laki,183.8,72.1,78.8,rendah,tidak pernah,jarang,4,Menjaga Kesehatan
+816,64,laki-laki,185.6,82.5,75.8,rendah,jarang,jarang,8,Meningkatkan Kebugaran
+817,51,laki-laki,187.2,76.4,74.6,rendah,tidak pernah,sering,4,Menjaga Kesehatan
+818,65,laki-laki,191.9,91.8,84.3,tinggi,sering,tidak pernah,4,Menjaga Kesehatan
+819,31,laki-laki,186.1,117.6,98,tinggi,jarang,jarang,9,Menurunkan Berat Badan
+820,60,laki-laki,168.2,82.9,74.3,rendah,tidak pernah,sering,8,Menurunkan Berat Badan
+821,44,laki-laki,176.9,88.1,68,rendah,jarang,jarang,9,Menjaga Kesehatan
+822,58,laki-laki,183.7,61.5,80.9,rendah,sering,sering,8,Meningkatkan Kebugaran
+823,64,laki-laki,181.7,104,83.3,rendah,tidak pernah,jarang,9,Menurunkan Berat Badan
+824,36,laki-laki,192.9,72.9,72.1,tinggi,sering,sering,8,Meningkatkan Kebugaran
+825,40,laki-laki,188.5,62.2,79.7,rendah,tidak pernah,sering,6,Meningkatkan Kebugaran
+826,60,laki-laki,181.7,102.3,84.7,tinggi,jarang,sering,5,Menurunkan Berat Badan
+827,22,laki-laki,164.4,57,58.1,tinggi,jarang,sering,5,Menjaga Kesehatan
+828,21,laki-laki,173.7,91.6,85.3,rendah,tidak pernah,jarang,6,Menurunkan Berat Badan
+829,58,laki-laki,193.3,85.6,77,sedang,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+830,21,laki-laki,182.1,81.3,76.2,rendah,jarang,tidak pernah,5,Meningkatkan Kebugaran
+831,54,laki-laki,198.3,104.6,80.9,tinggi,sering,jarang,8,Meningkatkan Kebugaran
+832,31,laki-laki,186.7,78.4,76.8,tinggi,jarang,sering,7,Menjaga Kesehatan
+833,61,laki-laki,162.7,73.1,58.2,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+834,47,laki-laki,186.8,79.8,74,tinggi,sering,sering,5,Meningkatkan Kebugaran
+835,61,laki-laki,168.2,76.8,84.8,sedang,jarang,jarang,6,Meningkatkan Berat Badan
+836,18,laki-laki,179,74.7,80.2,sedang,sering,sering,4,Meningkatkan Berat Badan
+837,41,laki-laki,172.7,82.8,64.4,rendah,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+838,51,laki-laki,175.9,67.8,74.1,rendah,tidak pernah,sering,4,Meningkatkan Berat Badan
+839,31,laki-laki,165.9,65.7,57.6,tinggi,sering,sering,8,Meningkatkan Kebugaran
+840,35,laki-laki,193.6,98.5,77.6,sedang,sering,sering,9,Menjaga Kesehatan
+841,51,laki-laki,185.8,78.1,79.5,sedang,jarang,jarang,6,Menjaga Kesehatan
+842,39,laki-laki,190.3,83.3,81.2,sedang,jarang,jarang,8,Meningkatkan Kebugaran
+843,33,laki-laki,178.4,72.2,61.7,rendah,tidak pernah,jarang,5,Menurunkan Berat Badan
+844,43,laki-laki,195.9,107.2,87.7,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+845,29,laki-laki,173.2,78.9,74.6,rendah,jarang,jarang,6,Menurunkan Berat Badan
+846,58,laki-laki,175.7,81.6,61.9,tinggi,sering,sering,9,Meningkatkan Kebugaran
+847,56,laki-laki,175.1,63.4,63.5,rendah,jarang,sering,4,Menjaga Kesehatan
+848,18,laki-laki,164.2,74,66.8,tinggi,sering,sering,4,Menurunkan Berat Badan
+849,33,laki-laki,197.9,74.7,89.7,rendah,tidak pernah,sering,4,Menjaga Kesehatan
+850,63,laki-laki,169.9,72.1,60.4,rendah,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+851,36,laki-laki,167.3,73.9,62.1,tinggi,sering,sering,7,Menjaga Kesehatan
+852,49,laki-laki,166.9,61.6,61.1,sedang,sering,tidak pernah,6,Menjaga Kesehatan
+853,58,laki-laki,170.6,82.5,69.8,tinggi,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+854,44,laki-laki,162.1,74.2,65,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+855,41,laki-laki,170.1,73.7,67.7,tinggi,jarang,jarang,7,Meningkatkan Kebugaran
+856,47,laki-laki,160.7,66.2,62.2,sedang,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+857,24,laki-laki,198.1,101.8,93.2,tinggi,tidak pernah,jarang,9,Menurunkan Berat Badan
+858,39,laki-laki,195.8,109.5,83.1,sedang,jarang,sering,9,Meningkatkan Kebugaran
+859,19,laki-laki,191.1,71.8,73.1,sedang,jarang,jarang,6,Menjaga Kesehatan
+860,52,laki-laki,185.6,81.1,72.6,rendah,tidak pernah,tidak pernah,6,Menjaga Kesehatan
+861,38,laki-laki,170.1,69.2,63.2,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+862,23,laki-laki,177.9,53.3,61,rendah,jarang,jarang,6,Meningkatkan Berat Badan
+863,62,laki-laki,180.7,93.7,99.6,tinggi,jarang,jarang,7,Meningkatkan Berat Badan
+864,33,laki-laki,187.3,76.2,83.3,rendah,sering,tidak pernah,9,Meningkatkan Kebugaran
+865,34,laki-laki,184.1,76.1,71.4,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+866,53,laki-laki,160.4,51,51.5,sedang,jarang,sering,4,Meningkatkan Kebugaran
+867,32,laki-laki,164.5,62.8,58.6,sedang,jarang,tidak pernah,5,Menurunkan Berat Badan
+868,64,laki-laki,189.1,83.6,74.8,rendah,tidak pernah,sering,7,Meningkatkan Kebugaran
+869,23,laki-laki,180.8,75.9,71.1,rendah,tidak pernah,jarang,4,Menurunkan Berat Badan
+870,21,laki-laki,184,88,76,sedang,sering,jarang,9,Meningkatkan Kebugaran
+871,27,laki-laki,180.5,72.7,66.1,rendah,sering,sering,8,Menurunkan Berat Badan
+872,19,laki-laki,161.3,56.7,57.7,tinggi,sering,sering,6,Menjaga Kesehatan
+873,42,laki-laki,194.9,83.4,83.6,rendah,tidak pernah,sering,7,Meningkatkan Kebugaran
+874,38,laki-laki,186.1,82.4,87.9,tinggi,tidak pernah,sering,8,Meningkatkan Berat Badan
+875,26,laki-laki,176.9,81.5,72.1,tinggi,jarang,tidak pernah,4,Menurunkan Berat Badan
+876,26,laki-laki,178.5,89,72.6,sedang,tidak pernah,sering,4,Meningkatkan Kebugaran
+877,55,laki-laki,162.3,83.6,79.3,tinggi,jarang,sering,4,Menurunkan Berat Badan
+878,29,laki-laki,166.7,51.4,54.7,rendah,jarang,jarang,6,Meningkatkan Berat Badan
+879,40,laki-laki,171.6,72.3,72.3,tinggi,sering,tidak pernah,8,Menjaga Kesehatan
+880,45,laki-laki,180.8,82.1,73.5,tinggi,sering,jarang,9,Menurunkan Berat Badan
+881,65,laki-laki,171.9,84.2,78.6,tinggi,jarang,jarang,5,Menurunkan Berat Badan
+882,39,laki-laki,198.5,132,117.9,sedang,jarang,tidak pernah,8,Menurunkan Berat Badan
+883,49,laki-laki,163.6,70.3,62,tinggi,jarang,jarang,5,Menurunkan Berat Badan
+884,50,laki-laki,164,57.5,54.5,tinggi,sering,jarang,7,Menjaga Kesehatan
+885,43,laki-laki,180,90.3,65.6,sedang,tidak pernah,sering,8,Meningkatkan Kebugaran
+886,42,laki-laki,188.8,81.1,88.4,rendah,tidak pernah,tidak pernah,6,Meningkatkan Berat Badan
+887,20,laki-laki,189,63.6,71.6,tinggi,sering,jarang,4,Meningkatkan Berat Badan
+888,18,laki-laki,166.7,72.3,61.8,tinggi,sering,sering,6,Menjaga Kesehatan
+889,63,laki-laki,192,107.6,76.3,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+890,32,laki-laki,168.2,72.3,57.1,rendah,tidak pernah,jarang,7,Meningkatkan Kebugaran
+891,30,laki-laki,170,77,62.2,sedang,jarang,tidak pernah,4,Menjaga Kesehatan
+892,30,laki-laki,190.5,83.6,83.1,sedang,jarang,sering,5,Meningkatkan Kebugaran
+893,38,laki-laki,167.8,69.2,60.6,sedang,tidak pernah,sering,7,Menjaga Kesehatan
+894,49,laki-laki,191.6,104.7,78.6,sedang,sering,jarang,8,Menjaga Kesehatan
+895,31,laki-laki,160.2,48.2,44.2,sedang,jarang,sering,8,Menurunkan Berat Badan
+896,26,laki-laki,166.4,84.4,72,tinggi,sering,jarang,6,Menurunkan Berat Badan
+897,23,laki-laki,190.5,94.2,88.7,rendah,tidak pernah,sering,5,Menurunkan Berat Badan
+898,45,laki-laki,174.7,71.8,75.8,sedang,tidak pernah,sering,8,Meningkatkan Berat Badan
+899,63,laki-laki,184,85.2,80.3,rendah,jarang,sering,5,Menurunkan Berat Badan
+900,59,laki-laki,188,72.4,80,tinggi,jarang,jarang,7,Meningkatkan Berat Badan
+901,43,laki-laki,176,81.6,71,rendah,jarang,tidak pernah,8,Menurunkan Berat Badan
+902,35,laki-laki,172.7,73.7,63.4,rendah,sering,tidak pernah,4,Meningkatkan Kebugaran
+903,22,laki-laki,163.7,57.3,56.2,rendah,tidak pernah,sering,7,Menjaga Kesehatan
+904,27,laki-laki,183.6,104.6,86,tinggi,jarang,jarang,7,Menurunkan Berat Badan
+905,19,laki-laki,181.6,70.6,71.6,rendah,jarang,tidak pernah,8,Menjaga Kesehatan
+906,40,laki-laki,171.2,65.5,59.1,tinggi,sering,jarang,6,Meningkatkan Kebugaran
+907,29,laki-laki,195.4,86.3,84.5,tinggi,sering,jarang,8,Meningkatkan Kebugaran
+908,27,laki-laki,198.9,93,91.1,rendah,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+909,60,laki-laki,178.4,88,72,sedang,tidak pernah,sering,6,Menurunkan Berat Badan
+910,21,laki-laki,177.7,80,67.8,sedang,jarang,tidak pernah,9,Menurunkan Berat Badan
+911,19,laki-laki,180.7,83.6,73.6,tinggi,sering,tidak pernah,5,Menjaga Kesehatan
+912,36,laki-laki,185.3,72.3,81.3,tinggi,sering,sering,9,Menjaga Kesehatan
+913,59,laki-laki,190.5,88.4,91.3,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+914,35,laki-laki,196.8,87.1,85.2,tinggi,tidak pernah,jarang,6,Menjaga Kesehatan
+915,28,laki-laki,174.2,78.7,63.6,rendah,jarang,jarang,4,Menurunkan Berat Badan
+916,33,laki-laki,163,68.8,58.5,rendah,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+917,28,laki-laki,170.7,51,64.8,tinggi,sering,sering,6,Meningkatkan Kebugaran
+918,27,laki-laki,178.7,75.2,65.7,tinggi,sering,tidak pernah,6,Menjaga Kesehatan
+919,57,laki-laki,182.4,76.1,68.3,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+920,33,laki-laki,198.9,92.8,103,sedang,jarang,sering,6,Meningkatkan Berat Badan
+921,57,laki-laki,192.2,80.1,74.2,sedang,jarang,jarang,6,Menurunkan Berat Badan
+922,25,laki-laki,176.7,78.6,68.4,rendah,tidak pernah,sering,7,Menurunkan Berat Badan
+923,44,laki-laki,196.3,79.7,77.5,rendah,jarang,sering,8,Meningkatkan Kebugaran
+924,43,laki-laki,178.2,78.2,89.3,rendah,tidak pernah,tidak pernah,7,Meningkatkan Berat Badan
+925,65,laki-laki,160.8,71.5,55.7,tinggi,sering,tidak pernah,5,Meningkatkan Kebugaran
+926,39,laki-laki,182,75,64.1,sedang,tidak pernah,jarang,6,Menurunkan Berat Badan
+927,40,laki-laki,196.8,105,79.9,sedang,jarang,sering,9,Meningkatkan Kebugaran
+928,20,laki-laki,193,94.6,87.4,tinggi,sering,sering,7,Menurunkan Berat Badan
+929,61,laki-laki,186.5,91.8,72.5,rendah,jarang,tidak pernah,6,Meningkatkan Kebugaran
+930,44,laki-laki,175.9,63.3,74.1,rendah,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+931,48,laki-laki,185.3,66.4,66.9,tinggi,tidak pernah,sering,4,Meningkatkan Kebugaran
+932,20,laki-laki,176,58.7,72.3,sedang,jarang,sering,7,Meningkatkan Kebugaran
+933,24,laki-laki,195,84.1,86.8,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+934,21,laki-laki,163.2,67.6,54.4,sedang,tidak pernah,jarang,4,Menurunkan Berat Badan
+935,55,laki-laki,172.3,67,66.8,tinggi,sering,jarang,5,Menjaga Kesehatan
+936,55,laki-laki,193.8,100.2,82.1,sedang,tidak pernah,jarang,4,Meningkatkan Kebugaran
+937,35,laki-laki,197.7,97.9,89.4,tinggi,sering,jarang,5,Menurunkan Berat Badan
+938,51,laki-laki,160.6,66.4,53.5,tinggi,jarang,jarang,7,Meningkatkan Kebugaran
+939,19,laki-laki,179.5,63.3,66,sedang,tidak pernah,jarang,8,Meningkatkan Kebugaran
+940,28,laki-laki,171.3,69,69,sedang,jarang,sering,6,Meningkatkan Kebugaran
+941,57,laki-laki,163.5,75.7,55.4,tinggi,jarang,jarang,5,Meningkatkan Kebugaran
+942,28,laki-laki,196.5,100.9,80.6,tinggi,sering,tidak pernah,8,Meningkatkan Kebugaran
+943,45,laki-laki,193.8,103.2,94.7,rendah,tidak pernah,sering,4,Menurunkan Berat Badan
+944,63,laki-laki,162.4,66.3,70.4,rendah,tidak pernah,tidak pernah,7,Meningkatkan Berat Badan
+945,31,laki-laki,199.4,127.7,106.5,sedang,tidak pernah,jarang,5,Menurunkan Berat Badan
+946,34,laki-laki,198.1,114.2,98.6,rendah,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+947,26,laki-laki,173.4,74.3,65.1,tinggi,sering,jarang,5,Menurunkan Berat Badan
+948,23,laki-laki,196.6,101.8,82,tinggi,tidak pernah,sering,9,Meningkatkan Kebugaran
+949,26,laki-laki,169.3,82.6,87.9,sedang,tidak pernah,jarang,4,Meningkatkan Berat Badan
+950,56,laki-laki,168.8,53.9,55.8,sedang,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+951,32,laki-laki,181.8,72.2,67,rendah,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+952,49,laki-laki,177.6,76.2,68.3,sedang,jarang,sering,9,Menjaga Kesehatan
+953,34,laki-laki,193.2,89.6,84.4,tinggi,tidak pernah,sering,9,Menjaga Kesehatan
+954,36,laki-laki,175.1,61.7,73.5,rendah,tidak pernah,jarang,9,Meningkatkan Kebugaran
+955,39,laki-laki,163.2,65,66.9,sedang,jarang,jarang,8,Menjaga Kesehatan
+956,41,laki-laki,167,54.7,63.5,rendah,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+957,63,laki-laki,169.9,69.9,60.3,rendah,jarang,jarang,4,Menjaga Kesehatan
+958,35,laki-laki,197.6,84.4,90.5,tinggi,sering,tidak pernah,8,Meningkatkan Kebugaran
+959,23,laki-laki,189.3,83.5,85.2,rendah,tidak pernah,jarang,4,Meningkatkan Kebugaran
+960,44,laki-laki,163.1,54.8,58.2,sedang,jarang,sering,8,Meningkatkan Berat Badan
+961,47,laki-laki,179.2,76.1,67.4,rendah,tidak pernah,jarang,7,Menjaga Kesehatan
+962,27,laki-laki,190.2,71.2,57,tinggi,jarang,sering,7,Menurunkan Berat Badan
+963,24,laki-laki,167.4,92.7,57.1,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+964,22,laki-laki,169.9,75.9,84.9,rendah,tidak pernah,tidak pernah,4,Meningkatkan Berat Badan
+965,48,laki-laki,185.2,102.2,72.9,tinggi,sering,tidak pernah,6,Menjaga Kesehatan
+966,22,laki-laki,165.4,63.1,62.3,rendah,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+967,25,laki-laki,180.1,73.3,72.3,sedang,jarang,tidak pernah,9,Menjaga Kesehatan
+968,25,laki-laki,189.6,110.3,81.3,tinggi,sering,sering,8,Meningkatkan Kebugaran
+969,43,laki-laki,179.8,87.6,73.6,tinggi,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+970,48,laki-laki,179,91.1,81.9,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+971,37,laki-laki,167,65.1,57,tinggi,sering,tidak pernah,5,Meningkatkan Kebugaran
+972,42,laki-laki,160.7,54.2,55.8,sedang,jarang,jarang,5,Meningkatkan Kebugaran
+973,31,laki-laki,160.1,71.3,61.3,sedang,jarang,sering,4,Menurunkan Berat Badan
+974,28,laki-laki,175.7,90.3,76.2,sedang,jarang,jarang,7,Menurunkan Berat Badan
+975,39,laki-laki,173.9,60.4,62.8,sedang,sering,jarang,4,Menjaga Kesehatan
+976,51,laki-laki,187.3,77.5,79.6,sedang,tidak pernah,sering,7,Meningkatkan Kebugaran
+977,60,laki-laki,178.6,73.8,75.7,rendah,tidak pernah,sering,8,Meningkatkan Kebugaran
+978,55,laki-laki,188.8,93.3,81.6,sedang,tidak pernah,jarang,4,Menurunkan Berat Badan
+979,28,laki-laki,190.7,86.7,75.7,tinggi,sering,sering,7,Menjaga Kesehatan
+980,63,laki-laki,161.8,73,60.5,tinggi,sering,sering,5,Meningkatkan Kebugaran
+981,56,laki-laki,166,78.5,72.4,tinggi,sering,sering,8,Menurunkan Berat Badan
+982,62,laki-laki,175.2,81.8,73.6,tinggi,tidak pernah,jarang,7,Menurunkan Berat Badan
+983,55,laki-laki,166.6,64.4,71.1,rendah,tidak pernah,tidak pernah,6,Meningkatkan Berat Badan
+984,25,laki-laki,191.8,90.2,80.1,sedang,sering,jarang,8,Menjaga Kesehatan
+985,19,laki-laki,186.6,75,76.3,tinggi,sering,jarang,8,Meningkatkan Kebugaran
+986,40,laki-laki,171.7,61.7,54.1,tinggi,jarang,sering,5,Menurunkan Berat Badan
+987,28,laki-laki,160.2,55.3,54.3,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+988,40,laki-laki,177.8,76.6,76.8,rendah,sering,sering,4,Meningkatkan Kebugaran
+989,21,laki-laki,174.3,83.3,63.8,tinggi,sering,jarang,8,Menjaga Kesehatan
+990,30,laki-laki,160.4,71.3,52.9,rendah,sering,jarang,5,Meningkatkan Kebugaran
+991,47,laki-laki,174.3,65.6,71.7,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+992,52,laki-laki,177.7,87.2,80.4,rendah,jarang,jarang,4,Menurunkan Berat Badan
+993,19,laki-laki,177.9,88.1,101.3,rendah,tidak pernah,jarang,4,Meningkatkan Berat Badan
+994,55,laki-laki,170.2,76.7,84.1,rendah,jarang,sering,6,Meningkatkan Berat Badan
+995,53,laki-laki,191.2,79.9,87.3,rendah,tidak pernah,sering,9,Meningkatkan Berat Badan
+996,43,laki-laki,195.4,101.9,88.6,rendah,tidak pernah,tidak pernah,5,Menurunkan Berat Badan
+997,49,laki-laki,197.6,101.6,84.3,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+998,64,laki-laki,169.7,78.5,70.5,sedang,sering,sering,5,Menurunkan Berat Badan
+999,58,laki-laki,196.1,97.6,91,rendah,jarang,tidak pernah,6,Menurunkan Berat Badan
+1000,39,laki-laki,197.6,88.5,79,sedang,tidak pernah,sering,5,Menjaga Kesehatan
+1001,65,laki-laki,171.3,74.1,65.6,sedang,sering,tidak pernah,7,Meningkatkan Kebugaran
+1002,49,laki-laki,170.7,54.3,45.6,rendah,jarang,jarang,7,Menurunkan Berat Badan
+1003,41,laki-laki,169.5,64.2,66.5,tinggi,sering,sering,5,Meningkatkan Kebugaran
+1004,34,laki-laki,170.8,78.1,69.7,tinggi,sering,tidak pernah,8,Menjaga Kesehatan
+1005,42,laki-laki,190.3,80.4,74.6,rendah,sering,jarang,4,Menurunkan Berat Badan
+1006,25,laki-laki,187,64.1,70.7,sedang,sering,jarang,8,Meningkatkan Kebugaran
+1007,62,laki-laki,192.9,101,82.2,tinggi,tidak pernah,jarang,4,Menjaga Kesehatan
+1008,64,laki-laki,194.5,87.6,76.6,tinggi,sering,tidak pernah,4,Meningkatkan Kebugaran
+1009,34,laki-laki,187.6,71.9,70.3,tinggi,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+1010,47,laki-laki,191,81.8,80.3,tinggi,tidak pernah,jarang,6,Meningkatkan Kebugaran
+1011,19,laki-laki,181,75,76.1,sedang,sering,sering,5,Menjaga Kesehatan
+1012,43,laki-laki,182.5,88.6,94,rendah,tidak pernah,tidak pernah,8,Meningkatkan Berat Badan
+1013,63,laki-laki,161.6,71.4,61.4,tinggi,jarang,tidak pernah,6,Meningkatkan Kebugaran
+1014,61,laki-laki,181.5,85,75.2,sedang,sering,tidak pernah,8,Menurunkan Berat Badan
+1015,49,laki-laki,196.9,97.4,84.6,sedang,tidak pernah,sering,6,Menurunkan Berat Badan
+1016,57,laki-laki,197,92.7,83,sedang,jarang,sering,5,Meningkatkan Kebugaran
+1017,61,laki-laki,183.6,90.4,68.2,sedang,jarang,tidak pernah,6,Meningkatkan Kebugaran
+1018,59,laki-laki,164.4,52.3,64,tinggi,sering,sering,5,Menjaga Kesehatan
+1019,23,laki-laki,177.9,83.4,72.2,sedang,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+1020,53,laki-laki,186,100.8,89.9,tinggi,sering,tidak pernah,5,Menurunkan Berat Badan
+1021,57,laki-laki,190.1,117.3,104.3,sedang,sering,sering,5,Menurunkan Berat Badan
+1022,23,laki-laki,193.7,85.6,83.1,tinggi,sering,tidak pernah,6,Meningkatkan Kebugaran
+1023,49,laki-laki,194.2,85.6,80.2,rendah,jarang,tidak pernah,8,Menjaga Kesehatan
+1024,56,laki-laki,177.3,88.5,68.1,tinggi,tidak pernah,sering,5,Meningkatkan Kebugaran
+1025,60,laki-laki,182.7,97,78.9,tinggi,sering,sering,4,Menurunkan Berat Badan
+1026,30,laki-laki,173.5,77.5,73.3,sedang,tidak pernah,jarang,9,Menurunkan Berat Badan
+1027,35,laki-laki,191.2,69.2,56.5,rendah,tidak pernah,sering,5,Menurunkan Berat Badan
+1028,44,laki-laki,198.6,93.8,81.2,sedang,jarang,tidak pernah,9,Menjaga Kesehatan
+1029,38,laki-laki,169.7,56.3,60.3,rendah,tidak pernah,tidak pernah,9,Meningkatkan Berat Badan
+1030,60,laki-laki,195.3,88.9,100.5,sedang,jarang,jarang,7,Meningkatkan Berat Badan
+1031,58,laki-laki,177.3,84.5,71.7,tinggi,jarang,sering,4,Menurunkan Berat Badan
+1032,44,laki-laki,175.2,75,69.3,tinggi,sering,jarang,8,Menurunkan Berat Badan
+1033,44,laki-laki,183.6,66.4,80.2,sedang,tidak pernah,jarang,4,Menjaga Kesehatan
+1034,25,laki-laki,161.7,64.2,53.9,tinggi,tidak pernah,sering,4,Menurunkan Berat Badan
+1035,20,laki-laki,170.9,59.9,57,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+1036,20,laki-laki,198.7,90.3,89.9,rendah,jarang,sering,8,Menjaga Kesehatan
+1037,25,laki-laki,198.8,118.5,96.5,rendah,jarang,sering,4,Menurunkan Berat Badan
+1038,47,laki-laki,197,88.6,85.7,sedang,sering,tidak pernah,6,Meningkatkan Kebugaran
+1039,38,laki-laki,173.8,83,69.3,tinggi,sering,sering,6,Menurunkan Berat Badan
+1040,62,laki-laki,163.7,82.8,69.8,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+1041,34,laki-laki,162.9,62.9,66.2,sedang,jarang,sering,5,Meningkatkan Berat Badan
+1042,54,laki-laki,162.6,72,53.4,sedang,sering,sering,8,Meningkatkan Kebugaran
+1043,37,laki-laki,194.8,83.4,80.6,sedang,jarang,tidak pernah,9,Meningkatkan Kebugaran
+1044,56,laki-laki,161.8,63.4,66.1,rendah,tidak pernah,sering,7,Meningkatkan Kebugaran
+1045,45,laki-laki,191.1,71.4,70.2,tinggi,sering,sering,6,Menjaga Kesehatan
+1046,62,laki-laki,175.7,80,71,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+1047,52,laki-laki,188.4,71.7,59.8,sedang,jarang,sering,6,Menurunkan Berat Badan
+1048,45,laki-laki,169.9,72.9,66.8,sedang,jarang,sering,5,Menjaga Kesehatan
+1049,23,laki-laki,175.3,75.9,78.4,rendah,tidak pernah,sering,4,Menjaga Kesehatan
+1050,29,laki-laki,169.5,62.1,60.2,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+1051,27,laki-laki,164.9,89.5,61.9,sedang,jarang,sering,8,Menjaga Kesehatan
+1052,58,laki-laki,166.8,73.2,64.8,rendah,jarang,jarang,5,Menurunkan Berat Badan
+1053,48,laki-laki,191.1,93.9,74,sedang,jarang,tidak pernah,8,Meningkatkan Kebugaran
+1054,40,laki-laki,172.9,61.6,69.9,tinggi,sering,tidak pernah,9,Meningkatkan Berat Badan
+1055,40,laki-laki,169.2,82.7,62.1,rendah,tidak pernah,sering,7,Menjaga Kesehatan
+1056,21,laki-laki,176.1,75.5,82.6,sedang,jarang,jarang,6,Meningkatkan Berat Badan
+1057,42,laki-laki,160.8,82,61.9,sedang,jarang,tidak pernah,4,Meningkatkan Kebugaran
+1058,32,laki-laki,160.5,52,61.5,sedang,jarang,tidak pernah,5,Meningkatkan Kebugaran
+1059,37,laki-laki,170.3,70.3,69.7,tinggi,tidak pernah,jarang,4,Menjaga Kesehatan
+1060,39,laki-laki,160.6,59.6,54.2,sedang,jarang,sering,6,Menurunkan Berat Badan
+1061,49,laki-laki,192.8,73.8,88.5,sedang,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+1062,35,laki-laki,182.1,87.8,76.6,sedang,tidak pernah,jarang,7,Menjaga Kesehatan
+1063,50,laki-laki,170.9,58.4,57.4,sedang,jarang,tidak pernah,9,Meningkatkan Kebugaran
+1064,19,laki-laki,170.2,52.6,48.5,sedang,jarang,jarang,4,Menurunkan Berat Badan
+1065,36,laki-laki,174.7,79.4,71.5,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+1066,38,laki-laki,184.6,85.8,77.8,rendah,tidak pernah,jarang,9,Menurunkan Berat Badan
+1067,41,laki-laki,160.7,72.9,66.8,sedang,sering,sering,9,Menurunkan Berat Badan
+1068,40,laki-laki,193,81.2,88.6,rendah,tidak pernah,sering,5,Meningkatkan Berat Badan
+1069,20,laki-laki,195.4,78.1,88.6,sedang,jarang,sering,8,Meningkatkan Berat Badan
+1070,34,laki-laki,167.8,67,57.2,sedang,sering,jarang,5,Menjaga Kesehatan
+1071,54,laki-laki,198.5,105,94.3,rendah,tidak pernah,sering,4,Menurunkan Berat Badan
+1072,40,laki-laki,176.1,82.7,67.3,tinggi,sering,jarang,6,Menurunkan Berat Badan
+1073,35,laki-laki,185.9,94.1,88.9,rendah,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+1074,61,laki-laki,176.1,82.7,74.2,sedang,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+1075,54,laki-laki,183.3,82.4,84.1,tinggi,jarang,sering,7,Meningkatkan Kebugaran
+1076,25,laki-laki,188.3,76.4,75.6,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+1077,48,laki-laki,164.6,70.1,64.9,sedang,jarang,tidak pernah,8,Meningkatkan Kebugaran
+1078,61,laki-laki,160.3,58.1,59.5,rendah,jarang,jarang,6,Menjaga Kesehatan
+1079,60,laki-laki,172.1,68.9,59.8,sedang,sering,tidak pernah,8,Meningkatkan Kebugaran
+1080,45,laki-laki,184.8,99,79.3,sedang,jarang,tidak pernah,9,Menurunkan Berat Badan
+1081,36,laki-laki,175.7,68.4,68.3,sedang,sering,tidak pernah,6,Meningkatkan Kebugaran
+1082,49,laki-laki,195,96.5,83.4,sedang,tidak pernah,jarang,7,Menjaga Kesehatan
+1083,41,laki-laki,184.1,77.7,77.1,sedang,sering,sering,8,Menjaga Kesehatan
+1084,62,laki-laki,192.1,95.8,79.1,tinggi,sering,tidak pernah,5,Menurunkan Berat Badan
+1085,24,laki-laki,195.2,103.1,85.8,rendah,jarang,tidak pernah,9,Meningkatkan Kebugaran
+1086,58,laki-laki,182.6,82.2,75.7,rendah,jarang,tidak pernah,4,Menjaga Kesehatan
+1087,59,laki-laki,170.2,73.2,69,rendah,jarang,jarang,7,Menurunkan Berat Badan
+1088,30,laki-laki,194.2,101.9,88.6,tinggi,sering,sering,6,Menurunkan Berat Badan
+1089,38,laki-laki,199.7,101.3,84.5,sedang,jarang,tidak pernah,4,Meningkatkan Kebugaran
+1090,33,laki-laki,186.2,76.7,77.9,tinggi,sering,tidak pernah,4,Meningkatkan Kebugaran
+1091,21,laki-laki,185.9,59.6,80.4,tinggi,jarang,jarang,8,Meningkatkan Kebugaran
+1092,30,laki-laki,192.5,89.7,75.2,sedang,jarang,tidak pernah,5,Meningkatkan Kebugaran
+1093,43,laki-laki,168,69.7,67.6,tinggi,sering,jarang,9,Menjaga Kesehatan
+1094,47,laki-laki,194.1,91.6,80.6,rendah,jarang,tidak pernah,6,Meningkatkan Kebugaran
+1095,58,laki-laki,161.5,72.4,63.6,rendah,jarang,sering,4,Menurunkan Berat Badan
+1096,62,laki-laki,166.6,71,58,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+1097,27,laki-laki,192.5,99.6,82.6,tinggi,sering,sering,9,Menurunkan Berat Badan
+1098,41,laki-laki,172.2,84.7,76.5,rendah,tidak pernah,sering,8,Menurunkan Berat Badan
+1099,38,laki-laki,180.4,83.1,77.4,sedang,jarang,tidak pernah,9,Menurunkan Berat Badan
+1100,44,laki-laki,192.1,85.5,75.3,rendah,jarang,tidak pernah,6,Meningkatkan Kebugaran
+1101,49,perempuan,176.6,81.4,73.2,rendah,jarang,tidak pernah,5,Meningkatkan Kebugaran
+1102,41,perempuan,183.6,79,81.6,sedang,jarang,jarang,6,Menjaga Kesehatan
+1103,61,perempuan,177.9,71.6,72.8,tinggi,sering,jarang,6,Meningkatkan Kebugaran
+1104,21,perempuan,155.6,58.7,48.7,sedang,sering,jarang,4,Menurunkan Berat Badan
+1105,56,perempuan,154.9,63.1,55.1,tinggi,sering,sering,5,Menurunkan Berat Badan
+1106,42,perempuan,183.4,85.4,70.6,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+1107,46,perempuan,179.6,66.1,77,rendah,tidak pernah,jarang,9,Menjaga Kesehatan
+1108,42,perempuan,149.5,57.8,45.3,rendah,sering,sering,6,Meningkatkan Kebugaran
+1109,27,perempuan,176.3,87.7,68.7,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+1110,29,perempuan,158.3,58.3,58.9,tinggi,sering,jarang,7,Menjaga Kesehatan
+1111,37,perempuan,156.5,60.9,49.3,tinggi,jarang,sering,8,Menjaga Kesehatan
+1112,39,perempuan,155.9,56.4,55.9,tinggi,sering,sering,8,Meningkatkan Kebugaran
+1113,51,perempuan,156.6,65.8,54.5,tinggi,sering,jarang,7,Menjaga Kesehatan
+1114,40,perempuan,147,45.4,48,sedang,jarang,tidak pernah,5,Meningkatkan Berat Badan
+1115,52,perempuan,171.1,64.9,63.9,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+1116,37,perempuan,148.4,44.6,41.2,rendah,tidak pernah,tidak pernah,5,Menurunkan Berat Badan
+1117,65,perempuan,144.7,51.9,57.3,sedang,jarang,sering,6,Meningkatkan Berat Badan
+1118,51,perempuan,149.2,48.7,50.2,sedang,sering,sering,8,Menjaga Kesehatan
+1119,37,perempuan,148.1,56.4,50.6,sedang,tidak pernah,jarang,9,Menurunkan Berat Badan
+1120,55,perempuan,165.3,79.3,66,tinggi,jarang,tidak pernah,6,Menurunkan Berat Badan
+1121,43,perempuan,182.1,79.1,76.6,tinggi,sering,jarang,9,Menjaga Kesehatan
+1122,41,perempuan,182.3,101.6,90.2,rendah,tidak pernah,sering,5,Menurunkan Berat Badan
+1123,40,perempuan,168.6,70,64.1,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+1124,58,perempuan,171.3,74.4,68.6,sedang,jarang,sering,9,Meningkatkan Kebugaran
+1125,26,perempuan,150.4,57.1,53.1,sedang,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+1126,41,perempuan,180,89.9,74.2,rendah,jarang,sering,7,Menurunkan Berat Badan
+1127,20,perempuan,173.2,93,78.1,sedang,jarang,tidak pernah,6,Menurunkan Berat Badan
+1128,30,perempuan,169.1,66.2,68.6,rendah,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+1129,65,perempuan,160.7,60.4,54.8,rendah,tidak pernah,jarang,9,Meningkatkan Kebugaran
+1130,61,perempuan,174.7,107.6,94.1,sedang,jarang,tidak pernah,6,Menurunkan Berat Badan
+1131,32,perempuan,159.6,59.7,64,tinggi,sering,jarang,7,Meningkatkan Berat Badan
+1132,55,perempuan,174.6,66.9,76,sedang,sering,sering,6,Meningkatkan Berat Badan
+1133,20,perempuan,146.6,47,45.3,tinggi,sering,sering,7,Meningkatkan Kebugaran
+1134,41,perempuan,167.1,63.7,58.2,tinggi,jarang,jarang,5,Menjaga Kesehatan
+1135,57,perempuan,172.3,92.9,86.8,sedang,sering,sering,9,Menurunkan Berat Badan
+1136,49,perempuan,167.3,67.8,56.1,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+1137,41,perempuan,153.5,60.5,49.9,sedang,sering,tidak pernah,6,Menjaga Kesehatan
+1138,49,perempuan,175.9,89.2,72.2,sedang,jarang,tidak pernah,8,Menjaga Kesehatan
+1139,45,perempuan,172.4,71.2,60.6,tinggi,sering,tidak pernah,6,Menjaga Kesehatan
+1140,39,perempuan,157.2,53.2,50.8,sedang,sering,sering,7,Menjaga Kesehatan
+1141,38,perempuan,169.9,81,74.6,tinggi,jarang,tidak pernah,9,Menurunkan Berat Badan
+1142,36,perempuan,169.3,68.4,78.5,rendah,tidak pernah,sering,5,Meningkatkan Berat Badan
+1143,36,perempuan,179.9,63.3,73.4,sedang,sering,jarang,6,Menjaga Kesehatan
+1144,20,perempuan,148.3,42,40,tinggi,sering,sering,7,Meningkatkan Kebugaran
+1145,45,perempuan,176.1,75.8,67.6,rendah,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+1146,52,perempuan,145.3,42,40,tinggi,jarang,tidak pernah,4,Menjaga Kesehatan
+1147,46,perempuan,175.7,72.9,67.4,rendah,sering,jarang,7,Meningkatkan Kebugaran
+1148,45,perempuan,176,93.5,81,rendah,tidak pernah,tidak pernah,5,Menurunkan Berat Badan
+1149,38,perempuan,176.5,78.7,65.1,rendah,jarang,tidak pernah,8,Menurunkan Berat Badan
+1150,57,perempuan,169.6,65.5,66.8,rendah,sering,jarang,4,Menjaga Kesehatan
+1151,55,perempuan,165.8,59.3,56.4,sedang,jarang,sering,7,Meningkatkan Kebugaran
+1152,42,perempuan,154.8,50.9,46.9,sedang,jarang,tidak pernah,6,Menurunkan Berat Badan
+1153,35,perempuan,173.5,61.9,65.4,tinggi,jarang,jarang,7,Meningkatkan Berat Badan
+1154,35,perempuan,169.8,48.5,53.3,rendah,tidak pernah,sering,7,Meningkatkan Berat Badan
+1155,65,perempuan,146.2,47.8,45.8,rendah,sering,jarang,8,Menjaga Kesehatan
+1156,57,perempuan,155.2,61.5,52.2,sedang,jarang,tidak pernah,4,Menurunkan Berat Badan
+1157,36,perempuan,167,54.9,62.1,sedang,sering,tidak pernah,4,Meningkatkan Berat Badan
+1158,32,perempuan,183.1,70.8,66.7,tinggi,sering,jarang,7,Menurunkan Berat Badan
+1159,53,perempuan,159.9,67.1,53.1,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+1160,26,perempuan,162,57.9,56.5,sedang,sering,jarang,4,Menjaga Kesehatan
+1161,63,perempuan,164,51.5,60.9,sedang,sering,tidak pernah,9,Meningkatkan Kebugaran
+1162,25,perempuan,145.8,41.2,40,sedang,jarang,tidak pernah,5,Meningkatkan Kebugaran
+1163,31,perempuan,153,46.7,47.8,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+1164,31,perempuan,168.1,50.7,44.9,tinggi,sering,sering,9,Menurunkan Berat Badan
+1165,63,perempuan,152.5,48.5,48.5,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+1166,33,perempuan,161.8,68.4,55.1,rendah,tidak pernah,jarang,6,Menurunkan Berat Badan
+1167,53,perempuan,159.3,59.7,51.1,rendah,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+1168,56,perempuan,172.4,81.5,65.3,sedang,sering,sering,9,Menurunkan Berat Badan
+1169,51,perempuan,165.6,74.7,63.4,rendah,jarang,sering,7,Menurunkan Berat Badan
+1170,41,perempuan,171.6,83.5,71.9,rendah,tidak pernah,jarang,4,Menurunkan Berat Badan
+1171,53,perempuan,152.4,56.5,48.3,tinggi,tidak pernah,jarang,9,Menurunkan Berat Badan
+1172,27,perempuan,167.5,51.1,54.3,tinggi,jarang,sering,4,Meningkatkan Berat Badan
+1173,28,perempuan,146.3,62.2,50.8,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+1174,26,perempuan,176.4,78.8,72.6,sedang,sering,sering,6,Menurunkan Berat Badan
+1175,52,perempuan,180.2,75.1,66.4,rendah,jarang,sering,8,Meningkatkan Kebugaran
+1176,49,perempuan,159.6,64.2,55.2,tinggi,jarang,jarang,7,Menurunkan Berat Badan
+1177,47,perempuan,164,70.3,59.9,sedang,jarang,jarang,8,Menurunkan Berat Badan
+1178,64,perempuan,169.4,61.3,59.3,sedang,sering,tidak pernah,7,Menjaga Kesehatan
+1179,23,perempuan,176.9,81.3,64.4,sedang,jarang,sering,5,Menjaga Kesehatan
+1180,23,perempuan,182.9,90.4,79.6,sedang,sering,sering,4,Menurunkan Berat Badan
+1181,54,perempuan,172.6,65.1,67.2,sedang,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+1182,49,perempuan,151.3,43.1,54.1,rendah,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+1183,61,perempuan,163.1,71.2,63,rendah,jarang,sering,5,Menurunkan Berat Badan
+1184,22,perempuan,184.5,68.5,79.6,sedang,sering,sering,9,Menjaga Kesehatan
+1185,42,perempuan,154.7,62.1,51.6,tinggi,jarang,sering,6,Menurunkan Berat Badan
+1186,45,perempuan,149.2,58.6,52.8,rendah,jarang,tidak pernah,7,Menjaga Kesehatan
+1187,18,perempuan,175.5,70.5,71.2,sedang,sering,sering,8,Meningkatkan Kebugaran
+1188,36,perempuan,168.8,55.4,61,rendah,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+1189,29,perempuan,176.3,61.8,68.3,sedang,jarang,jarang,4,Menjaga Kesehatan
+1190,28,perempuan,170.6,47.9,60.2,tinggi,sering,sering,8,Menjaga Kesehatan
+1191,22,perempuan,175.4,92.2,87.1,tinggi,jarang,sering,6,Menurunkan Berat Badan
+1192,51,perempuan,176.6,79.9,68.8,sedang,jarang,jarang,5,Meningkatkan Kebugaran
+1193,29,perempuan,170.2,73.8,66,sedang,jarang,tidak pernah,8,Menurunkan Berat Badan
+1194,26,perempuan,152.6,55.5,56.9,sedang,jarang,sering,9,Meningkatkan Kebugaran
+1195,37,perempuan,182.3,94.9,68.9,rendah,sering,tidak pernah,8,Meningkatkan Kebugaran
+1196,22,perempuan,183.1,69.9,78.2,sedang,sering,tidak pernah,8,Meningkatkan Berat Badan
+1197,48,perempuan,158.9,62.6,64.5,sedang,jarang,sering,4,Menjaga Kesehatan
+1198,24,perempuan,148.4,50.1,49.2,tinggi,jarang,tidak pernah,8,Meningkatkan Kebugaran
+1199,61,perempuan,157.4,77.2,62.5,sedang,tidak pernah,tidak pernah,5,Menurunkan Berat Badan
+1200,37,perempuan,183.6,82.4,74.6,tinggi,sering,jarang,7,Meningkatkan Kebugaran
+1201,24,perempuan,181.1,62.9,61.3,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+1202,34,perempuan,151.7,50.7,48.1,sedang,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+1203,61,perempuan,148.9,57.8,49.3,sedang,jarang,jarang,7,Menurunkan Berat Badan
+1204,33,perempuan,155.8,52.1,52,sedang,sering,jarang,5,Menjaga Kesehatan
+1205,41,perempuan,163.1,70.5,54.3,rendah,tidak pernah,sering,8,Menjaga Kesehatan
+1206,60,perempuan,163.8,72,54.1,rendah,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+1207,25,perempuan,155.5,67.3,57.2,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+1208,61,perempuan,150.5,53.4,55.7,tinggi,sering,sering,4,Meningkatkan Kebugaran
+1209,24,perempuan,162.2,54.5,56.5,tinggi,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1210,26,perempuan,147.4,40,45.9,rendah,jarang,jarang,4,Meningkatkan Berat Badan
+1211,29,perempuan,151.2,53.2,51.6,tinggi,sering,jarang,7,Menjaga Kesehatan
+1212,25,perempuan,146.5,63.8,44.1,tinggi,sering,jarang,8,Meningkatkan Kebugaran
+1213,62,perempuan,176.5,76.5,85.3,tinggi,sering,sering,6,Meningkatkan Berat Badan
+1214,45,perempuan,161,67.9,62.7,rendah,jarang,jarang,9,Menurunkan Berat Badan
+1215,23,perempuan,145.4,40,49.3,tinggi,tidak pernah,jarang,9,Meningkatkan Kebugaran
+1216,32,perempuan,150.3,40.4,42.8,rendah,tidak pernah,jarang,5,Meningkatkan Berat Badan
+1217,22,perempuan,172,57,56.1,tinggi,sering,sering,6,Meningkatkan Kebugaran
+1218,21,perempuan,152.5,52.2,53.7,sedang,jarang,sering,6,Meningkatkan Kebugaran
+1219,42,perempuan,154.8,62.2,55.3,sedang,sering,sering,4,Meningkatkan Kebugaran
+1220,23,perempuan,171.9,68.4,62.6,rendah,sering,jarang,5,Menjaga Kesehatan
+1221,59,perempuan,176.9,73,67.7,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+1222,46,perempuan,146.7,50.5,49.7,tinggi,jarang,sering,4,Menjaga Kesehatan
+1223,22,perempuan,157.4,64.6,73.9,tinggi,sering,tidak pernah,7,Meningkatkan Berat Badan
+1224,51,perempuan,166.5,67.5,70,rendah,tidak pernah,sering,8,Meningkatkan Kebugaran
+1225,52,perempuan,157.4,72.4,77.1,sedang,jarang,sering,7,Meningkatkan Berat Badan
+1226,48,perempuan,156.8,63,54.1,tinggi,sering,jarang,8,Menurunkan Berat Badan
+1227,43,perempuan,155.5,52,55.7,rendah,tidak pernah,tidak pernah,6,Meningkatkan Berat Badan
+1228,39,perempuan,154.2,58.4,48.2,rendah,sering,jarang,9,Meningkatkan Kebugaran
+1229,59,perempuan,179.8,85.1,76.1,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+1230,50,perempuan,150.7,50.9,45.8,rendah,jarang,tidak pernah,4,Menjaga Kesehatan
+1231,24,perempuan,147.1,40,42.9,sedang,jarang,tidak pernah,9,Meningkatkan Berat Badan
+1232,48,perempuan,156.3,61.1,57.3,sedang,jarang,tidak pernah,7,Menurunkan Berat Badan
+1233,39,perempuan,183.4,79.1,72.9,rendah,jarang,tidak pernah,4,Menurunkan Berat Badan
+1234,19,perempuan,148.7,54.1,46.5,rendah,sering,sering,9,Meningkatkan Kebugaran
+1235,26,perempuan,150.4,53.2,50.3,sedang,tidak pernah,sering,6,Menjaga Kesehatan
+1236,60,perempuan,171.8,56.3,69.8,tinggi,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+1237,58,perempuan,151.3,53.8,50.9,sedang,jarang,sering,7,Menjaga Kesehatan
+1238,52,perempuan,166.4,59,64.1,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+1239,32,perempuan,171.6,72.4,64.8,tinggi,sering,jarang,4,Menjaga Kesehatan
+1240,61,perempuan,150.6,59.3,54,rendah,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+1241,44,perempuan,165.3,78.6,73.3,sedang,jarang,tidak pernah,9,Menurunkan Berat Badan
+1242,20,perempuan,163.6,51.5,49,sedang,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+1243,29,perempuan,171.1,78.3,89.9,tinggi,sering,jarang,6,Meningkatkan Berat Badan
+1244,47,perempuan,158.1,55.4,56.2,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1245,51,perempuan,182.2,70.4,76.1,rendah,tidak pernah,tidak pernah,8,Meningkatkan Berat Badan
+1246,48,perempuan,179.2,91.3,66.9,sedang,jarang,jarang,5,Meningkatkan Kebugaran
+1247,63,perempuan,155.7,57.6,61.6,tinggi,sering,sering,6,Meningkatkan Berat Badan
+1248,34,perempuan,180.9,82.7,74.7,rendah,jarang,tidak pernah,4,Menurunkan Berat Badan
+1249,27,perempuan,180,79.3,66.1,sedang,sering,sering,6,Menjaga Kesehatan
+1250,18,perempuan,157.2,62.9,57.4,tinggi,sering,sering,5,Meningkatkan Kebugaran
+1251,37,perempuan,149.7,43.3,40.6,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+1252,53,perempuan,154.3,65.5,54.7,sedang,jarang,tidak pernah,7,Menurunkan Berat Badan
+1253,27,perempuan,155.6,53.4,51,tinggi,sering,tidak pernah,5,Menjaga Kesehatan
+1254,55,perempuan,179.4,62.1,73.5,sedang,jarang,jarang,5,Menjaga Kesehatan
+1255,27,perempuan,171.2,57.6,64.2,sedang,jarang,jarang,9,Meningkatkan Berat Badan
+1256,43,perempuan,167.1,63.1,60.3,tinggi,sering,jarang,6,Menjaga Kesehatan
+1257,50,perempuan,170.9,77.1,65.8,tinggi,sering,tidak pernah,6,Menurunkan Berat Badan
+1258,34,perempuan,161.4,61,53.5,tinggi,jarang,tidak pernah,5,Meningkatkan Kebugaran
+1259,33,perempuan,179.4,66.2,72.6,sedang,jarang,jarang,5,Menjaga Kesehatan
+1260,50,perempuan,156.9,71.4,65.2,rendah,tidak pernah,sering,5,Menurunkan Berat Badan
+1261,27,perempuan,153.9,68.6,50.9,sedang,jarang,tidak pernah,9,Menjaga Kesehatan
+1262,23,perempuan,178.8,62.7,60.1,tinggi,jarang,sering,9,Menjaga Kesehatan
+1263,44,perempuan,145.4,63.9,54.4,sedang,jarang,tidak pernah,7,Menurunkan Berat Badan
+1264,35,perempuan,161.3,60.6,55,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+1265,40,perempuan,163.4,49.6,62.7,rendah,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+1266,48,perempuan,168.8,52.6,55.3,tinggi,jarang,sering,6,Meningkatkan Berat Badan
+1267,62,perempuan,181.4,80.6,82.1,sedang,sering,tidak pernah,7,Menjaga Kesehatan
+1268,62,perempuan,158.2,73.5,60.9,sedang,sering,tidak pernah,8,Menurunkan Berat Badan
+1269,18,perempuan,156.2,56,49.8,rendah,tidak pernah,jarang,4,Menurunkan Berat Badan
+1270,25,perempuan,183.2,93.5,86.2,tinggi,sering,tidak pernah,7,Menurunkan Berat Badan
+1271,24,perempuan,163.8,69.8,63.7,rendah,jarang,jarang,4,Menjaga Kesehatan
+1272,51,perempuan,173.1,72.7,62.6,tinggi,jarang,jarang,8,Meningkatkan Kebugaran
+1273,35,perempuan,157.3,55.8,62.7,sedang,sering,jarang,7,Meningkatkan Berat Badan
+1274,24,perempuan,145.6,47.7,45.3,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+1275,28,perempuan,181.4,71.3,68.8,tinggi,jarang,tidak pernah,7,Meningkatkan Kebugaran
+1276,38,perempuan,164.7,75.2,55,tinggi,sering,jarang,7,Menjaga Kesehatan
+1277,25,perempuan,181,58.5,66.8,rendah,jarang,tidak pernah,8,Meningkatkan Berat Badan
+1278,44,perempuan,177.1,84.9,78.1,sedang,tidak pernah,sering,6,Menurunkan Berat Badan
+1279,56,perempuan,153.7,59.8,52.7,rendah,jarang,sering,9,Menurunkan Berat Badan
+1280,27,perempuan,153.3,64.7,55.6,sedang,sering,tidak pernah,7,Meningkatkan Kebugaran
+1281,32,perempuan,184.1,61.7,69.5,tinggi,jarang,tidak pernah,6,Meningkatkan Berat Badan
+1282,35,perempuan,161.4,57.7,47,rendah,jarang,tidak pernah,5,Menurunkan Berat Badan
+1283,38,perempuan,172.8,87.6,82,sedang,jarang,tidak pernah,4,Menurunkan Berat Badan
+1284,48,perempuan,173,74.8,73.2,tinggi,sering,sering,8,Menjaga Kesehatan
+1285,37,perempuan,155.9,60.3,51,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+1286,53,perempuan,147.8,69.9,51.6,sedang,jarang,tidak pernah,5,Meningkatkan Kebugaran
+1287,50,perempuan,165.6,55.7,63.2,tinggi,sering,sering,6,Menjaga Kesehatan
+1288,39,perempuan,170.3,70.9,58.2,sedang,sering,sering,5,Meningkatkan Kebugaran
+1289,21,perempuan,175.3,51.9,58.9,sedang,sering,sering,8,Meningkatkan Berat Badan
+1290,28,perempuan,184.4,78.9,80,sedang,jarang,tidak pernah,7,Menjaga Kesehatan
+1291,58,perempuan,171.3,86.9,69.4,rendah,jarang,sering,6,Menjaga Kesehatan
+1292,37,perempuan,177.6,75,76.2,tinggi,sering,jarang,4,Meningkatkan Kebugaran
+1293,56,perempuan,178.8,73,66.9,tinggi,sering,jarang,7,Menjaga Kesehatan
+1294,26,perempuan,159.2,47,57.4,rendah,tidak pernah,jarang,5,Menjaga Kesehatan
+1295,48,perempuan,165,79.4,75,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+1296,31,perempuan,169.4,64.8,66.4,sedang,jarang,sering,4,Meningkatkan Kebugaran
+1297,57,perempuan,146.3,49.3,49.2,rendah,tidak pernah,jarang,5,Meningkatkan Kebugaran
+1298,20,perempuan,148.5,63.4,58.3,rendah,tidak pernah,sering,5,Menurunkan Berat Badan
+1299,43,perempuan,180,83.2,68.2,sedang,tidak pernah,sering,4,Meningkatkan Kebugaran
+1300,42,perempuan,182.4,53.2,55.9,rendah,tidak pernah,sering,7,Meningkatkan Berat Badan
+1301,26,perempuan,147.5,44.5,40,tinggi,jarang,sering,5,Menurunkan Berat Badan
+1302,47,perempuan,168.9,68,70.4,sedang,jarang,tidak pernah,9,Menjaga Kesehatan
+1303,46,perempuan,147.7,61.4,54.2,sedang,tidak pernah,tidak pernah,8,Menurunkan Berat Badan
+1304,38,perempuan,146,53.9,49.9,tinggi,sering,tidak pernah,4,Menurunkan Berat Badan
+1305,37,perempuan,174.1,68.8,68.6,tinggi,sering,tidak pernah,4,Meningkatkan Kebugaran
+1306,45,perempuan,145.2,45.2,44.2,tinggi,sering,sering,6,Menjaga Kesehatan
+1307,58,perempuan,158.8,57.2,60,sedang,jarang,jarang,7,Meningkatkan Kebugaran
+1308,30,perempuan,149.1,46.9,48.9,rendah,jarang,jarang,8,Menjaga Kesehatan
+1309,53,perempuan,174.9,86.7,80.3,sedang,tidak pernah,sering,5,Menurunkan Berat Badan
+1310,21,perempuan,171.6,74.1,62.9,rendah,tidak pernah,jarang,4,Menurunkan Berat Badan
+1311,43,perempuan,167.2,85.6,68.8,tinggi,jarang,tidak pernah,5,Menurunkan Berat Badan
+1312,30,perempuan,163.3,44.2,60.5,sedang,sering,tidak pernah,7,Menjaga Kesehatan
+1313,48,perempuan,165.6,72.5,65,sedang,sering,tidak pernah,4,Meningkatkan Kebugaran
+1314,54,perempuan,160.9,56.2,58.1,tinggi,sering,tidak pernah,6,Menjaga Kesehatan
+1315,20,perempuan,163.7,51,61.4,tinggi,sering,jarang,6,Menjaga Kesehatan
+1316,55,perempuan,155.4,64,57.4,tinggi,sering,jarang,4,Menurunkan Berat Badan
+1317,35,perempuan,157.9,57.2,57,tinggi,sering,sering,6,Menjaga Kesehatan
+1318,45,perempuan,156.6,52.3,50.3,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+1319,64,perempuan,150.4,59.8,46.9,sedang,tidak pernah,jarang,4,Menjaga Kesehatan
+1320,39,perempuan,153.4,54.6,47.4,tinggi,jarang,tidak pernah,8,Menjaga Kesehatan
+1321,41,perempuan,155.4,71,53.9,tinggi,sering,sering,7,Meningkatkan Kebugaran
+1322,27,perempuan,168.3,55,67.8,tinggi,sering,tidak pernah,4,Meningkatkan Kebugaran
+1323,61,perempuan,175.5,89.3,66.2,sedang,jarang,tidak pernah,5,Meningkatkan Kebugaran
+1324,26,perempuan,184,62.4,70.6,tinggi,jarang,sering,9,Meningkatkan Berat Badan
+1325,37,perempuan,183.6,88.9,72.3,sedang,jarang,jarang,8,Meningkatkan Kebugaran
+1326,60,perempuan,154.7,74.7,62.2,tinggi,sering,tidak pernah,6,Menurunkan Berat Badan
+1327,48,perempuan,158.8,40.3,43.6,sedang,tidak pernah,sering,4,Meningkatkan Berat Badan
+1328,19,perempuan,145.5,43.9,41.4,tinggi,sering,jarang,4,Menjaga Kesehatan
+1329,61,perempuan,146.4,41.9,42.5,rendah,sering,jarang,7,Meningkatkan Kebugaran
+1330,46,perempuan,159.9,56,54,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+1331,62,perempuan,150.3,56.6,49.9,rendah,tidak pernah,sering,7,Menurunkan Berat Badan
+1332,62,perempuan,170,65.7,65.2,rendah,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+1333,21,perempuan,146.6,50.1,44.2,tinggi,jarang,tidak pernah,6,Menjaga Kesehatan
+1334,44,perempuan,174,69.9,62,sedang,sering,jarang,6,Menjaga Kesehatan
+1335,30,perempuan,168.8,53.1,60.7,rendah,sering,jarang,8,Menjaga Kesehatan
+1336,32,perempuan,173.8,89.6,72.7,rendah,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+1337,41,perempuan,157.2,67.2,59.9,tinggi,tidak pernah,sering,6,Menurunkan Berat Badan
+1338,22,perempuan,169,63.6,65.4,tinggi,sering,tidak pernah,8,Meningkatkan Kebugaran
+1339,55,perempuan,176.3,82.6,68.7,tinggi,sering,sering,4,Meningkatkan Kebugaran
+1340,24,perempuan,146.3,40.4,49.6,sedang,jarang,tidak pernah,7,Meningkatkan Kebugaran
+1341,26,perempuan,172.7,67,61.9,sedang,jarang,tidak pernah,6,Menjaga Kesehatan
+1342,58,perempuan,152.6,64.7,61.1,sedang,jarang,tidak pernah,5,Menurunkan Berat Badan
+1343,30,perempuan,150.5,40.9,45.7,rendah,tidak pernah,jarang,7,Meningkatkan Berat Badan
+1344,51,perempuan,162.3,57.7,55.3,sedang,jarang,jarang,9,Menjaga Kesehatan
+1345,19,perempuan,168.8,58.8,59.9,rendah,tidak pernah,sering,4,Meningkatkan Kebugaran
+1346,40,perempuan,177.6,85.6,80.5,tinggi,jarang,jarang,4,Menurunkan Berat Badan
+1347,61,perempuan,167.2,67.6,63.1,rendah,jarang,jarang,4,Menurunkan Berat Badan
+1348,41,perempuan,153.8,58.8,53.7,tinggi,sering,sering,6,Menjaga Kesehatan
+1349,42,perempuan,184.4,81.4,72.9,rendah,tidak pernah,jarang,8,Menjaga Kesehatan
+1350,44,perempuan,164.2,60.7,59,tinggi,sering,jarang,6,Meningkatkan Kebugaran
+1351,35,perempuan,164.3,79.4,59.8,sedang,jarang,tidak pernah,7,Meningkatkan Kebugaran
+1352,19,perempuan,168.4,73.9,68.4,tinggi,sering,tidak pernah,8,Menurunkan Berat Badan
+1353,45,perempuan,164.9,66.9,69.5,tinggi,sering,jarang,5,Menjaga Kesehatan
+1354,58,perempuan,152.6,64.9,53,sedang,jarang,sering,5,Menurunkan Berat Badan
+1355,31,perempuan,183.2,62,68.9,tinggi,sering,sering,9,Meningkatkan Kebugaran
+1356,48,perempuan,176.5,74.8,65.7,rendah,sering,jarang,6,Meningkatkan Kebugaran
+1357,58,perempuan,158.7,77.4,72.5,tinggi,jarang,tidak pernah,9,Menurunkan Berat Badan
+1358,33,perempuan,174.5,80.4,69.6,tinggi,sering,sering,4,Meningkatkan Kebugaran
+1359,54,perempuan,174.4,95.6,78.8,tinggi,tidak pernah,jarang,5,Menurunkan Berat Badan
+1360,52,perempuan,181,68.5,68.9,tinggi,jarang,tidak pernah,7,Menjaga Kesehatan
+1361,63,perempuan,165.5,85.1,70,tinggi,sering,sering,7,Menurunkan Berat Badan
+1362,52,perempuan,173.8,88.7,74,rendah,jarang,jarang,6,Menurunkan Berat Badan
+1363,63,perempuan,158.2,61.4,52.7,rendah,sering,tidak pernah,4,Meningkatkan Kebugaran
+1364,33,perempuan,168.8,67.3,66.9,rendah,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+1365,24,perempuan,153.2,61.4,57.8,rendah,jarang,tidak pernah,5,Menurunkan Berat Badan
+1366,18,perempuan,178.3,61,58.3,sedang,jarang,sering,6,Menjaga Kesehatan
+1367,39,perempuan,182.6,60.4,64.9,rendah,jarang,jarang,8,Meningkatkan Berat Badan
+1368,23,perempuan,147,54.6,46.2,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+1369,58,perempuan,182.4,84.1,71.5,rendah,sering,tidak pernah,9,Menurunkan Berat Badan
+1370,26,perempuan,145.3,48.4,50.6,tinggi,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+1371,54,perempuan,172.4,75.8,69.5,tinggi,sering,tidak pernah,6,Menjaga Kesehatan
+1372,58,perempuan,175.9,80.3,74.2,tinggi,jarang,tidak pernah,4,Menjaga Kesehatan
+1373,44,perempuan,179.7,67.9,73.8,rendah,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+1374,33,perempuan,158.3,64,56.3,rendah,jarang,jarang,9,Meningkatkan Kebugaran
+1375,44,perempuan,177.9,73.8,74.3,sedang,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+1376,39,perempuan,159.3,70.7,67.2,rendah,tidak pernah,sering,7,Menurunkan Berat Badan
+1377,45,perempuan,159.1,53.3,56,sedang,sering,jarang,9,Menjaga Kesehatan
+1378,37,perempuan,160.2,56.3,47.6,sedang,sering,jarang,7,Menurunkan Berat Badan
+1379,22,perempuan,168.6,79.2,65.4,rendah,tidak pernah,sering,8,Meningkatkan Kebugaran
+1380,46,perempuan,173.1,80,66.2,rendah,jarang,jarang,4,Menurunkan Berat Badan
+1381,32,perempuan,179.9,74.7,64.9,rendah,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+1382,65,perempuan,171.5,47.1,68.1,tinggi,sering,sering,5,Menjaga Kesehatan
+1383,47,perempuan,155.9,68.5,51.1,rendah,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+1384,52,perempuan,169.5,75.7,82.2,tinggi,sering,jarang,9,Meningkatkan Berat Badan
+1385,53,perempuan,165,63.7,62.9,rendah,sering,sering,8,Menjaga Kesehatan
+1386,21,perempuan,146.5,49.6,41.2,tinggi,sering,sering,6,Menurunkan Berat Badan
+1387,38,perempuan,161.3,58.6,52.6,sedang,sering,jarang,6,Menurunkan Berat Badan
+1388,25,perempuan,172,79.1,64.9,rendah,tidak pernah,sering,4,Menjaga Kesehatan
+1389,58,perempuan,158.8,60.8,63,tinggi,jarang,tidak pernah,5,Menjaga Kesehatan
+1390,52,perempuan,169.2,71,57.8,sedang,jarang,jarang,7,Menjaga Kesehatan
+1391,52,perempuan,161.5,70.5,65.7,rendah,jarang,sering,6,Menurunkan Berat Badan
+1392,62,perempuan,145.5,50.7,51.4,sedang,sering,jarang,6,Menjaga Kesehatan
+1393,37,perempuan,168,78.7,62.2,sedang,sering,tidak pernah,7,Meningkatkan Kebugaran
+1394,64,perempuan,156,85.3,72.3,rendah,sering,jarang,7,Menurunkan Berat Badan
+1395,41,perempuan,167.7,80.5,58,sedang,sering,tidak pernah,4,Menjaga Kesehatan
+1396,21,perempuan,168.8,58.1,58.5,rendah,tidak pernah,jarang,7,Menjaga Kesehatan
+1397,60,perempuan,146.2,62.7,57.2,rendah,tidak pernah,sering,9,Menurunkan Berat Badan
+1398,44,perempuan,173.1,51.2,56.6,tinggi,sering,sering,4,Meningkatkan Berat Badan
+1399,62,perempuan,146.1,59.5,49.7,sedang,jarang,sering,9,Menjaga Kesehatan
+1400,32,perempuan,166.1,56.2,62,sedang,sering,tidak pernah,9,Meningkatkan Kebugaran
+1401,59,perempuan,182.4,80.7,80.8,tinggi,sering,tidak pernah,6,Menjaga Kesehatan
+1402,40,perempuan,171.5,78.2,63.8,tinggi,jarang,jarang,4,Menurunkan Berat Badan
+1403,19,perempuan,146.8,46.9,45.9,tinggi,jarang,tidak pernah,7,Meningkatkan Kebugaran
+1404,38,perempuan,145.8,42.4,45.1,sedang,sering,sering,7,Meningkatkan Kebugaran
+1405,55,perempuan,155.8,71.3,61.5,sedang,jarang,sering,9,Menurunkan Berat Badan
+1406,41,perempuan,169.1,90.1,77.7,rendah,tidak pernah,sering,8,Menurunkan Berat Badan
+1407,29,perempuan,184.4,55.9,60.7,tinggi,sering,jarang,9,Meningkatkan Berat Badan
+1408,49,perempuan,163.7,54.2,60.5,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+1409,54,perempuan,162.3,69.1,61.8,rendah,jarang,tidak pernah,4,Menurunkan Berat Badan
+1410,63,perempuan,177.3,91.6,97.2,sedang,jarang,jarang,6,Meningkatkan Berat Badan
+1411,62,perempuan,181,86.8,74,sedang,jarang,jarang,5,Menurunkan Berat Badan
+1412,33,perempuan,180.5,71.5,77.2,sedang,sering,sering,6,Meningkatkan Kebugaran
+1413,58,perempuan,182.5,98.6,73.8,rendah,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+1414,52,perempuan,171.9,57.1,62.9,rendah,jarang,tidak pernah,8,Menjaga Kesehatan
+1415,38,perempuan,151.7,57.3,56.1,sedang,sering,jarang,7,Meningkatkan Kebugaran
+1416,39,perempuan,149.9,43.5,42.7,rendah,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+1417,41,perempuan,176.6,79.6,72.6,sedang,tidak pernah,jarang,8,Menurunkan Berat Badan
+1418,33,perempuan,170.2,60.3,65.8,tinggi,sering,sering,6,Menjaga Kesehatan
+1419,36,perempuan,148.9,56.4,58.6,tinggi,sering,jarang,9,Menjaga Kesehatan
+1420,61,perempuan,156.4,68.2,51.3,tinggi,sering,tidak pernah,5,Meningkatkan Kebugaran
+1421,51,perempuan,153.5,69.3,47.2,rendah,tidak pernah,jarang,5,Meningkatkan Kebugaran
+1422,40,perempuan,180.4,73.8,65.9,tinggi,tidak pernah,jarang,9,Menjaga Kesehatan
+1423,64,perempuan,175.7,63.4,74,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+1424,64,perempuan,183.9,76.1,79,rendah,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+1425,40,perempuan,184.2,94,84.5,tinggi,jarang,sering,8,Menurunkan Berat Badan
+1426,27,perempuan,159.6,62.2,67.1,rendah,tidak pernah,sering,9,Meningkatkan Berat Badan
+1427,65,perempuan,153.5,55,62.5,sedang,sering,sering,4,Meningkatkan Berat Badan
+1428,29,perempuan,157.8,43.2,47.1,tinggi,jarang,sering,7,Meningkatkan Berat Badan
+1429,49,perempuan,163.8,76.6,56.9,sedang,jarang,sering,5,Menjaga Kesehatan
+1430,54,perempuan,146.7,47.8,48.8,tinggi,tidak pernah,sering,7,Meningkatkan Kebugaran
+1431,44,perempuan,176.5,80.5,66.9,tinggi,jarang,sering,5,Menurunkan Berat Badan
+1432,43,perempuan,164.9,58.8,48.7,sedang,jarang,jarang,6,Menurunkan Berat Badan
+1433,34,perempuan,168.5,63.6,63.4,tinggi,sering,sering,8,Menjaga Kesehatan
+1434,47,perempuan,158,64.3,55.3,tinggi,jarang,sering,8,Meningkatkan Kebugaran
+1435,61,perempuan,170.2,78.8,62.7,tinggi,jarang,tidak pernah,8,Meningkatkan Kebugaran
+1436,38,perempuan,184.5,86.5,72.6,sedang,sering,sering,9,Menjaga Kesehatan
+1437,41,perempuan,182.7,71.2,70.3,tinggi,jarang,jarang,8,Meningkatkan Kebugaran
+1438,58,perempuan,165.5,77.1,72.4,sedang,jarang,tidak pernah,8,Menurunkan Berat Badan
+1439,56,perempuan,171,80.3,68.4,sedang,sering,tidak pernah,9,Menjaga Kesehatan
+1440,48,perempuan,146.2,43.1,49.4,rendah,sering,jarang,6,Menjaga Kesehatan
+1441,27,perempuan,165.1,74.4,62.3,sedang,jarang,sering,4,Meningkatkan Kebugaran
+1442,20,perempuan,183.8,94.4,73.8,rendah,jarang,jarang,6,Meningkatkan Kebugaran
+1443,30,perempuan,162.1,66.2,56.4,tinggi,sering,jarang,4,Menurunkan Berat Badan
+1444,59,perempuan,182.2,69.9,71.1,tinggi,sering,jarang,7,Menjaga Kesehatan
+1445,63,perempuan,178.5,80.4,71.8,tinggi,jarang,sering,5,Menurunkan Berat Badan
+1446,39,perempuan,184.3,87.2,70.2,tinggi,sering,sering,6,Menurunkan Berat Badan
+1447,25,perempuan,173.9,71.1,60.9,sedang,jarang,tidak pernah,5,Menurunkan Berat Badan
+1448,37,perempuan,183.3,87.2,78.6,sedang,tidak pernah,jarang,9,Menjaga Kesehatan
+1449,25,perempuan,172.4,88.9,66.9,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+1450,52,perempuan,161.7,69.8,60.7,sedang,jarang,sering,8,Menurunkan Berat Badan
+1451,26,perempuan,167,54.8,56.2,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+1452,44,perempuan,174.4,59,55.7,tinggi,jarang,tidak pernah,8,Menurunkan Berat Badan
+1453,50,perempuan,166.8,65.9,65.5,rendah,sering,jarang,7,Meningkatkan Kebugaran
+1454,37,perempuan,184.3,77.7,68.5,rendah,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+1455,43,perempuan,180,70.2,67.3,sedang,tidak pernah,jarang,5,Menjaga Kesehatan
+1456,55,perempuan,153.4,63.5,58.5,sedang,sering,jarang,6,Menurunkan Berat Badan
+1457,44,perempuan,173.7,71.7,74.2,rendah,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+1458,23,perempuan,162.9,45.9,52.3,sedang,jarang,tidak pernah,5,Meningkatkan Berat Badan
+1459,44,perempuan,170.3,63.1,64.5,tinggi,sering,jarang,5,Meningkatkan Kebugaran
+1460,25,perempuan,170,97.3,81.9,tinggi,jarang,tidak pernah,8,Menurunkan Berat Badan
+1461,60,perempuan,164.5,74.1,55.5,rendah,sering,jarang,5,Meningkatkan Kebugaran
+1462,61,perempuan,173.4,72,69.7,tinggi,tidak pernah,jarang,4,Meningkatkan Kebugaran
+1463,20,perempuan,175.6,66.4,68,sedang,sering,jarang,5,Meningkatkan Kebugaran
+1464,41,perempuan,169.7,69.1,61,rendah,jarang,jarang,7,Meningkatkan Kebugaran
+1465,31,perempuan,163.3,46.8,54.6,sedang,sering,tidak pernah,8,Menjaga Kesehatan
+1466,19,perempuan,152.2,53.6,45.2,tinggi,sering,jarang,5,Menurunkan Berat Badan
+1467,63,perempuan,148.7,51.4,53,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+1468,38,perempuan,156.2,64.5,52.8,sedang,jarang,sering,6,Menurunkan Berat Badan
+1469,56,perempuan,180.9,72.9,65.3,tinggi,sering,tidak pernah,7,Menurunkan Berat Badan
+1470,34,perempuan,171.1,66.4,59.5,tinggi,sering,tidak pernah,4,Meningkatkan Kebugaran
+1471,26,perempuan,151,53.2,54.5,tinggi,sering,jarang,5,Meningkatkan Kebugaran
+1472,62,perempuan,150.6,63.5,53.2,tinggi,jarang,sering,9,Menurunkan Berat Badan
+1473,19,perempuan,182.7,55.5,47.8,tinggi,tidak pernah,tidak pernah,5,Menurunkan Berat Badan
+1474,56,perempuan,164.6,72.2,67.8,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+1475,64,perempuan,168.2,80.7,65.2,tinggi,sering,tidak pernah,4,Menjaga Kesehatan
+1476,50,perempuan,167.2,73.8,64.1,tinggi,jarang,tidak pernah,8,Menurunkan Berat Badan
+1477,34,perempuan,158.4,59.1,59.5,tinggi,jarang,jarang,5,Meningkatkan Kebugaran
+1478,35,perempuan,149.9,62.5,45.9,sedang,jarang,tidak pernah,7,Menjaga Kesehatan
+1479,45,perempuan,163.1,62.4,61.3,sedang,sering,tidak pernah,9,Meningkatkan Kebugaran
+1480,63,perempuan,152.8,52.7,46.9,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+1481,47,perempuan,157.8,54.4,59.6,rendah,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+1482,31,perempuan,166.7,74.2,59.2,sedang,jarang,jarang,5,Meningkatkan Kebugaran
+1483,56,perempuan,153.3,57.1,51.4,sedang,jarang,sering,8,Meningkatkan Kebugaran
+1484,31,perempuan,178.2,84.5,68.4,rendah,jarang,sering,7,Menurunkan Berat Badan
+1485,59,perempuan,156.1,54,52.5,tinggi,sering,sering,6,Meningkatkan Kebugaran
+1486,60,perempuan,158.3,57,59.7,rendah,jarang,jarang,8,Menjaga Kesehatan
+1487,56,perempuan,148.5,40,44,rendah,jarang,tidak pernah,6,Meningkatkan Berat Badan
+1488,29,perempuan,151.2,55.2,58.2,tinggi,sering,sering,8,Meningkatkan Berat Badan
+1489,32,perempuan,156.2,45.5,55.6,tinggi,sering,jarang,5,Meningkatkan Kebugaran
+1490,36,perempuan,164.6,64.4,61.7,tinggi,jarang,tidak pernah,8,Menjaga Kesehatan
+1491,25,perempuan,145.6,62.4,50.9,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+1492,39,perempuan,173.9,80.8,69.5,tinggi,jarang,sering,8,Meningkatkan Kebugaran
+1493,64,perempuan,149.9,51.6,53.3,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1494,31,perempuan,177.4,77.3,70.4,tinggi,sering,sering,5,Menjaga Kesehatan
+1495,38,perempuan,156,63.4,58.9,tinggi,tidak pernah,sering,8,Menurunkan Berat Badan
+1496,19,perempuan,182.7,75.3,74.9,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+1497,22,perempuan,184.8,65.8,73.2,tinggi,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+1498,37,perempuan,154.4,60.8,48,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+1499,53,perempuan,164.7,56.7,59.7,rendah,jarang,sering,6,Menjaga Kesehatan
+1500,51,perempuan,178.6,71.6,70.8,rendah,sering,sering,5,Menjaga Kesehatan
+1501,33,perempuan,175.5,53,60.6,tinggi,tidak pernah,jarang,6,Meningkatkan Berat Badan
+1502,33,perempuan,169.7,58.9,65.3,tinggi,sering,sering,4,Meningkatkan Kebugaran
+1503,40,perempuan,163.8,53.6,51.3,rendah,jarang,tidak pernah,9,Menjaga Kesehatan
+1504,57,perempuan,173,65,68.5,sedang,jarang,sering,4,Meningkatkan Berat Badan
+1505,43,perempuan,177.6,69.8,67.1,tinggi,tidak pernah,jarang,9,Menjaga Kesehatan
+1506,60,perempuan,166.4,62.9,65.3,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+1507,64,perempuan,165.5,73.4,65.1,rendah,jarang,jarang,9,Menurunkan Berat Badan
+1508,30,perempuan,182.9,67,76.7,tinggi,jarang,tidak pernah,6,Meningkatkan Berat Badan
+1509,45,perempuan,182.2,80.3,73.1,rendah,jarang,tidak pernah,6,Meningkatkan Kebugaran
+1510,34,perempuan,146.7,55.7,47.9,tinggi,sering,jarang,7,Menurunkan Berat Badan
+1511,27,perempuan,161.5,70.6,57.3,tinggi,sering,tidak pernah,6,Meningkatkan Kebugaran
+1512,22,perempuan,184.2,104.6,88.8,tinggi,sering,tidak pernah,6,Menurunkan Berat Badan
+1513,18,perempuan,162.2,51.3,60.1,rendah,jarang,tidak pernah,6,Meningkatkan Kebugaran
+1514,19,perempuan,152.9,62.8,54.9,sedang,jarang,jarang,5,Menurunkan Berat Badan
+1515,60,perempuan,173.1,76.9,62.8,sedang,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+1516,45,perempuan,184.8,80.5,79.1,sedang,tidak pernah,jarang,5,Menjaga Kesehatan
+1517,22,perempuan,172.9,79,63.8,rendah,tidak pernah,sering,6,Menjaga Kesehatan
+1518,38,perempuan,170.3,55.2,56.7,rendah,tidak pernah,jarang,5,Meningkatkan Kebugaran
+1519,57,perempuan,150.7,51.8,50.6,tinggi,jarang,tidak pernah,8,Menjaga Kesehatan
+1520,24,perempuan,172.4,58.5,70.4,tinggi,jarang,jarang,7,Menjaga Kesehatan
+1521,44,perempuan,145.9,54.1,56.7,tinggi,sering,jarang,8,Menjaga Kesehatan
+1522,54,perempuan,160.2,61.5,53.3,sedang,sering,jarang,8,Menjaga Kesehatan
+1523,23,perempuan,163.6,69.3,63.4,sedang,tidak pernah,jarang,6,Menjaga Kesehatan
+1524,22,perempuan,166.1,53.2,58.4,tinggi,jarang,tidak pernah,6,Meningkatkan Kebugaran
+1525,55,perempuan,164,72.6,55.8,sedang,jarang,tidak pernah,5,Menjaga Kesehatan
+1526,46,perempuan,149.9,54.9,57.2,tinggi,sering,tidak pernah,7,Menjaga Kesehatan
+1527,29,perempuan,174.1,72.5,61.5,rendah,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+1528,38,perempuan,164.4,61.3,51.4,rendah,jarang,jarang,8,Menurunkan Berat Badan
+1529,47,perempuan,161.9,73.1,61.6,sedang,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+1530,63,perempuan,169.7,68.6,58.1,tinggi,sering,tidak pernah,8,Menjaga Kesehatan
+1531,21,perempuan,161.6,67.6,58.7,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+1532,37,perempuan,184.5,90.8,81.3,rendah,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+1533,21,perempuan,160.4,69.1,58.6,sedang,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+1534,33,perempuan,178.6,70.9,71.3,sedang,sering,tidak pernah,9,Meningkatkan Kebugaran
+1535,33,perempuan,162.9,58.7,56.5,rendah,jarang,tidak pernah,5,Menjaga Kesehatan
+1536,39,perempuan,170.3,74.3,68,tinggi,sering,jarang,9,Meningkatkan Kebugaran
+1537,27,perempuan,171.8,54.1,62,tinggi,sering,sering,6,Menjaga Kesehatan
+1538,37,perempuan,184.9,89.9,69.2,sedang,sering,jarang,6,Meningkatkan Kebugaran
+1539,45,perempuan,165.5,71.2,61.3,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+1540,55,perempuan,177.1,74.7,65.7,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+1541,61,perempuan,178.9,87.7,73.5,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+1542,64,perempuan,180,82.9,72.4,tinggi,sering,sering,5,Menurunkan Berat Badan
+1543,54,perempuan,167,79.6,56.3,tinggi,sering,jarang,4,Menjaga Kesehatan
+1544,44,perempuan,166.9,66.6,68.7,tinggi,tidak pernah,jarang,5,Menjaga Kesehatan
+1545,50,perempuan,149.7,61.9,57.6,tinggi,sering,sering,9,Menurunkan Berat Badan
+1546,58,perempuan,162.9,63.9,53.3,tinggi,sering,sering,7,Menjaga Kesehatan
+1547,64,perempuan,145.8,41,40,rendah,jarang,jarang,6,Menurunkan Berat Badan
+1548,55,perempuan,166,67,60.5,tinggi,sering,jarang,8,Menjaga Kesehatan
+1549,59,perempuan,160.9,68,58,tinggi,jarang,tidak pernah,4,Menurunkan Berat Badan
+1550,59,perempuan,172.7,58.8,70.1,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+1551,27,perempuan,181,61.2,77.2,tinggi,sering,tidak pernah,4,Menjaga Kesehatan
+1552,35,perempuan,183.8,82.9,74.5,tinggi,sering,sering,7,Meningkatkan Kebugaran
+1553,43,perempuan,181.8,86.3,72.9,sedang,jarang,tidak pernah,7,Menjaga Kesehatan
+1554,55,perempuan,153.4,63.3,51.5,tinggi,sering,sering,7,Menurunkan Berat Badan
+1555,64,perempuan,172.4,72.5,63.3,sedang,tidak pernah,jarang,5,Meningkatkan Kebugaran
+1556,29,perempuan,158.9,52.6,59.7,sedang,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1557,39,perempuan,164.9,58.9,67.1,sedang,tidak pernah,jarang,4,Meningkatkan Berat Badan
+1558,58,perempuan,174,66.6,67,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+1559,40,perempuan,161.8,72.5,62.5,sedang,jarang,jarang,6,Menjaga Kesehatan
+1560,29,perempuan,165.5,65.1,65.4,rendah,tidak pernah,sering,7,Meningkatkan Kebugaran
+1561,56,perempuan,147.8,55.2,46,sedang,jarang,jarang,7,Menurunkan Berat Badan
+1562,22,perempuan,163.9,77.2,62,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+1563,18,perempuan,160.3,73.7,82.2,sedang,sering,sering,7,Meningkatkan Berat Badan
+1564,37,perempuan,156,57.1,51.5,rendah,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+1565,35,perempuan,170.8,54.1,63.5,tinggi,jarang,sering,8,Menjaga Kesehatan
+1566,44,perempuan,164.2,68.7,60.9,tinggi,sering,tidak pernah,6,Menjaga Kesehatan
+1567,37,perempuan,149.7,57.7,49,rendah,tidak pernah,tidak pernah,8,Menurunkan Berat Badan
+1568,36,perempuan,145.3,40,40,tinggi,sering,tidak pernah,8,Menurunkan Berat Badan
+1569,24,perempuan,166,53.7,62,rendah,tidak pernah,jarang,9,Meningkatkan Kebugaran
+1570,62,perempuan,162.5,62.7,57.6,tinggi,sering,jarang,5,Menjaga Kesehatan
+1571,58,perempuan,158.4,65.8,60.2,rendah,tidak pernah,jarang,9,Menurunkan Berat Badan
+1572,49,perempuan,149.9,57.7,49.7,tinggi,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+1573,30,perempuan,182.4,93.8,77.8,tinggi,sering,tidak pernah,4,Meningkatkan Kebugaran
+1574,59,perempuan,165.3,63.9,54.9,rendah,tidak pernah,sering,8,Menurunkan Berat Badan
+1575,55,perempuan,180.2,71.4,68.6,sedang,jarang,sering,7,Meningkatkan Kebugaran
+1576,64,perempuan,168.4,59.2,59,tinggi,tidak pernah,sering,5,Meningkatkan Kebugaran
+1577,30,perempuan,173,87.3,79.5,tinggi,sering,sering,6,Menurunkan Berat Badan
+1578,43,perempuan,182.8,71.9,79.5,sedang,sering,jarang,4,Menjaga Kesehatan
+1579,62,perempuan,149,65.5,50.5,tinggi,sering,jarang,4,Meningkatkan Kebugaran
+1580,34,perempuan,164.4,64.8,58.7,rendah,jarang,tidak pernah,9,Menjaga Kesehatan
+1581,64,perempuan,163.7,76.2,56.4,sedang,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+1582,64,perempuan,180.6,84.6,72.4,tinggi,sering,sering,6,Menjaga Kesehatan
+1583,54,perempuan,177.3,65.6,65.2,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+1584,40,perempuan,176.3,67.8,67.3,rendah,tidak pernah,sering,7,Menjaga Kesehatan
+1585,40,perempuan,175.7,68.6,76,rendah,tidak pernah,jarang,8,Meningkatkan Berat Badan
+1586,65,perempuan,179.3,82.8,71.5,rendah,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+1587,61,perempuan,144.5,48.1,50.9,tinggi,jarang,jarang,5,Meningkatkan Berat Badan
+1588,49,perempuan,160.3,60.5,53.5,sedang,sering,tidak pernah,5,Menjaga Kesehatan
+1589,46,perempuan,147,73.9,69.7,tinggi,sering,tidak pernah,7,Menurunkan Berat Badan
+1590,28,perempuan,178.7,67.8,69.8,tinggi,tidak pernah,jarang,9,Menjaga Kesehatan
+1591,29,perempuan,170,55.8,52.4,tinggi,sering,tidak pernah,7,Menurunkan Berat Badan
+1592,54,perempuan,146.3,66.4,60.7,sedang,sering,jarang,6,Menurunkan Berat Badan
+1593,19,perempuan,157,43.2,58.3,sedang,tidak pernah,sering,5,Meningkatkan Kebugaran
+1594,41,perempuan,157.3,69.4,56.8,rendah,tidak pernah,jarang,9,Meningkatkan Kebugaran
+1595,35,perempuan,156.3,54.1,53.3,sedang,sering,tidak pernah,4,Meningkatkan Kebugaran
+1596,41,perempuan,181.3,76.1,78,tinggi,tidak pernah,jarang,4,Menjaga Kesehatan
+1597,55,perempuan,158.2,53.5,45.5,rendah,jarang,sering,9,Menurunkan Berat Badan
+1598,28,perempuan,167.2,55.5,58.4,sedang,jarang,sering,7,Meningkatkan Kebugaran
+1599,25,perempuan,183.9,83.6,93.2,sedang,sering,jarang,9,Meningkatkan Berat Badan
+1600,28,perempuan,171.7,74.9,69.8,rendah,jarang,tidak pernah,9,Meningkatkan Kebugaran
+1601,53,perempuan,169.8,87.1,78.6,tinggi,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+1602,31,perempuan,151.5,47.2,49.1,rendah,tidak pernah,sering,7,Meningkatkan Kebugaran
+1603,59,perempuan,161.8,67.6,57,tinggi,jarang,sering,7,Menjaga Kesehatan
+1604,29,perempuan,158.4,72.4,57.4,rendah,jarang,tidak pernah,4,Meningkatkan Kebugaran
+1605,23,perempuan,157.7,53.6,54.6,tinggi,jarang,tidak pernah,5,Meningkatkan Kebugaran
+1606,39,perempuan,184.9,81.6,75.2,tinggi,sering,sering,5,Meningkatkan Kebugaran
+1607,65,perempuan,149.3,46.7,49,rendah,jarang,tidak pernah,7,Menjaga Kesehatan
+1608,61,perempuan,153.7,49.9,52.2,sedang,sering,sering,5,Meningkatkan Kebugaran
+1609,58,perempuan,180,81.5,73.3,tinggi,jarang,sering,6,Menjaga Kesehatan
+1610,55,perempuan,170.4,65.5,68.4,rendah,jarang,sering,6,Menjaga Kesehatan
+1611,34,perempuan,175.1,67.6,68.9,sedang,jarang,sering,5,Menjaga Kesehatan
+1612,51,perempuan,172.7,79,63.4,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+1613,37,perempuan,146.7,58.8,51.6,sedang,jarang,jarang,8,Menurunkan Berat Badan
+1614,49,perempuan,184.9,68.3,73.4,tinggi,jarang,tidak pernah,5,Meningkatkan Kebugaran
+1615,27,perempuan,169.4,56.6,56.1,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+1616,45,perempuan,153.6,61.8,48,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1617,41,perempuan,158.8,68.6,62.9,rendah,jarang,sering,8,Menurunkan Berat Badan
+1618,23,perempuan,160,62.5,62.9,sedang,jarang,sering,6,Meningkatkan Kebugaran
+1619,47,perempuan,165.9,56.8,62.2,tinggi,jarang,sering,9,Meningkatkan Kebugaran
+1620,29,perempuan,148.9,64.9,47.7,tinggi,sering,jarang,5,Meningkatkan Kebugaran
+1621,46,perempuan,146.3,49.6,47.2,rendah,jarang,tidak pernah,8,Meningkatkan Kebugaran
+1622,61,perempuan,161.5,76.8,61.9,sedang,sering,jarang,5,Menurunkan Berat Badan
+1623,59,perempuan,174.4,61.7,70.8,sedang,sering,sering,6,Meningkatkan Berat Badan
+1624,62,perempuan,145.7,44.2,41.8,tinggi,sering,jarang,8,Menjaga Kesehatan
+1625,59,perempuan,153.7,63.8,56.6,sedang,sering,tidak pernah,6,Meningkatkan Kebugaran
+1626,53,perempuan,163.4,57.3,56.5,sedang,sering,tidak pernah,7,Menjaga Kesehatan
+1627,30,perempuan,148.6,44.7,44.1,sedang,jarang,jarang,9,Menjaga Kesehatan
+1628,63,perempuan,169,69.8,62.5,sedang,sering,sering,5,Menjaga Kesehatan
+1629,43,perempuan,172.1,74.1,66.7,tinggi,jarang,sering,9,Menurunkan Berat Badan
+1630,34,perempuan,171.7,70.9,62,rendah,sering,sering,4,Menjaga Kesehatan
+1631,65,perempuan,179,89.1,73.4,tinggi,jarang,sering,4,Menurunkan Berat Badan
+1632,38,perempuan,145.2,48.7,42.6,sedang,tidak pernah,sering,9,Menjaga Kesehatan
+1633,19,perempuan,183.1,87,92.7,tinggi,jarang,tidak pernah,4,Meningkatkan Berat Badan
+1634,35,perempuan,150.3,48,48.3,rendah,tidak pernah,jarang,9,Menjaga Kesehatan
+1635,18,perempuan,149.3,57.1,51.6,tinggi,jarang,sering,7,Menurunkan Berat Badan
+1636,37,perempuan,184.8,76.1,73.6,tinggi,sering,sering,5,Meningkatkan Kebugaran
+1637,65,perempuan,176,97.2,85.9,rendah,tidak pernah,jarang,5,Menurunkan Berat Badan
+1638,29,perempuan,175.5,60.7,71,sedang,jarang,jarang,7,Menjaga Kesehatan
+1639,59,perempuan,180.4,82.1,76.9,tinggi,sering,sering,7,Menurunkan Berat Badan
+1640,25,perempuan,181.5,83.2,67.2,rendah,tidak pernah,sering,4,Menjaga Kesehatan
+1641,48,perempuan,176.7,64.8,72,rendah,sering,tidak pernah,5,Meningkatkan Berat Badan
+1642,49,perempuan,167.3,57.8,66.3,tinggi,sering,jarang,9,Meningkatkan Kebugaran
+1643,30,perempuan,179.2,69.3,66.8,sedang,jarang,sering,8,Menjaga Kesehatan
+1644,61,perempuan,153.1,50.8,54.9,sedang,sering,tidak pernah,7,Meningkatkan Berat Badan
+1645,55,perempuan,170.3,74.6,58.4,sedang,sering,sering,9,Menjaga Kesehatan
+1646,53,perempuan,175,69.5,68.9,tinggi,jarang,sering,5,Menjaga Kesehatan
+1647,20,perempuan,181.9,81.2,73.1,sedang,jarang,tidak pernah,7,Meningkatkan Kebugaran
+1648,19,perempuan,169.6,71.6,61,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+1649,22,perempuan,146.6,40,40.7,tinggi,sering,tidak pernah,6,Menjaga Kesehatan
+1650,39,perempuan,180.3,65.5,71.6,rendah,jarang,tidak pernah,6,Meningkatkan Kebugaran
+1651,51,perempuan,148.9,54.1,52.2,sedang,jarang,sering,7,Menjaga Kesehatan
+1652,42,perempuan,145.2,50.9,45.7,tinggi,jarang,sering,9,Meningkatkan Kebugaran
+1653,54,perempuan,150.1,51.8,45.8,sedang,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+1654,32,perempuan,145.6,63,51,rendah,tidak pernah,jarang,9,Menurunkan Berat Badan
+1655,34,perempuan,181.3,75.2,73.6,sedang,jarang,sering,9,Meningkatkan Kebugaran
+1656,35,perempuan,155,51.1,51.1,rendah,tidak pernah,jarang,8,Menjaga Kesehatan
+1657,35,perempuan,147.2,57.2,54.2,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+1658,52,perempuan,158,59.3,51.5,sedang,tidak pernah,sering,5,Meningkatkan Kebugaran
+1659,47,perempuan,151.3,53.2,51.3,sedang,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+1660,42,perempuan,160.6,57,57.5,tinggi,sering,tidak pernah,7,Menjaga Kesehatan
+1661,65,perempuan,146.8,64.7,50.5,rendah,sering,sering,7,Meningkatkan Kebugaran
+1662,22,perempuan,154.1,43.3,46.6,rendah,tidak pernah,tidak pernah,9,Meningkatkan Berat Badan
+1663,22,perempuan,155.8,59.7,63.5,rendah,tidak pernah,sering,7,Meningkatkan Berat Badan
+1664,61,perempuan,148.8,40.8,46.3,rendah,tidak pernah,sering,6,Meningkatkan Berat Badan
+1665,31,perempuan,176.2,85.6,75.6,rendah,tidak pernah,sering,6,Menurunkan Berat Badan
+1666,55,perempuan,166.5,84.4,74.9,tinggi,sering,jarang,4,Menurunkan Berat Badan
+1667,61,perempuan,178.4,100.4,83.4,sedang,sering,jarang,8,Menurunkan Berat Badan
+1668,46,perempuan,157.5,50.2,51.9,sedang,jarang,sering,7,Meningkatkan Kebugaran
+1669,56,perempuan,173.7,66.5,60.7,tinggi,tidak pernah,jarang,7,Menurunkan Berat Badan
+1670,54,perempuan,179.8,83.6,77,tinggi,jarang,sering,7,Meningkatkan Kebugaran
+1671,36,perempuan,177.1,67.4,76.7,rendah,tidak pernah,jarang,5,Meningkatkan Berat Badan
+1672,27,perempuan,157.7,50,47.2,sedang,sering,jarang,5,Menjaga Kesehatan
+1673,55,perempuan,144.3,59,45.1,rendah,tidak pernah,sering,6,Meningkatkan Kebugaran
+1674,28,perempuan,161,54.7,61.6,tinggi,sering,tidak pernah,7,Menjaga Kesehatan
+1675,52,perempuan,168.9,70.5,61.3,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+1676,56,perempuan,166,62.9,54,sedang,jarang,tidak pernah,4,Menurunkan Berat Badan
+1677,64,perempuan,176.3,83,67.8,rendah,tidak pernah,sering,9,Menurunkan Berat Badan
+1678,36,perempuan,184.2,69,75.6,sedang,sering,tidak pernah,6,Menjaga Kesehatan
+1679,53,perempuan,180.4,85.5,76.7,tinggi,sering,jarang,7,Menurunkan Berat Badan
+1680,39,perempuan,177.6,61.9,66.4,rendah,tidak pernah,tidak pernah,7,Meningkatkan Berat Badan
+1681,19,perempuan,171,58.3,68.1,tinggi,sering,jarang,5,Menjaga Kesehatan
+1682,21,perempuan,162.3,45.6,51.9,sedang,jarang,sering,6,Meningkatkan Berat Badan
+1683,25,perempuan,171.1,65.6,67,rendah,tidak pernah,sering,8,Meningkatkan Kebugaran
+1684,30,perempuan,166,68.7,63.1,sedang,sering,jarang,6,Menjaga Kesehatan
+1685,36,perempuan,184,54.2,59,tinggi,sering,tidak pernah,8,Meningkatkan Berat Badan
+1686,42,perempuan,169.9,59.1,64.8,sedang,sering,jarang,6,Meningkatkan Berat Badan
+1687,61,perempuan,161.6,78.7,71.1,tinggi,tidak pernah,sering,9,Menurunkan Berat Badan
+1688,50,perempuan,156,58.7,52.4,rendah,jarang,sering,8,Menjaga Kesehatan
+1689,41,perempuan,152.1,50.9,51.2,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+1690,31,perempuan,164.7,52.8,52.1,tinggi,sering,sering,5,Meningkatkan Kebugaran
+1691,60,perempuan,181.4,100.7,110.9,rendah,jarang,jarang,8,Meningkatkan Berat Badan
+1692,64,perempuan,173.1,66.2,65.1,rendah,tidak pernah,tidak pernah,9,Meningkatkan Kebugaran
+1693,37,perempuan,175.3,69.2,71.8,tinggi,jarang,sering,4,Meningkatkan Kebugaran
+1694,45,perempuan,146.8,51.6,54.4,sedang,jarang,jarang,9,Meningkatkan Berat Badan
+1695,44,perempuan,146.1,57.8,48.3,rendah,tidak pernah,sering,5,Menurunkan Berat Badan
+1696,52,perempuan,157.6,47,54,sedang,jarang,sering,6,Meningkatkan Kebugaran
+1697,32,perempuan,161.7,59.4,57.5,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+1698,37,perempuan,145.6,58.5,47.7,rendah,tidak pernah,sering,4,Menjaga Kesehatan
+1699,50,perempuan,164.5,86,79.5,rendah,sering,sering,6,Menurunkan Berat Badan
+1700,38,perempuan,163.3,65.4,59.4,tinggi,sering,sering,5,Meningkatkan Kebugaran
+1701,30,perempuan,169.9,46.2,59,rendah,jarang,jarang,4,Menjaga Kesehatan
+1702,60,perempuan,155.7,63.9,55.4,rendah,jarang,sering,6,Menurunkan Berat Badan
+1703,32,perempuan,170.8,76.7,67.8,tinggi,sering,sering,7,Meningkatkan Kebugaran
+1704,63,perempuan,152,60,50.5,tinggi,sering,sering,7,Menurunkan Berat Badan
+1705,40,perempuan,167.7,50.4,55.2,sedang,sering,tidak pernah,4,Meningkatkan Berat Badan
+1706,55,perempuan,178.7,89.5,74.7,tinggi,tidak pernah,sering,6,Meningkatkan Kebugaran
+1707,63,perempuan,172.6,85.9,78.2,sedang,jarang,jarang,9,Menurunkan Berat Badan
+1708,23,perempuan,146.5,52.7,46.2,sedang,sering,jarang,6,Meningkatkan Kebugaran
+1709,58,perempuan,149.5,63.9,47.6,tinggi,sering,tidak pernah,7,Menjaga Kesehatan
+1710,35,perempuan,147.3,44.3,52,rendah,tidak pernah,jarang,4,Meningkatkan Kebugaran
+1711,51,perempuan,159.4,56.7,47.6,rendah,tidak pernah,sering,5,Menurunkan Berat Badan
+1712,22,perempuan,175.6,85.8,67.7,rendah,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+1713,59,perempuan,180.2,67.9,67.6,tinggi,sering,jarang,8,Meningkatkan Kebugaran
+1714,64,perempuan,170.3,71.3,72.8,rendah,jarang,tidak pernah,8,Menjaga Kesehatan
+1715,55,perempuan,158.9,51.1,52.8,sedang,jarang,jarang,4,Menjaga Kesehatan
+1716,28,perempuan,158.7,58.9,51.3,sedang,sering,jarang,9,Menjaga Kesehatan
+1717,34,perempuan,162.2,56.1,57.5,tinggi,sering,tidak pernah,7,Menjaga Kesehatan
+1718,45,perempuan,164.1,73.5,62.3,rendah,sering,jarang,6,Menurunkan Berat Badan
+1719,36,perempuan,156.6,49.5,47,tinggi,sering,sering,8,Menjaga Kesehatan
+1720,46,perempuan,180.8,90.4,66.1,sedang,sering,jarang,7,Meningkatkan Kebugaran
+1721,58,perempuan,172.5,92.8,88,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+1722,55,perempuan,153.5,65.1,56.1,sedang,sering,tidak pernah,6,Menjaga Kesehatan
+1723,63,perempuan,144.8,40,45.8,rendah,tidak pernah,sering,8,Meningkatkan Kebugaran
+1724,58,perempuan,158.2,41.4,46.4,tinggi,sering,tidak pernah,4,Meningkatkan Berat Badan
+1725,54,perempuan,177.9,77.1,84.2,tinggi,sering,sering,7,Meningkatkan Berat Badan
+1726,35,perempuan,180.3,79,73.9,sedang,sering,jarang,5,Menjaga Kesehatan
+1727,28,perempuan,160.4,70.4,79.4,sedang,tidak pernah,tidak pernah,6,Meningkatkan Berat Badan
+1728,49,perempuan,148.4,46.8,47.5,sedang,jarang,tidak pernah,4,Meningkatkan Kebugaran
+1729,25,perempuan,172.9,72.1,63.7,rendah,jarang,sering,7,Meningkatkan Kebugaran
+1730,30,perempuan,151.6,61.1,51.6,tinggi,sering,sering,8,Menurunkan Berat Badan
+1731,47,perempuan,178.5,61.2,68.7,sedang,jarang,tidak pernah,4,Menjaga Kesehatan
+1732,22,perempuan,183.7,92.5,75.9,tinggi,jarang,tidak pernah,9,Meningkatkan Kebugaran
+1733,43,perempuan,173.5,64.8,62.4,rendah,tidak pernah,jarang,5,Menjaga Kesehatan
+1734,32,perempuan,163.7,62.4,52.7,tinggi,sering,jarang,8,Menurunkan Berat Badan
+1735,64,perempuan,161.1,72.3,64.9,sedang,jarang,jarang,9,Menurunkan Berat Badan
+1736,24,perempuan,160.5,66.6,62.9,tinggi,tidak pernah,sering,6,Menurunkan Berat Badan
+1737,62,perempuan,177.7,78.3,72.9,sedang,jarang,tidak pernah,4,Meningkatkan Kebugaran
+1738,28,perempuan,174.4,68.7,68.1,sedang,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1739,27,perempuan,163.9,59.2,61.9,rendah,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+1740,58,perempuan,148.9,53,51,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+1741,39,perempuan,176.3,89.1,69.2,sedang,jarang,tidak pernah,4,Meningkatkan Kebugaran
+1742,64,perempuan,176.5,91.5,65.3,tinggi,jarang,jarang,4,Meningkatkan Kebugaran
+1743,27,perempuan,148,48.5,48.1,tinggi,sering,tidak pernah,8,Menjaga Kesehatan
+1744,61,perempuan,171.4,88,75.4,tinggi,sering,tidak pernah,8,Menurunkan Berat Badan
+1745,38,perempuan,176,90.6,77.9,sedang,sering,sering,5,Menurunkan Berat Badan
+1746,61,perempuan,161.4,54.7,52.7,sedang,tidak pernah,jarang,7,Menjaga Kesehatan
+1747,65,perempuan,163,56.5,59.8,sedang,jarang,jarang,6,Meningkatkan Berat Badan
+1748,32,perempuan,160.8,53.5,55.2,tinggi,jarang,tidak pernah,5,Menjaga Kesehatan
+1749,32,perempuan,159.4,50.4,58.8,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+1750,27,perempuan,183.5,88.8,77.2,rendah,tidak pernah,sering,6,Menurunkan Berat Badan
+1751,27,perempuan,153.6,51.1,50.6,tinggi,sering,jarang,7,Menjaga Kesehatan
+1752,36,perempuan,180.7,102.8,94.9,tinggi,sering,sering,6,Menurunkan Berat Badan
+1753,33,perempuan,167.6,91.6,85.5,sedang,jarang,jarang,6,Menurunkan Berat Badan
+1754,29,perempuan,159.9,70.8,80.2,tinggi,jarang,jarang,4,Meningkatkan Berat Badan
+1755,50,perempuan,183.6,81.1,74.9,tinggi,jarang,sering,4,Menurunkan Berat Badan
+1756,42,perempuan,176.4,72.5,58.2,rendah,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+1757,51,perempuan,177.7,88,77.2,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+1758,55,perempuan,159.4,63.4,64.8,sedang,jarang,jarang,5,Meningkatkan Kebugaran
+1759,44,perempuan,164.4,67.4,71.8,rendah,tidak pernah,sering,9,Meningkatkan Berat Badan
+1760,22,perempuan,179.1,89.7,72.8,sedang,sering,jarang,6,Menjaga Kesehatan
+1761,26,perempuan,157.4,59.7,53.5,rendah,jarang,jarang,6,Menjaga Kesehatan
+1762,18,perempuan,150.4,54,51.6,rendah,jarang,tidak pernah,7,Menjaga Kesehatan
+1763,52,perempuan,173.9,69.7,64.4,tinggi,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+1764,51,perempuan,153.3,56.4,53.7,rendah,jarang,sering,6,Meningkatkan Kebugaran
+1765,58,perempuan,166.3,51.5,65.4,rendah,jarang,jarang,6,Meningkatkan Kebugaran
+1766,20,perempuan,177.2,58.8,66.8,tinggi,sering,jarang,4,Menjaga Kesehatan
+1767,40,perempuan,178.6,83,71.2,rendah,tidak pernah,tidak pernah,8,Menurunkan Berat Badan
+1768,27,perempuan,169.9,66.2,68.1,tinggi,sering,jarang,5,Menjaga Kesehatan
+1769,64,perempuan,162.5,64,71.5,sedang,jarang,tidak pernah,7,Meningkatkan Berat Badan
+1770,61,perempuan,145.4,50,48.4,rendah,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+1771,60,perempuan,144.3,49.8,47.7,sedang,sering,sering,7,Menjaga Kesehatan
+1772,22,perempuan,166.1,52.3,65,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+1773,39,perempuan,149.9,53.7,48.4,tinggi,sering,sering,8,Meningkatkan Kebugaran
+1774,48,perempuan,180.3,58.5,71.2,tinggi,jarang,tidak pernah,7,Meningkatkan Kebugaran
+1775,40,perempuan,170.4,67.3,64.7,tinggi,jarang,tidak pernah,6,Menjaga Kesehatan
+1776,54,perempuan,147.7,56.4,49.1,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+1777,53,perempuan,183.8,82.5,68.4,sedang,jarang,tidak pernah,4,Menjaga Kesehatan
+1778,52,perempuan,168.7,71.9,66.2,rendah,tidak pernah,tidak pernah,8,Menurunkan Berat Badan
+1779,32,perempuan,176.7,86.4,64.3,tinggi,sering,jarang,6,Meningkatkan Kebugaran
+1780,51,perempuan,153,51.8,50,tinggi,sering,sering,6,Menjaga Kesehatan
+1781,39,perempuan,154,54.9,60.2,sedang,sering,jarang,8,Meningkatkan Berat Badan
+1782,37,perempuan,162.1,52.8,61.1,tinggi,tidak pernah,sering,6,Meningkatkan Kebugaran
+1783,23,perempuan,166.5,72.7,63.7,sedang,sering,tidak pernah,6,Menurunkan Berat Badan
+1784,41,perempuan,181.9,92.8,68.1,tinggi,jarang,jarang,5,Meningkatkan Kebugaran
+1785,63,perempuan,165.9,88.9,62.8,sedang,sering,jarang,8,Menjaga Kesehatan
+1786,37,perempuan,158,78.8,67.6,rendah,jarang,tidak pernah,9,Menurunkan Berat Badan
+1787,19,perempuan,179.9,78,86.7,rendah,tidak pernah,sering,4,Meningkatkan Berat Badan
+1788,18,perempuan,146.8,47.1,49.6,tinggi,jarang,jarang,7,Meningkatkan Berat Badan
+1789,56,perempuan,167.5,48.2,64.4,rendah,jarang,tidak pernah,8,Menjaga Kesehatan
+1790,60,perempuan,159.4,64.8,54.4,rendah,tidak pernah,jarang,5,Menurunkan Berat Badan
+1791,50,perempuan,172.4,78.8,68.1,sedang,sering,tidak pernah,5,Menurunkan Berat Badan
+1792,18,perempuan,147,45.8,44.9,sedang,jarang,jarang,7,Meningkatkan Kebugaran
+1793,43,perempuan,183.7,82.8,76.2,tinggi,jarang,jarang,5,Menjaga Kesehatan
+1794,52,perempuan,159.4,55.5,50.4,sedang,tidak pernah,sering,4,Menurunkan Berat Badan
+1795,24,perempuan,163.8,78.8,58.3,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+1796,47,perempuan,148.3,40,45.2,sedang,tidak pernah,jarang,6,Meningkatkan Berat Badan
+1797,35,perempuan,158.6,58.5,50.8,sedang,jarang,sering,7,Menurunkan Berat Badan
+1798,41,perempuan,170.7,58.8,63.1,sedang,tidak pernah,tidak pernah,7,Meningkatkan Berat Badan
+1799,33,perempuan,177.7,72.9,63,rendah,jarang,sering,8,Menurunkan Berat Badan
+1800,63,perempuan,156.6,48.3,47.3,sedang,jarang,sering,5,Menjaga Kesehatan
+1801,18,perempuan,182.6,67.5,65.8,tinggi,jarang,jarang,9,Meningkatkan Kebugaran
+1802,59,perempuan,166.7,75,70,rendah,sering,jarang,4,Menurunkan Berat Badan
+1803,40,perempuan,154.3,58.9,61.1,tinggi,jarang,sering,8,Menjaga Kesehatan
+1804,45,perempuan,179.5,85.2,67.3,sedang,sering,jarang,9,Meningkatkan Kebugaran
+1805,62,perempuan,167.5,73.7,61,rendah,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+1806,61,perempuan,179.7,93,84.9,sedang,jarang,sering,7,Menurunkan Berat Badan
+1807,58,perempuan,165,62.1,56.8,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1808,65,perempuan,173.9,91.6,85.9,tinggi,jarang,sering,5,Menurunkan Berat Badan
+1809,20,perempuan,178.2,63.5,75.6,rendah,jarang,tidak pernah,8,Menjaga Kesehatan
+1810,63,perempuan,175.5,95.8,84,rendah,tidak pernah,jarang,9,Menurunkan Berat Badan
+1811,57,perempuan,166.9,61.1,62,rendah,tidak pernah,tidak pernah,4,Menjaga Kesehatan
+1812,52,perempuan,180.5,68.6,69.2,rendah,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+1813,32,perempuan,151.8,62.8,53.1,sedang,sering,jarang,5,Menurunkan Berat Badan
+1814,56,perempuan,145.7,40,44.7,rendah,jarang,sering,9,Meningkatkan Berat Badan
+1815,23,perempuan,167.1,62.4,60.2,tinggi,sering,tidak pernah,8,Menjaga Kesehatan
+1816,33,perempuan,169.4,66.1,71.3,rendah,jarang,jarang,5,Meningkatkan Berat Badan
+1817,21,perempuan,163.7,61.9,69.5,tinggi,jarang,tidak pernah,7,Meningkatkan Berat Badan
+1818,39,perempuan,146.9,56,50.2,tinggi,sering,jarang,6,Meningkatkan Kebugaran
+1819,45,perempuan,170,61.6,53.3,tinggi,jarang,sering,4,Menurunkan Berat Badan
+1820,34,perempuan,171,57.3,65.4,sedang,sering,jarang,7,Meningkatkan Kebugaran
+1821,35,perempuan,157.1,51.8,54.6,sedang,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+1822,26,perempuan,164.4,58.2,63.4,sedang,jarang,jarang,8,Menjaga Kesehatan
+1823,28,perempuan,152.4,51.4,56.6,tinggi,sering,jarang,7,Meningkatkan Berat Badan
+1824,58,perempuan,156.8,70.2,66.6,sedang,jarang,tidak pernah,5,Menurunkan Berat Badan
+1825,32,perempuan,177.6,71.4,72.3,rendah,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+1826,23,perempuan,163.7,71.8,58.6,tinggi,sering,tidak pernah,7,Menurunkan Berat Badan
+1827,37,perempuan,150.6,60.4,52.8,rendah,jarang,sering,8,Menurunkan Berat Badan
+1828,55,perempuan,170.3,67.9,75.6,tinggi,jarang,sering,6,Meningkatkan Berat Badan
+1829,37,perempuan,163.8,69.3,58.9,sedang,jarang,sering,9,Meningkatkan Kebugaran
+1830,33,perempuan,155.1,51.1,53.2,tinggi,jarang,sering,9,Meningkatkan Kebugaran
+1831,22,perempuan,180,58.7,69,tinggi,sering,sering,6,Menjaga Kesehatan
+1832,20,perempuan,167.8,60.7,58.8,tinggi,sering,jarang,6,Menjaga Kesehatan
+1833,48,perempuan,161.4,72.5,63.6,sedang,sering,tidak pernah,7,Menurunkan Berat Badan
+1834,65,perempuan,172.3,73.2,62.6,tinggi,jarang,sering,8,Menjaga Kesehatan
+1835,23,perempuan,165.7,63.5,73,rendah,tidak pernah,jarang,9,Meningkatkan Berat Badan
+1836,26,perempuan,146.2,40,40,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+1837,25,perempuan,152,69,47.3,sedang,jarang,jarang,5,Meningkatkan Kebugaran
+1838,56,perempuan,178.7,79.3,90.6,rendah,sering,jarang,5,Meningkatkan Berat Badan
+1839,55,perempuan,176.1,82.7,62.8,tinggi,sering,tidak pernah,6,Meningkatkan Kebugaran
+1840,54,perempuan,164.7,71.5,61.6,rendah,tidak pernah,jarang,8,Menurunkan Berat Badan
+1841,59,perempuan,151.4,56.3,55.4,sedang,jarang,jarang,8,Menjaga Kesehatan
+1842,23,perempuan,157.5,41.2,55,sedang,sering,tidak pernah,8,Meningkatkan Kebugaran
+1843,61,perempuan,149.9,54.4,54.5,rendah,jarang,tidak pernah,7,Menjaga Kesehatan
+1844,28,perempuan,177.7,63.8,72.6,tinggi,sering,jarang,4,Meningkatkan Berat Badan
+1845,32,perempuan,155.4,53,52.1,rendah,tidak pernah,sering,8,Meningkatkan Kebugaran
+1846,38,perempuan,156.8,47.1,48.7,rendah,tidak pernah,tidak pernah,9,Menjaga Kesehatan
+1847,58,perempuan,150.2,56.5,52.1,sedang,sering,jarang,9,Menurunkan Berat Badan
+1848,33,perempuan,163.5,70,61.1,tinggi,jarang,jarang,4,Menurunkan Berat Badan
+1849,65,perempuan,159,69.7,58.9,rendah,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+1850,23,perempuan,155.1,52.3,53,sedang,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+1851,35,perempuan,180.2,94,75.5,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+1852,34,perempuan,182.9,70.5,70.1,tinggi,sering,tidak pernah,6,Meningkatkan Kebugaran
+1853,34,perempuan,178.3,88,73.4,sedang,sering,jarang,8,Menurunkan Berat Badan
+1854,40,perempuan,154.3,62.1,54.5,sedang,sering,sering,4,Menurunkan Berat Badan
+1855,19,perempuan,157.1,60.7,53.8,tinggi,sering,sering,7,Menjaga Kesehatan
+1856,27,perempuan,161.4,58,49,tinggi,sering,jarang,6,Menurunkan Berat Badan
+1857,28,perempuan,181.2,64.9,57.3,tinggi,sering,sering,7,Menurunkan Berat Badan
+1858,35,perempuan,146.8,40,51.3,tinggi,sering,jarang,5,Meningkatkan Kebugaran
+1859,29,perempuan,158.5,45.6,59.6,rendah,sering,sering,4,Meningkatkan Kebugaran
+1860,35,perempuan,167.8,59.7,50.7,rendah,tidak pernah,sering,4,Menurunkan Berat Badan
+1861,31,perempuan,166,62.2,62,tinggi,sering,sering,4,Menjaga Kesehatan
+1862,44,perempuan,168.2,71.3,62.7,sedang,jarang,jarang,4,Meningkatkan Kebugaran
+1863,58,perempuan,164,70.9,62,rendah,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+1864,46,perempuan,155.7,59.6,53,rendah,jarang,jarang,7,Meningkatkan Kebugaran
+1865,56,perempuan,178.7,94.4,71,tinggi,tidak pernah,sering,4,Meningkatkan Kebugaran
+1866,52,perempuan,183.8,100.2,112.1,rendah,jarang,jarang,9,Meningkatkan Berat Badan
+1867,33,perempuan,151.5,50.4,46.1,tinggi,sering,jarang,6,Menurunkan Berat Badan
+1868,50,perempuan,168.7,70.6,58.5,sedang,sering,sering,7,Menjaga Kesehatan
+1869,53,perempuan,183.9,85.2,80.9,sedang,sering,sering,4,Menurunkan Berat Badan
+1870,34,perempuan,169.1,61.2,58.9,sedang,jarang,tidak pernah,4,Meningkatkan Kebugaran
+1871,22,perempuan,159.4,49.6,60.2,tinggi,tidak pernah,tidak pernah,6,Menjaga Kesehatan
+1872,50,perempuan,156.8,52.8,50.6,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+1873,57,perempuan,157.3,81.9,50.3,sedang,jarang,sering,7,Meningkatkan Kebugaran
+1874,42,perempuan,154.5,56,62.9,sedang,sering,sering,5,Meningkatkan Berat Badan
+1875,23,perempuan,155.6,53.2,50.2,sedang,jarang,sering,8,Meningkatkan Kebugaran
+1876,42,perempuan,146.1,48.9,50,tinggi,tidak pernah,jarang,9,Meningkatkan Kebugaran
+1877,32,perempuan,164,62.4,66.3,tinggi,jarang,jarang,9,Meningkatkan Berat Badan
+1878,19,perempuan,177.6,80.4,64.5,tinggi,tidak pernah,tidak pernah,6,Menurunkan Berat Badan
+1879,54,perempuan,157.6,54.4,56.2,sedang,sering,sering,9,Meningkatkan Kebugaran
+1880,54,perempuan,181.8,75,77.6,sedang,sering,tidak pernah,6,Meningkatkan Kebugaran
+1881,25,perempuan,177.7,73.9,68.5,rendah,tidak pernah,sering,7,Meningkatkan Kebugaran
+1882,22,perempuan,182.5,80.4,69.2,tinggi,sering,tidak pernah,5,Menjaga Kesehatan
+1883,54,perempuan,173.6,60.4,61.5,tinggi,sering,tidak pernah,7,Meningkatkan Kebugaran
+1884,27,perempuan,153.1,59.4,48.4,sedang,tidak pernah,tidak pernah,7,Menjaga Kesehatan
+1885,50,perempuan,183.7,86.2,69.1,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+1886,51,perempuan,178,66.1,65.2,sedang,sering,tidak pernah,5,Menjaga Kesehatan
+1887,35,perempuan,171.7,73.6,60.1,sedang,jarang,sering,8,Menurunkan Berat Badan
+1888,60,perempuan,152.1,59.2,52.3,sedang,jarang,tidak pernah,5,Menurunkan Berat Badan
+1889,54,perempuan,172.5,80.9,65.6,sedang,jarang,tidak pernah,7,Meningkatkan Kebugaran
+1890,49,perempuan,181,87,91.8,rendah,tidak pernah,tidak pernah,8,Meningkatkan Berat Badan
+1891,54,perempuan,177.9,76.3,66,rendah,tidak pernah,jarang,9,Menjaga Kesehatan
+1892,27,perempuan,179,79.5,72.2,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1893,47,perempuan,178.5,76.9,71.3,rendah,jarang,sering,8,Meningkatkan Kebugaran
+1894,23,perempuan,175,71.9,73.4,tinggi,sering,sering,7,Menjaga Kesehatan
+1895,46,perempuan,184,81.3,70.8,rendah,tidak pernah,jarang,5,Meningkatkan Kebugaran
+1896,61,perempuan,182.9,67.3,70.2,tinggi,sering,jarang,4,Meningkatkan Kebugaran
+1897,41,perempuan,147.5,59.1,48.5,tinggi,jarang,tidak pernah,8,Menjaga Kesehatan
+1898,52,perempuan,156.8,66.6,62.9,sedang,sering,jarang,9,Menurunkan Berat Badan
+1899,32,perempuan,176.8,74.4,79.8,tinggi,sering,jarang,7,Meningkatkan Berat Badan
+1900,52,perempuan,172.9,66.7,65.1,rendah,tidak pernah,tidak pernah,5,Meningkatkan Kebugaran
+1901,49,perempuan,150.5,51.8,52.2,sedang,tidak pernah,jarang,6,Menjaga Kesehatan
+1902,27,perempuan,154.4,44.5,52.6,rendah,tidak pernah,sering,8,Menjaga Kesehatan
+1903,19,perempuan,170.6,68,62.6,rendah,sering,jarang,4,Menjaga Kesehatan
+1904,46,perempuan,153.1,67.4,48.4,rendah,tidak pernah,sering,4,Menjaga Kesehatan
+1905,62,perempuan,158.2,66.9,54.7,tinggi,sering,jarang,8,Menurunkan Berat Badan
+1906,51,perempuan,152.5,59.6,49.2,tinggi,sering,sering,5,Menurunkan Berat Badan
+1907,43,perempuan,163.2,61.3,53.5,sedang,sering,tidak pernah,9,Menjaga Kesehatan
+1908,35,perempuan,146.3,49.6,45.5,rendah,tidak pernah,jarang,5,Menurunkan Berat Badan
+1909,44,perempuan,177.7,72.8,73.3,sedang,sering,tidak pernah,9,Meningkatkan Kebugaran
+1910,56,perempuan,154.4,60.5,55.6,tinggi,sering,jarang,4,Menurunkan Berat Badan
+1911,18,perempuan,166.9,58.7,53.6,tinggi,jarang,jarang,7,Menurunkan Berat Badan
+1912,52,perempuan,150.5,65.4,53.1,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+1913,22,perempuan,176.8,78.1,63.7,tinggi,jarang,tidak pernah,6,Menjaga Kesehatan
+1914,24,perempuan,146.7,52.1,54.9,sedang,sering,jarang,8,Menjaga Kesehatan
+1915,38,perempuan,182.4,80.1,71.8,sedang,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1916,24,perempuan,173.7,66.3,68.3,sedang,tidak pernah,jarang,5,Meningkatkan Kebugaran
+1917,62,perempuan,160.6,66.9,59.7,sedang,sering,sering,9,Menjaga Kesehatan
+1918,31,perempuan,170.6,74.9,67.9,tinggi,jarang,sering,4,Menurunkan Berat Badan
+1919,54,perempuan,165.6,57.9,56,tinggi,sering,sering,5,Menjaga Kesehatan
+1920,59,perempuan,181.8,91.2,84.3,rendah,sering,sering,8,Menurunkan Berat Badan
+1921,23,perempuan,167,60.1,57.5,rendah,sering,jarang,6,Meningkatkan Kebugaran
+1922,65,perempuan,177,90.8,79.9,rendah,tidak pernah,sering,8,Menurunkan Berat Badan
+1923,41,perempuan,161.4,54.7,54.1,tinggi,jarang,sering,5,Meningkatkan Kebugaran
+1924,42,perempuan,180.2,89.5,67.8,sedang,sering,jarang,6,Menjaga Kesehatan
+1925,26,perempuan,157.6,61.9,55.8,rendah,jarang,tidak pernah,8,Menjaga Kesehatan
+1926,31,perempuan,181.5,65,70.1,sedang,sering,tidak pernah,8,Menjaga Kesehatan
+1927,39,perempuan,158.9,47.7,57.4,sedang,sering,tidak pernah,9,Menjaga Kesehatan
+1928,23,perempuan,168.5,73.6,57.4,sedang,jarang,tidak pernah,6,Menjaga Kesehatan
+1929,43,perempuan,176.6,64.1,64.4,sedang,jarang,tidak pernah,9,Menjaga Kesehatan
+1930,51,perempuan,148.4,56.8,49.9,tinggi,sering,sering,9,Meningkatkan Kebugaran
+1931,19,perempuan,156.2,48.3,45.7,tinggi,jarang,tidak pernah,8,Meningkatkan Kebugaran
+1932,49,perempuan,145.1,53.4,43,rendah,sering,jarang,5,Menurunkan Berat Badan
+1933,26,perempuan,164.5,68.3,61.3,rendah,tidak pernah,tidak pernah,5,Menurunkan Berat Badan
+1934,32,perempuan,152.1,42.6,46.3,tinggi,sering,tidak pernah,5,Meningkatkan Berat Badan
+1935,62,perempuan,148.3,59.5,44.5,tinggi,jarang,sering,8,Meningkatkan Kebugaran
+1936,22,perempuan,167,75.2,79.6,rendah,tidak pernah,tidak pernah,5,Meningkatkan Berat Badan
+1937,37,perempuan,173.2,65.7,62.7,sedang,sering,sering,9,Menjaga Kesehatan
+1938,23,perempuan,165.8,53.3,63.7,sedang,sering,sering,7,Menjaga Kesehatan
+1939,57,perempuan,148.2,50.9,44.1,sedang,jarang,tidak pernah,7,Menurunkan Berat Badan
+1940,28,perempuan,184.4,73.7,71.1,rendah,jarang,sering,6,Meningkatkan Kebugaran
+1941,50,perempuan,172.8,60.8,67.8,rendah,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+1942,39,perempuan,180.6,106.5,90.4,tinggi,sering,jarang,7,Menurunkan Berat Badan
+1943,27,perempuan,181.5,75.6,66.9,tinggi,jarang,tidak pernah,6,Menurunkan Berat Badan
+1944,38,perempuan,147.4,61.4,45.3,sedang,jarang,jarang,9,Meningkatkan Kebugaran
+1945,36,perempuan,153.3,53.4,47,tinggi,jarang,tidak pernah,9,Meningkatkan Kebugaran
+1946,61,perempuan,176,77.2,72.1,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+1947,57,perempuan,144.9,47.2,50.1,tinggi,jarang,tidak pernah,9,Meningkatkan Kebugaran
+1948,45,perempuan,179,73.1,66.2,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+1949,40,perempuan,160.5,64.7,52.2,tinggi,sering,sering,8,Menjaga Kesehatan
+1950,30,perempuan,175,105.4,89.6,sedang,jarang,tidak pernah,8,Menurunkan Berat Badan
+1951,32,perempuan,151.6,64.1,46.3,sedang,jarang,sering,9,Meningkatkan Kebugaran
+1952,31,perempuan,157.8,42.8,47.1,sedang,sering,jarang,6,Meningkatkan Berat Badan
+1953,21,perempuan,184.7,65.4,67.8,rendah,tidak pernah,jarang,6,Meningkatkan Kebugaran
+1954,61,perempuan,148.3,56.9,53.8,sedang,jarang,jarang,9,Menurunkan Berat Badan
+1955,19,perempuan,148,48.9,46.4,rendah,tidak pernah,sering,9,Meningkatkan Kebugaran
+1956,44,perempuan,182.9,78.4,69.7,tinggi,jarang,tidak pernah,4,Menurunkan Berat Badan
+1957,65,perempuan,150.6,58.4,62.3,tinggi,jarang,sering,9,Meningkatkan Berat Badan
+1958,63,perempuan,163,59,53.4,tinggi,sering,tidak pernah,9,Meningkatkan Kebugaran
+1959,45,perempuan,158.7,60.4,51.4,rendah,tidak pernah,jarang,6,Menjaga Kesehatan
+1960,65,perempuan,183.1,82.5,89.1,sedang,jarang,sering,5,Meningkatkan Berat Badan
+1961,50,perempuan,174.8,76.2,69.6,rendah,jarang,sering,7,Meningkatkan Kebugaran
+1962,39,perempuan,164.7,69.3,65.2,rendah,tidak pernah,sering,8,Menurunkan Berat Badan
+1963,39,perempuan,163.5,64,62.9,tinggi,sering,sering,7,Meningkatkan Kebugaran
+1964,52,perempuan,153.6,55.6,50.2,sedang,sering,jarang,6,Meningkatkan Kebugaran
+1965,50,perempuan,149.5,57.1,49.4,tinggi,sering,tidak pernah,9,Menurunkan Berat Badan
+1966,28,perempuan,182.1,74.9,75.9,rendah,jarang,jarang,7,Menjaga Kesehatan
+1967,50,perempuan,162.2,73.2,64.6,sedang,jarang,sering,9,Menurunkan Berat Badan
+1968,48,perempuan,179.9,73,72.7,rendah,tidak pernah,sering,5,Menjaga Kesehatan
+1969,25,perempuan,148.6,50.7,56,tinggi,sering,tidak pernah,8,Meningkatkan Berat Badan
+1970,61,perempuan,178.3,85.2,75.2,rendah,tidak pernah,sering,6,Menjaga Kesehatan
+1971,29,perempuan,162.6,71.5,59.9,tinggi,sering,tidak pernah,8,Menurunkan Berat Badan
+1972,47,perempuan,158.3,64.3,57,tinggi,tidak pernah,tidak pernah,8,Meningkatkan Kebugaran
+1973,23,perempuan,175.3,93.4,77.3,rendah,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+1974,56,perempuan,169.7,61.9,63.2,rendah,tidak pernah,tidak pernah,8,Menjaga Kesehatan
+1975,22,perempuan,182.9,67,73.5,sedang,sering,jarang,6,Meningkatkan Kebugaran
+1976,47,perempuan,146.6,56.6,53.3,sedang,jarang,sering,4,Menurunkan Berat Badan
+1977,32,perempuan,156.8,64.1,57.7,rendah,tidak pernah,jarang,7,Meningkatkan Kebugaran
+1978,30,perempuan,152.1,42.4,47.3,sedang,tidak pernah,sering,4,Meningkatkan Berat Badan
+1979,25,perempuan,156.9,46.5,51.9,sedang,jarang,tidak pernah,7,Meningkatkan Kebugaran
+1980,65,perempuan,182.1,80.2,70.9,tinggi,sering,sering,5,Menjaga Kesehatan
+1981,38,perempuan,166.5,72.6,58.3,rendah,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+1982,61,perempuan,170.6,67.9,59,sedang,jarang,sering,5,Menurunkan Berat Badan
+1983,47,perempuan,147.6,57.8,50.1,rendah,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+1984,47,perempuan,150.1,45.5,45.4,tinggi,sering,jarang,9,Menjaga Kesehatan
+1985,20,perempuan,145.7,48.7,45.7,tinggi,jarang,jarang,5,Meningkatkan Kebugaran
+1986,43,perempuan,145.3,56.4,59.7,rendah,tidak pernah,tidak pernah,6,Meningkatkan Berat Badan
+1987,23,perempuan,150.4,40.4,44.2,sedang,sering,sering,5,Meningkatkan Berat Badan
+1988,46,perempuan,158.9,63.8,60.3,sedang,jarang,tidak pernah,4,Menurunkan Berat Badan
+1989,50,perempuan,169.2,84.4,67.5,sedang,jarang,tidak pernah,9,Menjaga Kesehatan
+1990,47,perempuan,171.8,75.3,61.1,sedang,tidak pernah,jarang,9,Menurunkan Berat Badan
+1991,56,perempuan,175.6,82.5,75.8,tinggi,sering,sering,9,Menurunkan Berat Badan
+1992,37,perempuan,175.4,63.1,71.4,rendah,tidak pernah,jarang,5,Menjaga Kesehatan
+1993,45,perempuan,184.2,70.7,80,sedang,jarang,sering,9,Meningkatkan Kebugaran
+1994,33,perempuan,179.7,72.4,72.6,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+1995,31,perempuan,174.9,69.6,68.5,tinggi,jarang,sering,4,Meningkatkan Kebugaran
+1996,32,perempuan,177.7,74.6,74.8,sedang,tidak pernah,tidak pernah,6,Menjaga Kesehatan
+1997,27,perempuan,166.3,75.5,69.7,rendah,tidak pernah,sering,5,Menurunkan Berat Badan
+1998,56,perempuan,171.4,65.3,64.2,sedang,jarang,tidak pernah,4,Meningkatkan Kebugaran
+1999,59,perempuan,151.9,50.4,47.7,rendah,jarang,tidak pernah,5,Menjaga Kesehatan
+2000,37,perempuan,181,75.8,75.7,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+2001,27,perempuan,178.9,86.3,67.6,tinggi,sering,sering,7,Menjaga Kesehatan
+2002,54,perempuan,174.7,82.2,71.5,rendah,tidak pernah,tidak pernah,7,Menurunkan Berat Badan
+2003,19,perempuan,174.9,61.4,58.7,sedang,jarang,jarang,5,Meningkatkan Kebugaran
+2004,49,perempuan,168.5,83.1,75.2,rendah,tidak pernah,jarang,9,Menurunkan Berat Badan
+2005,50,perempuan,179,77.8,67.3,rendah,jarang,tidak pernah,5,Menurunkan Berat Badan
+2006,58,perempuan,161.6,52.3,57,rendah,tidak pernah,tidak pernah,4,Meningkatkan Berat Badan
+2007,65,perempuan,163.4,74,67.5,sedang,tidak pernah,jarang,9,Menurunkan Berat Badan
+2008,34,perempuan,169.2,54.2,62.9,rendah,tidak pernah,jarang,5,Meningkatkan Kebugaran
+2009,43,perempuan,159.2,54.1,59.9,tinggi,jarang,jarang,6,Menjaga Kesehatan
+2010,29,perempuan,182.9,83.5,73.8,tinggi,sering,sering,9,Meningkatkan Kebugaran
+2011,44,perempuan,183.3,83.4,74.8,rendah,jarang,tidak pernah,8,Meningkatkan Kebugaran
+2012,39,perempuan,145.4,47.1,45.5,rendah,jarang,jarang,4,Meningkatkan Kebugaran
+2013,50,perempuan,165.7,54,61.7,tinggi,tidak pernah,sering,4,Meningkatkan Kebugaran
+2014,33,perempuan,180.9,83.1,78.6,rendah,jarang,tidak pernah,6,Menurunkan Berat Badan
+2015,44,perempuan,169.5,78.3,84.2,tinggi,sering,jarang,8,Meningkatkan Berat Badan
+2016,20,perempuan,156.1,43,54.2,sedang,jarang,sering,4,Meningkatkan Kebugaran
+2017,53,perempuan,176,68.7,56.6,tinggi,tidak pernah,jarang,7,Menurunkan Berat Badan
+2018,47,perempuan,166.8,56.4,63.1,tinggi,jarang,sering,4,Meningkatkan Kebugaran
+2019,18,perempuan,168.9,58,63,rendah,tidak pernah,tidak pernah,6,Meningkatkan Kebugaran
+2020,52,perempuan,145.3,55.4,59,sedang,tidak pernah,tidak pernah,6,Meningkatkan Berat Badan
+2021,50,perempuan,167.2,74.8,65.1,tinggi,tidak pernah,sering,9,Menurunkan Berat Badan
+2022,56,perempuan,178.7,84.8,67.6,tinggi,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+2023,60,perempuan,152,61.8,47.3,tinggi,sering,tidak pernah,8,Meningkatkan Kebugaran
+2024,52,perempuan,175.9,73.1,64.3,sedang,tidak pernah,jarang,9,Meningkatkan Kebugaran
+2025,34,perempuan,161.2,63.1,54.8,sedang,sering,sering,5,Meningkatkan Kebugaran
+2026,49,perempuan,181.8,85.1,75.9,tinggi,jarang,tidak pernah,6,Meningkatkan Kebugaran
+2027,56,perempuan,168.1,74.3,62.3,tinggi,sering,sering,8,Meningkatkan Kebugaran
+2028,25,perempuan,171,71.2,58.7,rendah,tidak pernah,tidak pernah,5,Menjaga Kesehatan
+2029,35,perempuan,159.5,53.4,54.1,tinggi,jarang,tidak pernah,4,Meningkatkan Kebugaran
+2030,40,perempuan,175.7,68.2,66.9,rendah,tidak pernah,jarang,8,Menjaga Kesehatan
+2031,56,perempuan,163.6,73.3,61.9,rendah,tidak pernah,tidak pernah,9,Menurunkan Berat Badan
+2032,62,perempuan,177.4,85.9,72.2,sedang,jarang,jarang,5,Meningkatkan Kebugaran
+2033,51,perempuan,173.8,63.8,61.6,sedang,jarang,sering,4,Meningkatkan Kebugaran
+2034,59,perempuan,160.7,61.1,58.8,rendah,jarang,sering,6,Menjaga Kesehatan
+2035,30,perempuan,182.8,72.3,70.6,rendah,tidak pernah,jarang,8,Meningkatkan Kebugaran
+2036,54,perempuan,160.2,51.4,59.2,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+2037,19,perempuan,148.2,61.8,49.4,sedang,jarang,sering,9,Meningkatkan Kebugaran
+2038,28,perempuan,182.5,101.5,88.9,tinggi,sering,tidak pernah,7,Menurunkan Berat Badan
+2039,37,perempuan,182.4,80.8,73.7,sedang,sering,jarang,9,Meningkatkan Kebugaran
+2040,18,perempuan,182.8,80.6,82.8,rendah,jarang,tidak pernah,8,Menjaga Kesehatan
+2041,64,perempuan,170.4,65,64,rendah,tidak pernah,tidak pernah,4,Meningkatkan Kebugaran
+2042,49,perempuan,147,40,46.9,tinggi,jarang,tidak pernah,4,Menjaga Kesehatan
+2043,30,perempuan,172.7,50.8,57.5,rendah,sering,sering,9,Meningkatkan Berat Badan
+2044,64,perempuan,172.7,84.7,77.5,rendah,tidak pernah,tidak pernah,4,Menurunkan Berat Badan
+2045,45,perempuan,153.6,54.2,52.1,sedang,sering,tidak pernah,6,Menjaga Kesehatan
+2046,38,perempuan,147.2,47.6,45.3,sedang,tidak pernah,jarang,9,Menjaga Kesehatan
+2047,24,perempuan,147.5,42.7,51.8,sedang,sering,sering,7,Menjaga Kesehatan
+2048,63,perempuan,164,60.9,60.3,tinggi,jarang,sering,9,Meningkatkan Kebugaran
+2049,51,perempuan,162,57.1,54.9,sedang,jarang,jarang,5,Menjaga Kesehatan
+2050,22,perempuan,171.4,66.9,68.4,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+2051,32,perempuan,161.2,48.2,57.3,rendah,jarang,jarang,7,Menjaga Kesehatan
+2052,28,perempuan,161,55.1,57.6,sedang,jarang,jarang,5,Menjaga Kesehatan
+2053,25,perempuan,170.9,68.9,68.5,tinggi,jarang,tidak pernah,8,Meningkatkan Kebugaran
+2054,21,perempuan,182.1,90.6,73.4,sedang,jarang,tidak pernah,6,Menurunkan Berat Badan
+2055,60,perempuan,150.9,60.3,46,sedang,sering,tidak pernah,8,Meningkatkan Kebugaran
+2056,21,perempuan,149.4,63.8,47.5,sedang,sering,tidak pernah,4,Menjaga Kesehatan
+2057,49,perempuan,148.1,52.1,47.1,rendah,tidak pernah,tidak pernah,7,Meningkatkan Kebugaran
+2058,55,perempuan,144.5,55.4,49.8,sedang,jarang,sering,5,Menurunkan Berat Badan
+2059,31,perempuan,154.4,55.6,56.9,rendah,tidak pernah,sering,4,Menjaga Kesehatan
+2060,26,perempuan,178.2,80.9,65.5,rendah,tidak pernah,jarang,7,Menurunkan Berat Badan
+2061,59,perempuan,151,66.7,60.2,tinggi,sering,tidak pernah,5,Menurunkan Berat Badan
+2062,30,perempuan,175.1,85.5,77.7,rendah,sering,tidak pernah,7,Menurunkan Berat Badan
+2063,64,perempuan,152.7,63,48.2,tinggi,sering,tidak pernah,6,Menjaga Kesehatan
+2064,49,perempuan,173.2,48,53.4,tinggi,tidak pernah,jarang,6,Meningkatkan Berat Badan
+2065,65,perempuan,177.1,85.6,63.7,tinggi,sering,tidak pernah,9,Menjaga Kesehatan
+2066,64,perempuan,167.7,64.3,66.9,tinggi,sering,tidak pernah,7,Menjaga Kesehatan
+2067,39,perempuan,179,67,60.8,sedang,jarang,tidak pernah,4,Menurunkan Berat Badan
+2068,48,perempuan,177.7,60.2,69.2,tinggi,tidak pernah,sering,6,Menjaga Kesehatan
+2069,36,perempuan,160.7,67.6,54.9,sedang,sering,jarang,7,Menurunkan Berat Badan
+2070,34,perempuan,168.1,45.2,62.7,rendah,tidak pernah,sering,5,Meningkatkan Kebugaran
+2071,33,perempuan,182.4,68.5,78.5,rendah,jarang,sering,9,Menjaga Kesehatan
+2072,53,perempuan,147,46.6,46.2,rendah,jarang,jarang,6,Menjaga Kesehatan
+2073,65,perempuan,148.2,51.8,52.2,sedang,jarang,sering,5,Menjaga Kesehatan
+2074,37,perempuan,152.7,49.6,53.4,sedang,jarang,sering,8,Meningkatkan Berat Badan
+2075,29,perempuan,179.1,59.1,65,sedang,jarang,jarang,7,Meningkatkan Kebugaran
+2076,48,perempuan,162.3,75.5,61.2,sedang,sering,tidak pernah,7,Menjaga Kesehatan
+2077,59,perempuan,157.6,61.9,56.5,tinggi,jarang,tidak pernah,6,Meningkatkan Kebugaran
+2078,60,perempuan,150.5,51.7,55.4,sedang,jarang,jarang,8,Meningkatkan Berat Badan
+2079,64,perempuan,156.2,62,57.4,tinggi,sering,tidak pernah,5,Menurunkan Berat Badan
+2080,28,perempuan,182,103.9,85.1,rendah,jarang,sering,7,Menurunkan Berat Badan
+2081,59,perempuan,155.5,55,49,sedang,jarang,tidak pernah,8,Menjaga Kesehatan
+2082,48,perempuan,162.2,42.1,46.8,rendah,tidak pernah,sering,4,Meningkatkan Berat Badan
+2083,57,perempuan,157.9,55.2,54.8,sedang,tidak pernah,sering,9,Meningkatkan Kebugaran
+2084,18,perempuan,155.9,65.5,70.8,sedang,jarang,sering,9,Meningkatkan Berat Badan
+2085,63,perempuan,183.4,81.1,70.8,tinggi,jarang,sering,8,Meningkatkan Kebugaran
+2086,39,perempuan,164.3,70.1,64.1,rendah,sering,jarang,9,Menurunkan Berat Badan
+2087,62,perempuan,178.1,89.2,66.7,tinggi,sering,tidak pernah,8,Meningkatkan Kebugaran
+2088,39,perempuan,151.4,42,50.9,rendah,tidak pernah,sering,7,Meningkatkan Kebugaran
+2089,49,perempuan,181.9,86.7,70.6,sedang,sering,jarang,6,Menurunkan Berat Badan
+2090,23,perempuan,176.3,79.7,70.3,sedang,jarang,jarang,7,Meningkatkan Kebugaran
+2091,24,perempuan,149.4,50.1,50.4,sedang,sering,tidak pernah,7,Meningkatkan Kebugaran
+2092,35,perempuan,145.8,66,61.9,sedang,jarang,jarang,4,Menurunkan Berat Badan
+2093,38,perempuan,174.7,62.3,64.2,tinggi,tidak pernah,sering,7,Menjaga Kesehatan
+2094,50,perempuan,178.7,75.4,76,tinggi,sering,sering,6,Meningkatkan Kebugaran
+2095,48,perempuan,183.1,91.3,71.4,tinggi,sering,jarang,7,Meningkatkan Kebugaran
+2096,31,perempuan,175.8,73,72.1,tinggi,sering,jarang,8,Meningkatkan Kebugaran
+2097,28,perempuan,150.4,64.5,48.6,rendah,tidak pernah,sering,6,Meningkatkan Kebugaran
+2098,45,perempuan,154,53.3,52.9,rendah,jarang,jarang,9,Meningkatkan Kebugaran
+2099,19,perempuan,172.4,50.6,53.7,sedang,jarang,jarang,8,Meningkatkan Berat Badan
+2100,37,perempuan,154.6,64.5,52.5,tinggi,tidak pernah,sering,4,Menurunkan Berat Badan
