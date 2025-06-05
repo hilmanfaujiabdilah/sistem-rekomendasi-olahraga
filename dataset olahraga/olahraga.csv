@@ -1,0 +1,157 @@
+id_olahraga,latihan,kalori_jam,km,Tingkat
+1,Tidur,66,0.9,rendah
+2,Istirahat,74,1.0,rendah
+3,Duduk,103,1.4,rendah
+4,Kerjaan Kantoran (Dibalik Meja),110,1.5,rendah
+5,Mengemudi,118,1.6,rendah
+6,Spa,147,2.0,rendah
+7,Pijat,147,2.0,rendah
+8,Pengajaran,147,2.0,rendah
+9,Menyusui,147,2.0,rendah
+10,Menyanyi,147,2.0,rendah
+11,Menonton Televisi,147,2.0,rendah
+12,Memasak,147,2.0,rendah
+13,Mandi,147,2.0,rendah
+14,Membaca,147,2.0,rendah
+15,Karaoke,147,2.0,rendah
+16,Jahit,147,2.0,rendah
+17,Belajar,147,2.0,rendah
+18,Golf (Keranjang),147,2.0,rendah
+19,Bermain Musik,147,2.0,rendah
+20,Berjalan (Lambat) - 3 km/jam,147,2.0,rendah
+21,Berdiri,147,2.0,rendah
+22,Kerja,147,2.0,rendah
+23,Belanja,169,2.3,rendah
+24,Peregangan (Yoga),184,2.5,rendah
+25,Pekerjaan Rumah Tangga,184,2.5,rendah
+26,Menyetrika,220,3.0,rendah
+27,Berbelanja,220,3.0,rendah
+28,Sauna,220,3.0,rendah
+29,Cuci Piring,220,3.0,rendah
+30,Sepeda Motor Listrik,220,3.0,rendah
+31,Mencuci Pakaian,220,3.0,rendah
+32,Naik Sepeda Motor,220,3.0,rendah
+33,Yoga,220,3.0,rendah
+34,Wii Fit,220,3.0,sedang
+35,Penghisap Debu,220,3.0,sedang
+36,Memancing,220,3.0,sedang
+37,Perbaikan,220,3.0,sedang
+38,Cuci Mobil,220,3.0,sedang
+39,Berlayar,220,3.0,sedang
+40,Berselancar,220,3.0,sedang
+41,Pilates,228,3.1,sedang
+42,Berjalan (Sedang) - 5 km/jam,243,3.3,sedang
+43,Senam (Ringan),257,3.5,sedang
+44,"Berjalan (Latihan) - 5,5 km/jam",279,3.8,sedang
+45,Bersepeda (Santai) - <16 km/jam,294,4.0,sedang
+46,Menunggang Kuda,294,4.0,sedang
+47,Menyapu Daun,294,4.0,sedang
+48,Motor-Cross,294,4.0,sedang
+49,Golf (Berjalan),294,4.0,sedang
+50,Bowling,294,4.0,sedang
+51,Bola Voli,294,4.0,sedang
+52,Tari (Gerak Lambat),294,4.0,sedang
+53,Pekerjaan Kebun (Berkebun),294,4.0,sedang
+54,Tenis Meja (Ping Pong),294,4.0,sedang
+55,Bikram Yoga,294,4.0,sedang
+56,Panahan,294,4.0,sedang
+57,Berenang (Lambat),294,4.0,sedang
+58,Mengecat,368,5.0,sedang
+59,"Berjalan (Cepat) - 6,5 km/jam",368,5.0,sedang
+60,Skating - 16 km/jam,368,5.0,sedang
+61,Kriket,368,5.0,sedang
+62,Kayaking,368,5.0,sedang
+63,Hula Hoop,368,5.0,sedang
+64,Bulutangkis,368,5.0,sedang
+65,Tari (Tari Keseimbangan),368,5.0,sedang
+66,Bisbol (Baseball),368,5.0,sedang
+67,Softball,368,5.0,sedang
+68,Ski (Air),441,6.0,sedang
+69,"Tari (Gerak Cepat, Aerobik)",441,6.0,sedang
+70,Power Walking,441,6.0,sedang
+71,Pelatihan Sirkuit,441,6.0,sedang
+72,Olahraga Menggunakan Mesin (Lambat),441,6.0,sedang
+73,Trampoline,441,6.0,sedang
+74,Latihan Beban (Sedang),441,6.0,sedang
+75,Hiking,441,6.0,sedang
+76,Gym,441,6.0,sedang
+77,Bola Lantai (Floorball),441,6.0,sedang
+78,Bola Jaring (Netball),441,6.0,sedang
+79,Bersepeda (Lambat) - 18 km/jam,441,6.0,sedang
+80,Pole Dance,441,6.0,sedang
+81,Basket,441,6.0,sedang
+82,Aerobik,514,7.0,tinggi
+83,GRIT,514,7.0,tinggi
+84,HIIT,514,7.0,tinggi
+85,Insanity,514,7.0,tinggi
+86,Judo,514,7.0,tinggi
+87,Kangoo,514,7.0,tinggi
+88,Karate,514,7.0,tinggi
+89,Kickboxing,514,7.0,tinggi
+90,XCO,514,7.0,tinggi
+91,Naik Tangga (Stairs),514,7.0,tinggi
+92,P90X,514,7.0,tinggi
+93,Power Jump,514,7.0,tinggi
+94,RPM,514,7.0,tinggi
+95,Seni Bela Diri,514,7.0,tinggi
+96,Tae Bo,514,7.0,tinggi
+97,Taekwondo,514,7.0,tinggi
+98,TRX,514,7.0,tinggi
+99,VTT,514,7.0,tinggi
+100,Fitness (Workout),514,7.0,tinggi
+101,CX,514,7.0,tinggi
+102,Zumba,514,7.0,tinggi
+103,Crossfit,514,7.0,tinggi
+104,Curves,514,7.0,tinggi
+105,Ballet,514,7.0,tinggi
+106,Body Attack,514,7.0,tinggi
+107,Body Balance,514,7.0,tinggi
+108,Body Pump,514,7.0,tinggi
+109,Bersepeda,514,7.0,tinggi
+110,Body Combat,514,7.0,tinggi
+111,Berenang (Sedang),514,7.0,tinggi
+112,Cardio,514,7.0,tinggi
+113,Cross Training,514,7.0,tinggi
+114,Aerobik Air,514,7.0,tinggi
+115,Sepeda Mesin (Stationary Bike),588,8.0,tinggi
+116,Rugby,588,8.0,tinggi
+117,"Senam (Berat, Misalnya Push Up)",588,8.0,tinggi
+118,Sepak Bola,588,8.0,tinggi
+119,Rowing,588,8.0,tinggi
+120,Stepper,588,8.0,tinggi
+121,Squash atau Bola Tangan,588,8.0,tinggi
+122,Squats,588,8.0,tinggi
+123,Arc Trainer,588,8.0,tinggi
+124,Angkat Besi,588,8.0,tinggi
+125,Tenis,588,8.0,tinggi
+126,Treadmill,588,8.0,tinggi
+127,Air Climber,588,8.0,tinggi
+128,Vibration Plate,588,8.0,tinggi
+129,Spinning,588,8.0,tinggi
+130,Pendakian,588,8.0,tinggi
+131,Olahraga Menggunakan Mesin (Sedang),588,8.0,tinggi
+132,Berjalan (Jogging) - 8 km/jam,588,8.0,tinggi
+133,Daya Tahan Olahraga,588,8.0,tinggi
+134,Nordic Walking,588,8.0,tinggi
+135,Elliptical,588,8.0,tinggi
+136,Bola Tangan (Handball),588,8.0,tinggi
+137,Mountain Biking,588,8.0,tinggi
+138,Hoki,588,8.0,tinggi
+139,Latihan Perut,588,8.0,tinggi
+140,Hoki Es,588,8.0,tinggi
+141,Jumping Jacks,588,8.0,tinggi
+142,Bersepeda (Sedang) - 21 km/jam,588,8.0,tinggi
+143,Kettlebell,588,8.0,tinggi
+144,Padel,588,8.0,tinggi
+145,Lari - 10 km/jam,735,10.0,tinggi
+146,Badminton,735,10.0,tinggi
+147,Lompat Tali (Skipping),735,10.0,tinggi
+148,Berenang (Cepat),735,10.0,tinggi
+149,Bermain Roller Blade,735,10.0,tinggi
+150,Olahraga Menggunakan Mesin (Cepat),735,10.0,tinggi
+151,Bersepeda (Cepat) - 24 km/jam,735,10.0,tinggi
+152,Lari - 11 km/jam,845,11.5,tinggi
+153,Bersepeda (Sangat Cepat) - 28 km/jam,882,12.0,tinggi
+154,Lari - 13 km/jam,992,13.5,tinggi
+155,"Lari - 14,5 km/jam",1102,15.0,tinggi
+156,Lari - 16 km/jam,1176,16.0,tinggi
